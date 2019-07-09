@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_Energeticharpoon.label>金属箭头</Bullet_Energeticharpoon.label>
+
+  <Gun_Energeticharpoon.label>能量鱼叉</Gun_Energeticharpoon.label>
+  <Gun_Energeticharpoon.description>改进的鱼叉枪，射击金属箭，提供进一步加速的动能，提升致死效率。</Gun_Energeticharpoon.description>
+  <Gun_Energeticharpoon.tools.0.label>枪管</Gun_Energeticharpoon.tools.0.label>
+
+  <Bullet_TrashBomb.label>垃圾炸弹</Bullet_TrashBomb.label>
+
+  <Gun_TrashGun.label>垃圾枪</Gun_TrashGun.label>
+  <Gun_TrashGun.description>基于磁加速器的大型武器。它发射磁弹：铁球内有一个强大的磁铁，周围包裹着各种金属碎片，当击中目标时，它们以超高速向不同的方向散射。</Gun_TrashGun.description>
+  <Gun_TrashGun.tools.0.label>枪管</Gun_TrashGun.tools.0.label>
+
+
+  <!--<Gun_Energeticharpoon.tools.barrel.label>barrel</Gun_Energeticharpoon.tools.barrel.label>-->
+  <!--<Gun_Energeticharpoon.verbs.Verb_Shoot.label>Energetic harpoon</Gun_Energeticharpoon.verbs.Verb_Shoot.label>-->
+  <!--<Gun_TrashGun.tools.barrel.label>barrel</Gun_TrashGun.tools.barrel.label>-->
+  <!--<Gun_TrashGun.verbs.Verb_Shoot.label>trashGun</Gun_TrashGun.verbs.Verb_Shoot.label>-->
+
+</LanguageData>

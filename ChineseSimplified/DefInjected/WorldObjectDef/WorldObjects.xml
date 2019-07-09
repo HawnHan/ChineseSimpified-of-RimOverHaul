@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MassiveFireSite.label>火灾中心点</MassiveFireSite.label>
+  <MassiveFireSite.description>火灾中心点</MassiveFireSite.description>
+
+  <ClimateBombSite.label>气候炸弹位置</ClimateBombSite.label>
+  <ClimateBombSite.description>气候炸弹位置</ClimateBombSite.description>
+
+  <SiegeCampSite.label>围攻者基地</SiegeCampSite.label>
+  <SiegeCampSite.description>这是敌人营地。他们将轰炸我们的定居点并会发起突袭，直到我们将其摧毁。</SiegeCampSite.description>
+
+  <FriendlySettlementHelp.label>被袭友军基地</FriendlySettlementHelp.label>
+  <FriendlySettlementHelp.description>其敌对派系将在不久后袭击该基地，帮忙守住袭击，你会得到荣誉与奖赏。</FriendlySettlementHelp.description>
+
+  <DoomsdayUltimatumCamp.label>末日武器位置</DoomsdayUltimatumCamp.label>
+  <DoomsdayUltimatumCamp.description>这是拥有未知武器的派系所在地。</DoomsdayUltimatumCamp.description>
+
+
+</LanguageData>

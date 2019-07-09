@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MechanoidTeleport_Generator.label>桥门发电机</MechanoidTeleport_Generator.label>
+  <MechanoidTeleport_Generator.description>它看起来非常先进，可以产生足够的能量来维持一个远程出口。</MechanoidTeleport_Generator.description>
+
+  <MechanoidTeleport.label>机械式传送装置</MechanoidTeleport.label>
+  <MechanoidTeleport.description>在空间中产生虫洞，由发电机产生。让机械体从另一边没有障碍地到达。</MechanoidTeleport.description>
+
+  <HiveCrack.label>蜂房颤音</HiveCrack.label>
+  <HiveCrack.description>洞穴甲虫的通道，这些可恶生物通过这个通道源源不断的过来。</HiveCrack.description>
+
+  <OpenableContainer.label>未知容器</OpenableContainer.label>
+  <OpenableContainer.description>含有未知资源的容器</OpenableContainer.description>
+
+  <ClimatBomb.label>气候炸弹</ClimatBomb.label>
+  <ClimatBomb.description>一个巨大的设备，其中间有一个未知神器。启动会产生巨大能量，一部分会逸向天空。这会导致启动区域的天气极度剧变的情况。</ClimatBomb.description>
+
+
+</LanguageData>

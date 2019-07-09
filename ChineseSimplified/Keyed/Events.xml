@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Supernova_label>超新星爆炸</Supernova_label>
+  <SupernovaExp_low>在几十万光年远的地方，发生了一次超新星爆炸。它不会造成伤害，但会让你看到美丽的风景。</SupernovaExp_low>
+  <SupernovaExp_medium>在几万光年之外，发生了一次超新星爆炸。预计会有小流星雨，气温会升高。</SupernovaExp_medium>
+  <SupernovaExp_high>在几千光年远的地方，发生了一次超新星爆炸。预计会有大量流星雨，气温上升很强，一天很长。</SupernovaExp_high>
+  <SupernovaExp_ultra>在几百光年远的地方，发生了一次超新星爆炸。会造成很恶劣的影响，温度将巨幅升高，勇敢面对吧。</SupernovaExp_ultra>
+
+  <HiveCreaturesCount>因素：</HiveCreaturesCount>
+  <HiveLevel>等级：</HiveLevel>
+
+  <ShipCargo_Food_ExpandLabel>飞船残骸</ShipCargo_Food_ExpandLabel>
+  <ShipCargo_Food_Description>飞船货物残骸</ShipCargo_Food_Description>
+  <ShipSite_LeaveCommandLabel>离开</ShipSite_LeaveCommandLabel>
+  <ShipSite_LeaveCommandDesc>重组远征队并离开</ShipSite_LeaveCommandDesc>
+  <CaravanEnteredShipCrash>远征队已到达</CaravanEnteredShipCrash>
+
+  <ShipCargo_Mining_ExpandLabel>飞船残骸</ShipCargo_Mining_ExpandLabel>
+  <ShipCargo_Mining_Description>飞船货物残骸</ShipCargo_Mining_Description>
+
+  <ShipPartTimeout>\n残骸在此天数后可能被其他派系洗劫一空:</ShipPartTimeout>
+
+  <ShipCargo_Complex_ExpandLabel>飞船残骸</ShipCargo_Complex_ExpandLabel>
+  <ShipCargo_Complex_Description>飞船货物残骸</ShipCargo_Complex_Description>
+
+  <EnemyOnTheMap>该地图上仍有敌人。现在无法重组远征队。</EnemyOnTheMap>
+
+  <Ship_Living_ExpandLabel>飞船残骸</Ship_Living_ExpandLabel>
+  <Ship_Living_Description>飞船货物残骸</Ship_Living_Description>
+
+  <Ship_Armory_ExpandLabel>飞船残骸</Ship_Armory_ExpandLabel>
+  <Ship_Armory_Description>飞船货物残骸</Ship_Armory_Description>
+
+  <FireSpreadIs>火灾在此天数后将强化蔓延：</FireSpreadIs>
+  <CaravanEnteredMassiveFire>远征队已到达</CaravanEnteredMassiveFire>
+
+  <DetonationIn>于此天数后自动爆炸:</DetonationIn>
+  <DisarmingProgress>拆除炸弹进度: </DisarmingProgress>
+  <DisarmAction>开始拆除炸弹</DisarmAction>
+  <SuccessDisarming>炸弹已清除</SuccessDisarming>
+  <SuccessDisarmingDesc>气候炸弹已成功清除。在拆除过程中，你发现了一个似乎是能源供应的核心组件。
+  你的殖民者可以将其带走，有了它，你可以创造一种新的供能设备。</SuccessDisarmingDesc>
+  <BombDisarmed>炸弹拆除了</BombDisarmed>
+  <DefusingInfo>尝试拆除炸弹\n\n你的殖民者报告说，尝试拆除炸弹可能会导致其他派系的人到来开展炸弹防守战。\n\n准备战斗！</DefusingInfo>
+
+  <Earthshake>地震结束了</Earthshake>
+  <EarthshakeDesc>这场地震结束了。地震强度：</EarthshakeDesc>
+
+  <ZeroPointReactorDestablished>零点反应堆不稳定</ZeroPointReactorDestablished>
+  <ZeroPointReactorDestablishedDesc>零点反应堆不稳定，即将失效。其核心组件真空泵吸住了最近的角色！小心！</ZeroPointReactorDestablishedDesc>
+  <ZPRNeedMorePumps>\n- 需要真空泵: </ZPRNeedMorePumps>
+  <ZPRWorking>激活。</ZPRWorking>
+  <ZPRNoActiveLabel>等待启动:</ZPRNoActiveLabel>
+  <ZPRHasRoofs>\n- 需要屋顶</ZPRHasRoofs>
+  <ZPRNeedRoom>\n- 需要密闭房间</ZPRNeedRoom>
+
+  <SiegeCampUpdateTimer>经此天数后升级：</SiegeCampUpdateTimer>
+  <SiegeCampLevel>\n基地难度：</SiegeCampLevel>
+  <YourAttackWasRepelledTitle>你的进攻失败了</YourAttackWasRepelledTitle>
+  <YourAttackWasRepelledDesc>你对围攻者基地的进攻失败了。他们会考虑他们在防御上的不足，并且可能会重建防线。尚存的殖民者也许死了，也许被贩卖了。</YourAttackWasRepelledDesc>
+
+  <AttackIsNotRepelled>你现在还不能离开。敌袭尚未结束。</AttackIsNotRepelled>
+  <TimerDaysToAttack>{0}天后被袭击</TimerDaysToAttack>
+  <ThreatLevel>\n袭击强度: {0}</ThreatLevel>
+  <AttackFriendlySettlementLetter1>来自 {0} 盟友的侦察员报告，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。不幸的是，袭击强度尚不清楚。
+（要帮助盟友基地，请组建远征队到达敌袭基地并击退敌袭。）</AttackFriendlySettlementLetter1>
+  <AttackFriendlySettlementLetter2>来自 {0} 盟友的侦察员报告，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。袭击强度：{1}
+（要帮助盟友基地，请组建远征队到达敌袭基地并击退敌袭。）</AttackFriendlySettlementLetter2>
+  <AttackedFriendlySettlementDefendHelp>你的远征队已到达目的地。组建防线，盟友基地中的殖民者可任由你调配。但请你记住，你需要尽可能的保全他们的性命。
+</AttackedFriendlySettlementDefendHelp>
+  <AttackedFriendlySettlementDefendVictory>你守住了敌袭。\n{0} 感谢你。你一共挽救了 {1} 个盟友的生命，因此你得到了以下报酬：\n {2} \n\n物品在盟军基地中。你可以在组建远征队或在其他时间将其带走。</AttackedFriendlySettlementDefendVictory>
+  <AttackedFriendlySettlementDefendLoseWithHelp>你击退了敌袭，但你没有保住哪怕一名盟友。\n因此没有人可以给予你报酬，且该基地被摧毁了。
+</AttackedFriendlySettlementDefendLoseWithHelp>
+  <AttackedFriendlySettlementLoseWithoutHelp>你未能帮助 {0} 防御敌袭，你的声誉下降了。</AttackedFriendlySettlementLoseWithoutHelp>
+  <RaidStartDefendTitle>袭击开始了!</RaidStartDefendTitle>
+  <RaidStartDefend>敌人正在突进，做好准备！</RaidStartDefend>
+
+  <EnergyChargeCapacity>充能: {0} / {1}</EnergyChargeCapacity>
+  <InactiveNoHelmet>\n未激活，缺少头盔</InactiveNoHelmet>
+  <InactiveMk1>未激活</InactiveMk1>
+  <EnergyChargeCapacity2>电量</EnergyChargeCapacity2>
+  <Station>基站</Station>
+  <UnloadArmor>从基站取下动力甲</UnloadArmor>
+  <LoadArmor>将动力甲拿到基站</LoadArmor>
+  <NoAvaliableArmors>无可用动力甲</NoAvaliableArmors>
+  <NotEnoughSpace>没有足够的空间给动力甲。请在基站周围留出更多空间。</NotEnoughSpace>
+  <NoArmorInStation>基站未运作。缺少动力甲。</NoArmorInStation>
+  <CoreType>核心</CoreType>
+  <ChargeSpeed>充能速度: {0}</ChargeSpeed>
+  <EnabledCharging>基站运作：充能中</EnabledCharging>
+  <FullCharge>达到核心容量上限</FullCharge>
+  <NoPowerRightNow>没电</NoPowerRightNow>
+  <NoCore>缺少核心</NoCore>
+  <NoAvaliableCores>未激活任何核心</NoAvaliableCores>
+  <ColdFusionCore>微型冷核聚变反应堆</ColdFusionCore>
+  <ArcReactorCore>微型电弧反应堆</ArcReactorCore>
+
+  <WeaponDeactivated>末日武器仍处于激活状态</WeaponDeactivated>
+  <PlanetWillBeDestroyed>星球将会毁灭，倒计时（天）：</PlanetWillBeDestroyed>
+  <PlayerSilverCount>你的白银：{0}</PlayerSilverCount>
+  <FactionGift>其他派系的白银：{0}</FactionGift>
+  <GiveRansom>支付赎金</GiveRansom>
+  <NotEnoughSilverDoom>支付赎金[ 白银不足 ]</NotEnoughSilverDoom>
+  <PaidSuccessDoom>赎金已付</PaidSuccessDoom>
+  <RansomCompleteTitle>赎金已付</RansomCompleteTitle>
+  <RansomComplete>敌军首领在无线电中肆意大笑。因为不管如何，他们都不会歼星。笑声逐渐远去，你看到他们如何远远的逃离了临时驻地。但这或许不是结束。</RansomComplete>
+  <PlanetDestroyed>在场所有人的耳朵都因这不合常理的巨大声响竖起来。这种轰鸣像极了炸弹爆炸，闪耀的光芒又像新星的诞生。整颗星球都开始晃动，倒霉的目睹者们陷入了无尽的深渊，周围充满了绝望而疯狂的哭泣。在每个人的脸上，恐惧的表情如冻结般凝固，眼里反射出来的是满满的星球血液——岩浆。\n\n末日机器发射出夺目光柱，这这不仅仅标志着你的殖民地的终结，同时也是这个星球的：毁灭风暴带走了所有的拯救希望。太阳辐射波席卷了整个星球表面，于每一处裂缝中炸裂。残存的世界碎片在往后很长一段时间里都在提醒着后代，人类才是最大的毁灭者。\n\n甚至连最杰出的作家也无法用文字描述出你现居地的情况，但如果他着手开始这个注定失败的任务，那么他一定不会使用这个词来形容——“天堂”。
+</PlanetDestroyed>
+  <ArsonOut>纵火犯们离开了</ArsonOut>
+
+  <DoomsdayEnterSiteHelp>你必须到达那个藏着末日武器的敌军基地。务必找到它，将其断电并摧毁，但首先，你要做的是清除该基地。</DoomsdayEnterSiteHelp>
+  <DeEnergizedStatus>屏障级别：{0}</DeEnergizedStatus>
+  <ShildsOffDommsdayTitle>能量屏障失效</ShildsOffDommsdayTitle>
+  <DeactiveEnergyShieldDoom>关闭能量屏障</DeactiveEnergyShieldDoom>
+  <ShildsOffDommsday>你可以关闭能量屏障保护装置。现在，你需要关闭保护系统以保护地图不被摧毁。</ShildsOffDommsday>
+  <SecurityNonActiveDoomsday>\n安全系统：未运行</SecurityNonActiveDoomsday>
+  <SecurityActiveDoomsday>\n安全系统：运行中</SecurityActiveDoomsday>
+  <DisableSecuritySystems>关闭安全系统</DisableSecuritySystems>
+  <DoomsdayContrAttackTitle>反击</DoomsdayContrAttackTitle>
+  <DoomsdayContrAttack>他们开始反击！</DoomsdayContrAttack>
+
+  <HelpCommand>显示命令帮助</HelpCommand>
+  <ClearCommand>清空通讯台</ClearCommand>
+
+  <DoomsdatTerminal_SecurityCommand>进入安全系统</DoomsdatTerminal_SecurityCommand>
+  <DoomsdayTerminal_UsersCommand>管理员系统</DoomsdayTerminal_UsersCommand>
+  <DoomsdayTerminal_AddNewUsers>--> 添加新用户: /users add *username* *password*</DoomsdayTerminal_AddNewUsers>
+  <DoomsdayTerminal_RemoveUsers>--> 删除用户: /users delete *username* *password*</DoomsdayTerminal_RemoveUsers>
+  <DoomsdayTerminal_NoAccess>禁止访问</DoomsdayTerminal_NoAccess>
+  <DoomsdayTerminal_WrongArguments>无效命令</DoomsdayTerminal_WrongArguments>
+  <DoomsdayTerminal_WrongPassword>密码错误</DoomsdayTerminal_WrongPassword>
+  <DoomsdayTerminal_LoginCommand>登陆，格式: /login *username* *password*</DoomsdayTerminal_LoginCommand>
+  <DoomsdayTerminal_LogginSuccess>你以 {0} 的身份登陆了</DoomsdayTerminal_LogginSuccess>
+  <DoomsdayTerminal_LogginFail>尝试登陆失败。请检查用户名和密码。</DoomsdayTerminal_LogginFail>
+  <DoomsdayTerminal_ActiveUsers>活动用户:</DoomsdayTerminal_ActiveUsers>
+  <DoomsdayTerminal_LogoutCommand>注销</DoomsdayTerminal_LogoutCommand>
+  <DoomsdayTerminal_LoginFirst>请先登录</DoomsdayTerminal_LoginFirst>
+  <DoomsdayTerminal_LogoutOk>你已成功注销你的账户。</DoomsdayTerminal_LogoutOk>
+  <DoomsdayTerminal_HackUsers>%^3插入命令... !#%1@5)(26w\n想要使用骇客工具1.0，请运行 /users hack</DoomsdayTerminal_HackUsers>
+  <DoomsdayTerminal_UsersHack>正在激活骇客工具1.0\n激活成功。\n查找漏洞中...找到一封管理员的电子邮件。
+解密电子邮件中...
+
+寄件人: ExFeral
+收件人: AktunOba
+
+老板似乎仍然坚持使用末日武器进行敲诈。
+见鬼，他想要把这个世界炸了。
+当然了，我并不讨厌成堆的白银，但我也住在这星球上！我试过劝他手段温柔点，但似乎成千上万的白银已经让他癫狂。
+我希望避免武器突然过热的情况，但我不能就这样直接留下密码。
+我简单的留下了一个谜语，就是我跟你说过很多次的那个，我认为这对你来说没有难度。用谜底来登陆Fernal这个账户。
+当你进入一个黑暗的厨房后，内有一根蜡烛(candle)，一盏煤油灯(kerosene lamp)和一个煤气灶(gas stove)。你会先点着什么？</DoomsdayTerminal_UsersHack>
+  <DoomsdayTerminal_UsersHackAnser>Match</DoomsdayTerminal_UsersHackAnser>
+  <DoomsdayTerminal_AlreadyLogged>你早已登陆了。请使用 /logout 登出。</DoomsdayTerminal_AlreadyLogged>
+  <DoomsdayTerminal_SecurityFirst>输入安全密码以登录，格式 /security *password*
+*(5$#LKki*6 骇客工具1.0 --> 内存转存命令 /security dump ^I21%$$*1%p0rfgw
+  </DoomsdayTerminal_SecurityFirst>
+  <DoomsdayTerminal_HackToolsSecurity>
+注入骇客工具
+--> 元数据注入完成
+--> 内存注入完成
+--> 内存转存...</DoomsdayTerminal_HackToolsSecurity>
+  <DoomsdayTerminal_SecurityAccessGranted>允许访问安全系统。
+命令：
+关闭安全系统 --> /security disable
+进入安全系统能源管理界面 --> /security energy
+</DoomsdayTerminal_SecurityAccessGranted>
+  <DoomsdayTerminal_SecurityNoPower>电源已关闭，无法停用保护系统。</DoomsdayTerminal_SecurityNoPower>
+  <DoomsdayTerminal_SecurityPowerOk>电源开启。</DoomsdayTerminal_SecurityPowerOk>
+  <DoomsdayTerminal_SecurityPowerInfoPassive>欢迎进入能源管理界面。
+ 
+-->能量屏障：未启用
+-->电源情况：关
+
+RETROS RBIOS-4.02.000 T2EE5/E7.E8
+Root (5A8)
+
+当前处于被动模式，想禁用请运行--> /security energy activemode</DoomsdayTerminal_SecurityPowerInfoPassive>
+  <DoomsdayTerminal_ActiveModeEnable>激活主动模式...
+
+ExplasaSystems 5.3 (BG/SS5 FastUse 13.2)
+Energy RETROS RBIOS-4.02.000 T2EE5/E7.E8
+...
+...
+正在初始化用户模式...
+正在激活内部系统...
+系统已运行。
+
+
+当前处于主动模式</DoomsdayTerminal_ActiveModeEnable>
+
+  <DoomsdayTerminal_SecurityPowerInfoActive>欢迎进入能源管理界面。
+ 
+-->能量屏障：未启用
+-->电源情况：关
+
+RETROS RBIOS-4.02.000 T2EE5/E7.E8
+Root (5A8)
+
+当前处于主动模式
+可用命令：
+进入能量屏障管理界面--> /security energy shields
+开启安全系统能源--> /security energy on</DoomsdayTerminal_SecurityPowerInfoActive>
+  <DoomsdayTerminal_ActiveModeReq>处于被动模式时不可用</DoomsdayTerminal_ActiveModeReq>
+  <DoomsdayTerminal_ShieldsOff>能量屏障系统的控制已禁用</DoomsdayTerminal_ShieldsOff>
+  <DoomsdayTerminal_PowerActivating>切换磁敏电阻器 --> 完成\n重定向能量开关到控制杆 --> 完成</DoomsdayTerminal_PowerActivating>
+  <DoomsdayTerminal_SecurityDisabled>关闭安全系统中 --> 完成</DoomsdayTerminal_SecurityDisabled>
+  <SecurityDoomsdayOffTitle>系统已关闭</SecurityDoomsdayOffTitle>
+  <SecurityDoomsdayOff>你在时限内禁用了末日武器的安全系统。现在，你可以安全的毁掉它了。</SecurityDoomsdayOff>
+
+</LanguageData>

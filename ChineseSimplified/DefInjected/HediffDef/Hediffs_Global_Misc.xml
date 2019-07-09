@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Irradiation.label>辐射照射</Irradiation.label>
+  <Irradiation.stages.0.label>最初的</Irradiation.stages.0.label>
+  <Irradiation.stages.1.label>最初的</Irradiation.stages.1.label>
+  <Irradiation.stages.2.label>少量的</Irradiation.stages.2.label>
+  <Irradiation.stages.3.label>中等的</Irradiation.stages.3.label>
+  <Irradiation.stages.4.label>严重的</Irradiation.stages.4.label>
+  <Irradiation.stages.5.label>极端的</Irradiation.stages.5.label>
+
+  <OxygenStarvation.label>缺氧</OxygenStarvation.label>
+  <OxygenStarvation.stages.0.label>最初的</OxygenStarvation.stages.0.label>
+  <OxygenStarvation.stages.1.label>最初的</OxygenStarvation.stages.1.label>
+  <OxygenStarvation.stages.2.label>少量的</OxygenStarvation.stages.2.label>
+  <OxygenStarvation.stages.3.label>中等的</OxygenStarvation.stages.3.label>
+  <OxygenStarvation.stages.4.label>严重的</OxygenStarvation.stages.4.label>
+  <OxygenStarvation.stages.5.label>极端的</OxygenStarvation.stages.5.label>
+
+  <Fibrodysplasia.label>纤维发育不良</Fibrodysplasia.label>
+  <Fibrodysplasia.stages.0.label>少量的</Fibrodysplasia.stages.0.label>
+  <Fibrodysplasia.stages.1.label>容易的</Fibrodysplasia.stages.1.label>
+  <Fibrodysplasia.stages.2.label>中等的</Fibrodysplasia.stages.2.label>
+  <Fibrodysplasia.stages.3.label>坚硬的</Fibrodysplasia.stages.3.label>
+  <Fibrodysplasia.stages.4.label>超硬的</Fibrodysplasia.stages.4.label>
+
+  <NeurofibromatousWorms.label>神经纤维瘤蠕虫</NeurofibromatousWorms.label>
+  <NeurofibromatousWorms.stages.0.label>容易的</NeurofibromatousWorms.stages.0.label>
+
+  <NeurofibromatousWormsFinal.label>神经纤维瘤蠕虫（死脑阶段）</NeurofibromatousWormsFinal.label>
+  <CaveBettleBuff.label>夜狩</CaveBettleBuff.label>
+  <ThirstHumanMeat.label>人肉渴求</ThirstHumanMeat.label>
+
+
+  <!--<Irradiation.stages.initial-0.label>inconspicuous</Irradiation.stages.initial-0.label>-->
+  <!--<Irradiation.stages.initial-1.label>initial</Irradiation.stages.initial-1.label>-->
+  <!--<Irradiation.stages.minor.label>easy</Irradiation.stages.minor.label>-->
+  <!--<Irradiation.stages.moderate.label>average</Irradiation.stages.moderate.label>-->
+  <!--<Irradiation.stages.serious.label>serious</Irradiation.stages.serious.label>-->
+  <!--<Irradiation.stages.extreme.label>extreme</Irradiation.stages.extreme.label>-->
+  <!--<OxygenStarvation.stages.initial-0.label>inconspicuous</OxygenStarvation.stages.initial-0.label>-->
+  <!--<OxygenStarvation.stages.initial-1.label>initial</OxygenStarvation.stages.initial-1.label>-->
+  <!--<OxygenStarvation.stages.minor.label>easy</OxygenStarvation.stages.minor.label>-->
+  <!--<OxygenStarvation.stages.moderate.label>average</OxygenStarvation.stages.moderate.label>-->
+  <!--<OxygenStarvation.stages.serious.label>serious</OxygenStarvation.stages.serious.label>-->
+  <!--<OxygenStarvation.stages.extreme.label>extreme</OxygenStarvation.stages.extreme.label>-->
+  <!--<FrostLungs.label>Chilblains</FrostLungs.label>-->
+  <!--<FrostLungs.stages.minor.label>easy</FrostLungs.stages.minor.label>-->
+  <!--<FrostLungs.stages.major.label>average</FrostLungs.stages.major.label>-->
+  <!--<FrostLungs.stages.extreme.label>extreme</FrostLungs.stages.extreme.label>-->
+  <!--<Fibrodysplasia.stages.minor.label>light skin</Fibrodysplasia.stages.minor.label>-->
+  <!--<Fibrodysplasia.stages.easy.label>skin destruction</Fibrodysplasia.stages.easy.label>-->
+  <!--<Fibrodysplasia.stages.medium.label>deep penetration</Fibrodysplasia.stages.medium.label>-->
+  <!--<Fibrodysplasia.stages.hard.label>deadening of internal tissues</Fibrodysplasia.stages.hard.label>-->
+  <!--<Fibrodysplasia.stages.ultrahard.label>destruction of the body part</Fibrodysplasia.stages.ultrahard.label>-->
+  <!--<NeurofibromatousWorms.stages.easy.label>internal lesion</NeurofibromatousWorms.stages.easy.label>-->
+  <!--<CaveBettleBuff.stages.easy.label></CaveBettleBuff.stages.easy.label>-->
+
+</LanguageData>

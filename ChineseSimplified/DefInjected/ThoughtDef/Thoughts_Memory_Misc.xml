@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Состояние: Прекрасный вид -->
+
+  <AwesomeSight.stages.0.label>奇景</AwesomeSight.stages.0.label>
+  <AwesomeSight.stages.0.description>奇景</AwesomeSight.stages.0.description>
+
+
+  <!-- Состояние: Заряд позитива -->
+
+  <PositiveCharge.stages.0.label>正能量</PositiveCharge.stages.0.label>
+  <PositiveCharge.stages.0.description>丧气是弱者才会有的表现。我已准备好面对任何困难，情绪无法击倒我！</PositiveCharge.stages.0.description>
+
+
+  <!--<AwesomeSight.stages.Awesome_Sight.label>Awesome Sight</AwesomeSight.stages.Awesome_Sight.label>-->
+  <!--<AwesomeSight.stages.Awesome_Sight.description>Supernova explosion looks awesome! I want to admire all day.</AwesomeSight.stages.Awesome_Sight.description>-->
+
+</LanguageData>

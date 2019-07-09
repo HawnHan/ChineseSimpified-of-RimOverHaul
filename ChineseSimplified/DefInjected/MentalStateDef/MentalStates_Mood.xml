@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PositiveCharge.label>正能量</PositiveCharge.label>
+  <PositiveCharge.beginLetter>{0} 感觉自己能正确处理任何问题，不想再次失去信心了。</PositiveCharge.beginLetter>
+  <PositiveCharge.recoveryMessage></PositiveCharge.recoveryMessage>
+  <PositiveCharge.baseInspectLine>精神状态：正能量</PositiveCharge.baseInspectLine>
+
+
+</LanguageData>

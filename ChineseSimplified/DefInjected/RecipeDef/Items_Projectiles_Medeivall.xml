@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_CatapultProjectile.label>制作投石车弹药</Make_CatapultProjectile.label>
+  <Make_CatapultProjectile.description>制造投石车的弹药</Make_CatapultProjectile.description>
+  <Make_CatapultProjectile.jobString>正在制造投石车的弹药</Make_CatapultProjectile.jobString>
+
+  <Make_BallistaProjectile.label>制作弩炮弹药</Make_BallistaProjectile.label>
+  <Make_BallistaProjectile.description>制作弩炮的弹药</Make_BallistaProjectile.description>
+  <Make_BallistaProjectile.jobString>正在制作弩炮的弹药</Make_BallistaProjectile.jobString>
+
+
+</LanguageData>

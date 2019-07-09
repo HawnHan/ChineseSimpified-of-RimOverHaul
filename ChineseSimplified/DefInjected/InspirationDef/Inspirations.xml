@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Constellations_Frenzy_Shooting.label>射手座祝福</Constellations_Frenzy_Shooting.label>
+  <Constellations_Frenzy_Shooting.beginLetter>[PAWN_nameIndef] 提升了射击能力。</Constellations_Frenzy_Shooting.beginLetter>
+  <Constellations_Frenzy_Shooting.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Shooting.endMessage>
+  <Constellations_Frenzy_Shooting.baseInspectLine>星座祝福</Constellations_Frenzy_Shooting.baseInspectLine>
+
+  <Constellations_Frenzy_Melee.label>武仙座祝福</Constellations_Frenzy_Melee.label>
+  <Constellations_Frenzy_Melee.beginLetter>[PAWN_nameIndef] 提升了格斗能力。</Constellations_Frenzy_Melee.beginLetter>
+  <Constellations_Frenzy_Melee.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Melee.endMessage>
+  <Constellations_Frenzy_Melee.baseInspectLine>星座祝福</Constellations_Frenzy_Melee.baseInspectLine>
+
+  <Constellations_Frenzy_Build.label>矩尺座祝福</Constellations_Frenzy_Build.label>
+  <Constellations_Frenzy_Build.beginLetter>[PAWN_nameIndef] 提升了建造能力。</Constellations_Frenzy_Build.beginLetter>
+  <Constellations_Frenzy_Build.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Build.endMessage>
+  <Constellations_Frenzy_Build.baseInspectLine>星座祝福</Constellations_Frenzy_Build.baseInspectLine>
+
+  <Constellations_Frenzy_Art.label>绘架座祝福</Constellations_Frenzy_Art.label>
+  <Constellations_Frenzy_Art.beginLetter>[PAWN_nameIndef] 提升了艺术能力。</Constellations_Frenzy_Art.beginLetter>
+  <Constellations_Frenzy_Art.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Art.endMessage>
+  <Constellations_Frenzy_Art.baseInspectLine>星座祝福</Constellations_Frenzy_Art.baseInspectLine>
+
+  <Constellations_Frenzy_Animals.label>大犬座祝福</Constellations_Frenzy_Animals.label>
+  <Constellations_Frenzy_Animals.beginLetter>[PAWN_nameIndef] 提升了驯兽能力。</Constellations_Frenzy_Animals.beginLetter>
+  <Constellations_Frenzy_Animals.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Animals.endMessage>
+  <Constellations_Frenzy_Animals.baseInspectLine>星座祝福</Constellations_Frenzy_Animals.baseInspectLine>
+
+  <Constellations_Frenzy_Plant.label>牧夫座祝福</Constellations_Frenzy_Plant.label>
+  <Constellations_Frenzy_Plant.beginLetter>[PAWN_nameIndef] 提升了种植能力。</Constellations_Frenzy_Plant.beginLetter>
+  <Constellations_Frenzy_Plant.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Plant.endMessage>
+  <Constellations_Frenzy_Plant.baseInspectLine>星座祝福</Constellations_Frenzy_Plant.baseInspectLine>
+
+  <Constellations_Frenzy_Social.label>海豚座祝福</Constellations_Frenzy_Social.label>
+  <Constellations_Frenzy_Social.beginLetter>[PAWN_nameIndef] 提升了社交能力。</Constellations_Frenzy_Social.beginLetter>
+  <Constellations_Frenzy_Social.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Social.endMessage>
+  <Constellations_Frenzy_Social.baseInspectLine>星座祝福</Constellations_Frenzy_Social.baseInspectLine>
+
+  <Constellations_Frenzy_Craft.label>御夫座祝福</Constellations_Frenzy_Craft.label>
+  <Constellations_Frenzy_Craft.beginLetter>[PAWN_nameIndef] 提升了手工能力。</Constellations_Frenzy_Craft.beginLetter>
+  <Constellations_Frenzy_Craft.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Craft.endMessage>
+  <Constellations_Frenzy_Craft.baseInspectLine>星座祝福</Constellations_Frenzy_Craft.baseInspectLine>
+
+  <Constellations_Frenzy_Mining.label>山案座祝福</Constellations_Frenzy_Mining.label>
+  <Constellations_Frenzy_Mining.beginLetter>[PAWN_nameIndef] 提升了采矿能力。</Constellations_Frenzy_Mining.beginLetter>
+  <Constellations_Frenzy_Mining.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Mining.endMessage>
+  <Constellations_Frenzy_Mining.baseInspectLine>星座祝福</Constellations_Frenzy_Mining.baseInspectLine>
+
+  <Constellations_Frenzy_Cooking.label>巨爵座祝福</Constellations_Frenzy_Cooking.label>
+  <Constellations_Frenzy_Cooking.beginLetter>[PAWN_nameIndef] 提升了烹饪能力。</Constellations_Frenzy_Cooking.beginLetter>
+  <Constellations_Frenzy_Cooking.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Cooking.endMessage>
+  <Constellations_Frenzy_Cooking.baseInspectLine>星座祝福</Constellations_Frenzy_Cooking.baseInspectLine>
+
+  <Constellations_Frenzy_Medicine.label>蛇夫座祝福</Constellations_Frenzy_Medicine.label>
+  <Constellations_Frenzy_Medicine.beginLetter>[PAWN_nameIndef] 提升了医疗能力。</Constellations_Frenzy_Medicine.beginLetter>
+  <Constellations_Frenzy_Medicine.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Medicine.endMessage>
+  <Constellations_Frenzy_Medicine.baseInspectLine>星座祝福</Constellations_Frenzy_Medicine.baseInspectLine>
+
+  <Constellations_Frenzy_Intellectual.label>天鹰座祝福</Constellations_Frenzy_Intellectual.label>
+  <Constellations_Frenzy_Intellectual.beginLetter>[PAWN_nameIndef] 提升了智识能力。</Constellations_Frenzy_Intellectual.beginLetter>
+  <Constellations_Frenzy_Intellectual.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Intellectual.endMessage>
+  <Constellations_Frenzy_Intellectual.baseInspectLine>星座祝福</Constellations_Frenzy_Intellectual.baseInspectLine>
+
+  <Constellations_Frenzy_Shield.label>盾牌座诅咒</Constellations_Frenzy_Shield.label>
+  <Constellations_Frenzy_Shield.beginLetter>[PAWN_nameIndef] 格斗能力降低了。</Constellations_Frenzy_Shield.beginLetter>
+  <Constellations_Frenzy_Shield.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Shield.endMessage>
+  <Constellations_Frenzy_Shield.baseInspectLine>星座诅咒</Constellations_Frenzy_Shield.baseInspectLine>
+
+  <Constellations_Frenzy_Lynx.label>天猫座诅咒</Constellations_Frenzy_Lynx.label>
+  <Constellations_Frenzy_Lynx.beginLetter>[PAWN_nameIndef] 射击能力降低了。</Constellations_Frenzy_Lynx.beginLetter>
+  <Constellations_Frenzy_Lynx.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Lynx.endMessage>
+  <Constellations_Frenzy_Lynx.baseInspectLine>星座诅咒</Constellations_Frenzy_Lynx.baseInspectLine>
+
+  <Constellations_Frenzy_Triangle.label>三角座诅咒</Constellations_Frenzy_Triangle.label>
+  <Constellations_Frenzy_Triangle.beginLetter>[PAWN_nameIndef] 建造速度降低了。</Constellations_Frenzy_Triangle.beginLetter>
+  <Constellations_Frenzy_Triangle.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Triangle.endMessage>
+  <Constellations_Frenzy_Triangle.baseInspectLine>星座诅咒</Constellations_Frenzy_Triangle.baseInspectLine>
+
+  <Constellations_Frenzy_Clock.label>时钟座诅咒</Constellations_Frenzy_Clock.label>
+  <Constellations_Frenzy_Clock.beginLetter>[PAWN_nameIndef] 艺术能力降低了。</Constellations_Frenzy_Clock.beginLetter>
+  <Constellations_Frenzy_Clock.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Clock.endMessage>
+  <Constellations_Frenzy_Clock.baseInspectLine>星座诅咒</Constellations_Frenzy_Clock.baseInspectLine>
+
+  <Constellations_Frenzy_Hydra.label>长蛇座诅咒</Constellations_Frenzy_Hydra.label>
+  <Constellations_Frenzy_Hydra.beginLetter>[PAWN_nameIndef] 狩猎隐蔽性和驯服与训练动物几率降低了。</Constellations_Frenzy_Hydra.beginLetter>
+  <Constellations_Frenzy_Hydra.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Hydra.endMessage>
+  <Constellations_Frenzy_Hydra.baseInspectLine>星座诅咒</Constellations_Frenzy_Hydra.baseInspectLine>
+
+  <Constellations_Frenzy_Corvus.label>乌鸦座诅咒</Constellations_Frenzy_Corvus.label>
+  <Constellations_Frenzy_Corvus.beginLetter>[PAWN_nameIndef] 种植能力降低了。</Constellations_Frenzy_Corvus.beginLetter>
+  <Constellations_Frenzy_Corvus.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Corvus.endMessage>
+  <Constellations_Frenzy_Corvus.baseInspectLine>星座诅咒</Constellations_Frenzy_Corvus.baseInspectLine>
+
+  <Constellations_Frenzy_Indian.label>印第安座诅咒</Constellations_Frenzy_Indian.label>
+  <Constellations_Frenzy_Indian.beginLetter>[PAWN_nameIndef] 社交能力降低了。</Constellations_Frenzy_Indian.beginLetter>
+  <Constellations_Frenzy_Indian.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Indian.endMessage>
+  <Constellations_Frenzy_Indian.baseInspectLine>星座诅咒</Constellations_Frenzy_Indian.baseInspectLine>
+
+  <Constellations_Frenzy_Eridan.label>波江座诅咒</Constellations_Frenzy_Eridan.label>
+  <Constellations_Frenzy_Eridan.beginLetter>[PAWN_nameIndef] 全局学习速度与全局工作速度降低了。</Constellations_Frenzy_Eridan.beginLetter>
+  <Constellations_Frenzy_Eridan.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Eridan.endMessage>
+  <Constellations_Frenzy_Eridan.baseInspectLine>星座诅咒</Constellations_Frenzy_Eridan.baseInspectLine>
+
+  <Constellations_Frenzy_Taurus.label>金牛座诅咒</Constellations_Frenzy_Taurus.label>
+  <Constellations_Frenzy_Taurus.beginLetter>[PAWN_nameIndef] 全局学习速度与挖矿速度降低了。</Constellations_Frenzy_Taurus.beginLetter>
+  <Constellations_Frenzy_Taurus.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Taurus.endMessage>
+  <Constellations_Frenzy_Taurus.baseInspectLine>星座诅咒</Constellations_Frenzy_Taurus.baseInspectLine>
+
+  <Constellations_Frenzy_Coma.label>处女座诅咒</Constellations_Frenzy_Coma.label>
+  <Constellations_Frenzy_Coma.beginLetter>[PAWN_nameIndef] 进食降低与食物中毒几率提升。</Constellations_Frenzy_Coma.beginLetter>
+  <Constellations_Frenzy_Coma.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Coma.endMessage>
+  <Constellations_Frenzy_Coma.baseInspectLine>星座诅咒</Constellations_Frenzy_Coma.baseInspectLine>
+
+  <Constellations_Frenzy_Snake.label>水蛇座诅咒</Constellations_Frenzy_Snake.label>
+  <Constellations_Frenzy_Snake.beginLetter>[PAWN_nameIndef] 治疗速度与治疗质量降低了。</Constellations_Frenzy_Snake.beginLetter>
+  <Constellations_Frenzy_Snake.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Snake.endMessage>
+  <Constellations_Frenzy_Snake.baseInspectLine>星座诅咒</Constellations_Frenzy_Snake.baseInspectLine>
+
+  <Constellations_Frenzy_Octans.label>南极座诅咒</Constellations_Frenzy_Octans.label>
+  <Constellations_Frenzy_Octans.beginLetter>[PAWN_nameIndef] 全局学习速度降低与精神崩溃阀值提升了。</Constellations_Frenzy_Octans.beginLetter>
+  <Constellations_Frenzy_Octans.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Octans.endMessage>
+  <Constellations_Frenzy_Octans.baseInspectLine>星座诅咒</Constellations_Frenzy_Octans.baseInspectLine>
+
+
+</LanguageData>

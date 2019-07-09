@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IncredibleSnowstorm.label>难以置信的暴风雪</IncredibleSnowstorm.label>
+  <IncredibleSnowstorm.description>风达到了前所未有的速度。移动几乎是不可能的。该天气状况下，你几乎什么都不能做。</IncredibleSnowstorm.description>
+
+  <HardFog.label>大雾</HardFog.label>
+  <HardFog.description>雾和重气体混合覆盖了该地区。雾气有毒，不要出去。</HardFog.description>
+
+  <Sandstorm.label>沙尘暴</Sandstorm.label>
+  <Sandstorm.description>沙子太多了。我看不见了！</Sandstorm.description>
+
+
+</LanguageData>

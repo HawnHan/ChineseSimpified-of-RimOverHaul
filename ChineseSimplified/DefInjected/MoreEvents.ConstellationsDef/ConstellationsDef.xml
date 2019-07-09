@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Constellation_Sagittarius.label>射手座</Constellation_Sagittarius.label>
+  <Constellation_Sagittarius.description>射手座在天空闪耀。这为射击手注入了勇气。具有这一特性的人感受到了力量涌动。</Constellation_Sagittarius.description>
+
+  <Constellation_Hercules.label>武仙座</Constellation_Hercules.label>
+  <Constellation_Hercules.description>武仙座在天空闪耀。这为战士们注入了勇气和自强之心。具有这一特性的人感受到了力量涌动。</Constellation_Hercules.description>
+
+  <Constellation_Build.label>矩尺座</Constellation_Build.label>
+  <Constellation_Build.description>矩尺座在天空闪耀。这为建造师注入了专业精神。具有这一特性的人感受到了力量涌动。</Constellation_Build.description>
+
+  <Constellation_Art.label>绘架座</Constellation_Art.label>
+  <Constellation_Art.description>绘架座在天空闪耀。这激发了艺术大师们的创造力。具有这一特性的人感受到了力量涌动。</Constellation_Art.description>
+
+  <Constellation_Animals.label>大犬座</Constellation_Animals.label>
+  <Constellation_Animals.description>大犬座在天空闪耀。这为驯兽师们注入了自信。具有这一特性的人感受到了力量涌动。</Constellation_Animals.description>
+
+  <Constellation_Plant.label>牧夫座</Constellation_Plant.label>
+  <Constellation_Plant.description>牧夫座在天空闪耀。这为你的农夫们注入了和睦的精神。具有这一特性的人感受到了力量涌动。</Constellation_Plant.description>
+
+  <Constellation_Social.label>海豚座</Constellation_Social.label>
+  <Constellation_Social.description>海豚座在天空闪耀。这激励了商人。具有这一特性的人感受到了力量涌动。</Constellation_Social.description>
+
+  <!--[Duplicated] <Constellation_Craft.label>Созвездие Кузница Гефеста</Constellation_Craft.label>-->
+  <!--[Duplicated] <Constellation_Craft.description>В небе воссияло созвездие Кузница Гефеста. Это событие зажигает азарт в глазах ваших ремесленников. Каждое существо ощущает прилив сил.</Constellation_Craft.description>-->
+
+  <Constellation_Mining.label>山案座</Constellation_Mining.label>
+  <Constellation_Mining.description>山案座在天空闪耀。这照亮了矿工们的世界。具有这一特性的人感受到了力量涌动。</Constellation_Mining.description>
+
+  <Constellation_Craft.label>御夫座</Constellation_Craft.label>
+  <Constellation_Craft.description>御夫座在天空闪耀。这燃起了艺术家们的激情。具有这一特性的人感受到了力量涌动。</Constellation_Craft.description>
+
+  <Constellation_Cooking.label>巨爵座</Constellation_Cooking.label>
+  <Constellation_Cooking.description>巨爵座在天空闪耀。这为厨师们打开了烹饪秘籍。具有这一特性的人感受到了力量涌动。</Constellation_Cooking.description>
+
+  <Constellation_Medicine.label>蛇夫座</Constellation_Medicine.label>
+  <Constellation_Medicine.description>蛇夫座在天空闪耀。这为医生们揭露了医术奥秘。具有这一特性的人感受到了力量涌动。</Constellation_Medicine.description>
+
+  <Constellation_Intellectual.label>天鹰座</Constellation_Intellectual.label>
+  <Constellation_Intellectual.description>天鹰座在天空闪耀、这激发了科学家的知识渴求。具有这一特性的人感受到了力量涌动。</Constellation_Intellectual.description>
+
+  <Constellation_Shield.label>盾牌座</Constellation_Shield.label>
+  <Constellation_Shield.description>盾牌座于天空现身。这遮蔽了你对真理的观察。具有这一特性的人受到了负面影响。</Constellation_Shield.description>
+
+  <Constellation_Lynx.label>天猫座</Constellation_Lynx.label>
+  <Constellation_Lynx.description>天猫座于天空现身。猎物避开了你。具有这一特性的人受到了负面影响。</Constellation_Lynx.description>
+
+  <Constellation_Triangle.label>三角座</Constellation_Triangle.label>
+  <Constellation_Triangle.description>三角座于天空现身。你突然看不懂自己的施工蓝图。具有这一特性的人受到了负面影响。</Constellation_Triangle.description>
+
+  <Constellation_Clock.label>时钟座</Constellation_Clock.label>
+  <Constellation_Clock.description>时钟座于天空现身。你发现自己缺少时间去发挥自己的创造力。具有这一特性的人受到了负面影响。</Constellation_Clock.description>
+
+  <Constellation_Hydra.label>长蛇座</Constellation_Hydra.label>
+  <Constellation_Hydra.description>长蛇座于天空现身。你于曾经熟悉的动物面前发现自己无从下手。具有这一特性的人受到了负面影响。</Constellation_Hydra.description>
+
+  <Constellation_Corvus.label>乌鸦座</Constellation_Corvus.label>
+  <Constellation_Corvus.description>乌鸦座于天空现身。你看着自己的庄稼被鸟儿们糟蹋。具有这一特性的人受到了负面影响。</Constellation_Corvus.description>
+
+  <Constellation_Indian.label>印第安座</Constellation_Indian.label>
+  <Constellation_Indian.description>印第安座于天空现身。你突然间变得冷漠。具有这一特性的人受到了负面影响。</Constellation_Indian.description>
+
+  <Constellation_Eridan.label>波江座</Constellation_Eridan.label>
+  <Constellation_Eridan.description>波江座于天空现身。你的思维开始混沌，手脚不听使唤。具有这一特性的人受到了负面影响。</Constellation_Eridan.description>
+
+  <Constellation_Taurus.label>金牛座</Constellation_Taurus.label>
+  <Constellation_Taurus.description>金牛座于天空现身。岩块开始不屈服于你。你迷失在曾经熟悉的山洞中。具有这一特性的人受到了负面影响。</Constellation_Taurus.description>
+
+  <Constellation_Coma.label>处女座</Constellation_Coma.label>
+  <Constellation_Coma.description>处女座于天空现身。你似乎想不起那些已经熟能生巧的清单制作方法。具有这一特性的人受到了负面影响。</Constellation_Coma.description>
+
+  <Constellation_Snake.label>水蛇座</Constellation_Snake.label>
+  <Constellation_Snake.description>水蛇座于天空现身。你的医疗技术离你远去。具有这一特性的人受到了负面影响。</Constellation_Snake.description>
+
+  <Constellation_Octans.label>南极座</Constellation_Octans.label>
+  <Constellation_Octans.description>南极座暗淡的光投射在你身上。使你无力研究。具有这一特性的人受到了负面影响。</Constellation_Octans.description>
+
+
+</LanguageData>

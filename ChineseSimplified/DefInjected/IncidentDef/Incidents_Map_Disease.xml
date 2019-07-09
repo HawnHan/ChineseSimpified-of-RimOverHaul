@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Disease_Fibrodysplasia.label>纤维发育不良</Disease_Fibrodysplasia.label>
+  <Disease_Fibrodysplasia.letterText>你的殖民者 {1} 的 {0}。\n\n你的殖民者某些身体部分覆盖着脓液。如果不治疗，身体的一部分就会完全死亡，这种疾病会传播到其他殖民者身上。</Disease_Fibrodysplasia.letterText>
+
+  <Disease_NeurofibromatousWorms.label>神经纤维瘤蠕虫</Disease_NeurofibromatousWorms.label>
+  <Disease_NeurofibromatousWorms.letterText>你的殖民者 {1} 的 {0}。\n\n神经纤维瘤蠕虫影响大脑中负责视觉和听觉的部分，也影响身体神经末梢。如果不及时治愈，殖民者将永远失聪失明！</Disease_NeurofibromatousWorms.letterText>
+
+
+  <!--<Disease_Fibrodysplasia.letterLabel>Fibrodysplasia</Disease_Fibrodysplasia.letterLabel>-->
+  <!--<Disease_NeurofibromatousWorms.letterLabel>Neurofibromatous Worms</Disease_NeurofibromatousWorms.letterLabel>-->
+
+</LanguageData>

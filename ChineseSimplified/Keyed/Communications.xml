@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuestFail>失败任务 {0} 个</QuestFail>
+  <QuestSuccess>完成任务 {1} 个</QuestSuccess>
+  <QuestTimeout>任务 {0} 的完成时间已过</QuestTimeout>
+  <UnlimitedTime>剩余时间：无限制</UnlimitedTime>
+  <QuestTimer>剩余时间：{0} 天</QuestTimer>
+  <JumpToLOcation>跳转到事件位置</JumpToLOcation>
+
+  <OpenCommsGeo>使用通讯台</OpenCommsGeo>
+  <OpenCommsGeoNoPower>使用通讯台[无电力]</OpenCommsGeoNoPower>
+
+  <EventsCommTab>活动事件</EventsCommTab>
+  <QuestsCommTab>任务</QuestsCommTab>
+  <InteractionCommTab>对话</InteractionCommTab>
+
+  <RelatedEventCom>相关事件: {0}</RelatedEventCom>
+  <FactionComm>派系: {0}</FactionComm>
+  <NoEventComm>相关事件：无</NoEventComm>
+  <NoFactionComm>派系：无</NoFactionComm>
+
+  <HelpingFactionsList>\n来援派系: </HelpingFactionsList>
+  <SupportFullDoomsday>援助人员已经足够了。你不能再请求更多派系的援助了。</SupportFullDoomsday>
+  <NoHelpDoomsday>不会援助</NoHelpDoomsday>
+  <UnknownDoomsdayStatus>尚不清楚</UnknownDoomsdayStatus>
+  <HelpDoomsday>将会援助</HelpDoomsday>
+  <DiscussWithOtherFactions>与其他派系讨论事件。</DiscussWithOtherFactions>
+  <DoomsdayCardLabel>世界末日</DoomsdayCardLabel>
+  <DoomsdayDesc>派系 {0} 聚集在该星球上安放了一个末日武器。我们可以尝试收集缺少的金额，又或者其他派系会以进攻敌军基地的方式来帮助我们？</DoomsdayDesc>
+
+</LanguageData>

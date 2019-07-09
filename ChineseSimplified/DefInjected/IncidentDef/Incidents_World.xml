@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Событие: Взрыв сверхновой -->
+
+  <Supernova.label>超新星爆炸</Supernova.label>
+  <Supernova.letterText>超新星爆炸</Supernova.letterText>
+  <Supernova.letterLabel>超新星爆炸</Supernova.letterLabel>
+
+
+  <!-- Событие: Тепловая волна 2.0 -->
+
+  <SuperHeatWave.label>异常炎热的天气</SuperHeatWave.label>
+  <SuperHeatWave.letterText>难以置信的强热浪席卷星球。温度可以上升到100度！</SuperHeatWave.letterText>
+  <SuperHeatWave.letterLabel>异常炎热的天气</SuperHeatWave.letterLabel>
+
+
+  <!-- Событие: Метеоритный дождь -->
+
+  <BoulderMassHit.label>流星雨</BoulderMassHit.label>
+  <BoulderMassHit.letterText>流星雨！有一段时间，陨石会随机掉到地面。</BoulderMassHit.letterText>
+  <BoulderMassHit.letterLabel>流星雨</BoulderMassHit.letterLabel>
+
+
+  <!-- Событие: Длительный день -->
+
+  <Endlessday.label>无尽白昼</Endlessday.label>
+  <Endlessday.letterText>因为行星附近一颗恒星的强烈闪光，从现在开始都是白昼，并且再也不会有变化。</Endlessday.letterText>
+  <Endlessday.letterLabel>无尽白昼</Endlessday.letterLabel>
+
+
+  <!-- Событие: Обедненная атмосфера -->
+
+  <LeanAtmosphere.label>贫瘠大气</LeanAtmosphere.label>
+  <LeanAtmosphere.letterText>由于恒星爆炸释放出大量能量，地球大气层的一部分被烧毁。它将改变地球上所有的气候条件。预期恒温下降</LeanAtmosphere.letterText>
+  <LeanAtmosphere.letterLabel>贫瘠大气</LeanAtmosphere.letterLabel>
+
+
+  <!-- Событие: Повышенный радиационный фон -->
+
+  <RadiationFon.label>辐射增强</RadiationFon.label>
+  <RadiationFon.letterText>由于缺少一部分大气保护，宇宙辐射很容易地泄漏到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon.letterText>
+  <RadiationFon.letterLabel>辐射增强</RadiationFon.letterLabel>
+
+
+  <!-- Событие: Нет солнца -->
+
+  <NoSun.label>没有太阳</NoSun.label>
+  <NoSun.letterText>没有太阳</NoSun.letterText>
+  <NoSun.letterLabel>没有太阳</NoSun.letterLabel>
+
+
+  <!-- Событие: Плотная атмосфера -->
+
+  <DenseAtmosphere.label>稠密大气</DenseAtmosphere.label>
+  <DenseAtmosphere.letterText>稠密大气</DenseAtmosphere.letterText>
+  <DenseAtmosphere.letterLabel>稠密大气</DenseAtmosphere.letterLabel>
+
+
+  <!-- Событие: Ледяной шторм -->
+
+  <IceStorm.label>冰风暴</IceStorm.label>
+  <IceStorm.letterText>一场冰暴袭击了你的殖民地。这场风暴携带着难以置信的低温和冰块。尽量不要离开房子</IceStorm.letterText>
+  <IceStorm.letterLabel>冰风暴</IceStorm.letterLabel>
+
+
+  <!-- Событие: Тяжелый воздух -->
+
+  <HeavyAir.label>重空气</HeavyAir.label>
+  <HeavyAir.letterText>气流带来大量的重气体，使呼吸困难，身体中毒，需要等待几天消散。</HeavyAir.letterText>
+  <HeavyAir.letterLabel>重空气</HeavyAir.letterLabel>
+
+
+  <!-- Событие: Портал механоидов -->
+
+  <MechanoidPortal.label>传送机械体！</MechanoidPortal.label>
+  <MechanoidPortal.letterText>一个神秘的碎片从天空落下，产生了一个传送装置，从中出现了机械体。传送门本身一直有效，但是如果您破坏了生成器，那么传送门将消失。</MechanoidPortal.letterText>
+  <MechanoidPortal.letterLabel>传送机械体！</MechanoidPortal.letterLabel>
+
+
+  <!-- Событие: Улей -->
+
+  <BeetleRush.label>蜂巢！</BeetleRush.label>
+  <BeetleRush.letterText>洞穴甲虫从蜂巢里挖了一条隧道。他们会一直出现直到你关上通道。</BeetleRush.letterText>
+  <BeetleRush.letterLabel>蜂巢！</BeetleRush.letterLabel>
+
+
+  <!-- Событие: Подрыв дороги -->
+
+  <DestroyRoad.label>道路损坏</DestroyRoad.label>
+  <DestroyRoad.letterText>一小队劫匪炸毁了其中一条道路。</DestroyRoad.letterText>
+  <DestroyRoad.letterLabel>道路损坏</DestroyRoad.letterLabel>
+
+
+  <!-- Событие: Крушение корабля -->
+
+  <ShipCrash.label>飞船失事</ShipCrash.label>
+  <ShipCrash.letterText>一艘不明飞船失事坠毁了。许多碎片散落在星球上。你可以搜寻它们以获取资源或新技术物资。</ShipCrash.letterText>
+  <ShipCrash.letterLabel>飞船失事</ShipCrash.letterLabel>
+
+
+  <!-- Событие: Песчанная буря -->
+
+  <SandStorm.label>沙尘暴</SandStorm.label>
+  <SandStorm.letterText>一场沙尘暴即将来临。在持续期间，能见度与行走速度会被降低。</SandStorm.letterText>
+  <SandStorm.letterLabel>沙尘暴</SandStorm.letterLabel>
+
+
+  <!-- Событие: Массовый пожар -->
+
+  <MassiveFire.label>熊熊烈火</MassiveFire.label>
+  <MassiveFire.letterText>邻近地区开始发生大火。如果它没有被熄灭，它将摧毁附近所有森林！</MassiveFire.letterText>
+  <MassiveFire.letterLabel>熊熊烈火</MassiveFire.letterLabel>
+
+
+  <!-- Событие: Климматическая бомба -->
+
+  <ClimateBomb.label>侦测到气候炸弹</ClimateBomb.label>
+  <ClimateBomb.letterText>已检测到气候炸弹所在位置。不清楚是谁放置了它，但你要明白：如果它没有被清除，气候将变得狂暴。</ClimateBomb.letterText>
+  <ClimateBomb.letterLabel>侦测到气候炸弹</ClimateBomb.letterLabel>
+
+
+  <!-- Событие: Климатический хаос -->
+
+  <ClimateChaos.label>混乱气候</ClimateChaos.label>
+  <ClimateChaos.letterText>因受一股强大的能量影响，气候已发生彼岸花。天气和天气灾害将不断变化。</ClimateChaos.letterText>
+  <ClimateChaos.letterLabel>混乱气候</ClimateChaos.letterLabel>
+
+
+  <!-- Событие: Ионизированная атмосфера -->
+
+  <IonizedAtmosphere.label>电离大气层</IonizedAtmosphere.label>
+  <IonizedAtmosphere.letterText>电离层比以往任何时候都要厚得多。这种现象增加了雷暴天气的几率。</IonizedAtmosphere.letterText>
+  <IonizedAtmosphere.letterLabel>电离大气层</IonizedAtmosphere.letterLabel>
+
+
+  <!-- Событие: Землетрясение -->
+
+  <Earthquake.label>地震</Earthquake.label>
+  <Earthquake.letterText>一场地震开始了，所有人都需要到避难所！</Earthquake.letterText>
+  <Earthquake.letterLabel>地震!</Earthquake.letterLabel>
+
+
+  <!-- Событие: Осадный лагерь -->
+
+  <SiegeCamp.label>围攻者基地</SiegeCamp.label>
+  <SiegeCamp.letterText>一个敌人的基地已落户在你的殖民地附近。在你摧毁围攻者基地前他们将不断袭击并轰炸你的殖民地。</SiegeCamp.letterText>
+  <SiegeCamp.letterLabel>围攻者基地</SiegeCamp.letterLabel>
+
+
+  <!-- Событие: Нападение на дружественное поселение -->
+
+  <AttackFriendlySettlement.label>友军基地被袭</AttackFriendlySettlement.label>
+  <AttackFriendlySettlement.letterText>一名盟友的侦查员报告说，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。</AttackFriendlySettlement.letterText>
+  <AttackFriendlySettlement.letterLabel>友军基地被袭</AttackFriendlySettlement.letterLabel>
+
+
+  <!-- Событие: Вызов созвездия -->
+
+  <Constellations.label>星座之光</Constellations.label>
+  <Constellations.letterText>星座之光</Constellations.letterText>
+  <Constellations.letterLabel>星座之光</Constellations.letterLabel>
+
+
+  <!-- Событие: Ресурсный метеорит -->
+
+  <MineralMeteorite.label>矿陨石</MineralMeteorite.label>
+  <MineralMeteorite.letterText>一块巨大的矿物质陨石进入了大气层。</MineralMeteorite.letterText>
+  <MineralMeteorite.letterLabel>矿陨石</MineralMeteorite.letterLabel>
+
+
+  <!-- Событие: Десант бешеных животных -->
+
+  <DropAnimalInsanity.label>空投疯狂动物</DropAnimalInsanity.label>
+  <DropAnimalInsanity.letterText>未知派系向我们空投了狂暴动物。准备防御！</DropAnimalInsanity.letterText>
+  <DropAnimalInsanity.letterLabel>疯狂动物降落了</DropAnimalInsanity.letterLabel>
+
+
+  <!-- Событие: Нападение голодных каннибалов -->
+
+  <HungryCannibalRaid.label>饥饿食人族袭击</HungryCannibalRaid.label>
+  <HungryCannibalRaid.letterText>食人族部落从四面八方袭击你的殖民地！他们不会留俘虏，他们要的是人肉</HungryCannibalRaid.letterText>
+  <HungryCannibalRaid.letterLabel>饥饿食人族！</HungryCannibalRaid.letterLabel>
+
+
+  <!-- Событие: Ультиматум судного дня -->
+
+  <DoomsdayUltimatum.label>末日通牒</DoomsdayUltimatum.label>
+  <DoomsdayUltimatum.letterText>敌对派系给你发来通牒：我们拥有足以毁灭这个星球的武器。并开出条件：50000白银。\n你可以与其他派系一起收集白银或者组织一次进攻。</DoomsdayUltimatum.letterText>
+  <DoomsdayUltimatum.letterLabel>末日通牒</DoomsdayUltimatum.letterLabel>
+
+
+  <!-- Событие: Поджигатели -->
+
+  <Arsonists.label>纵火犯</Arsonists.label>
+  <Arsonists.letterText>几名敌方派系的战士已到达并准备烧毁你的森林。</Arsonists.letterText>
+  <Arsonists.letterLabel>纵火犯</Arsonists.letterLabel>
+
+
+  <!-- Событие: Объединенный рейд -->
+
+  <UnifiedRaid.label>联合袭击</UnifiedRaid.label>
+  <UnifiedRaid.letterText>两股敌方部队决定联合军队袭击你的殖民地。</UnifiedRaid.letterText>
+  <UnifiedRaid.letterLabel>联合袭击</UnifiedRaid.letterLabel>
+
+
+  <!--<WetAir.label>Wet air</WetAir.label>-->
+  <!--<WetAir.letterLabel>Wet air</WetAir.letterLabel>-->
+  <!--<WetAir.letterText>Air has come filled with particles of water. Being on the open area will immediately freeze the lungs, and buildings will start to deteriorate</WetAir.letterText>-->
+
+</LanguageData>

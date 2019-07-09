@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DropPodIncomingPlus.label>空投舱（下落中）</DropPodIncomingPlus.label>
+  <ActiveDropPodPlus.label>空投舱</ActiveDropPodPlus.label>
+  <DropPodLeavingPlus.label>空投舱（发射中）</DropPodLeavingPlus.label>
+  <ShipChunkIncomingPlus.label>飞船残骸（下落中）</ShipChunkIncomingPlus.label>
+  <CrashedShipPartIncomingPlus.label>破碎的飞船部件（下落中）</CrashedShipPartIncomingPlus.label>
+  <MeteoriteIncomingPlus.label>陨石（下落中）</MeteoriteIncomingPlus.label>
+
+
+</LanguageData>

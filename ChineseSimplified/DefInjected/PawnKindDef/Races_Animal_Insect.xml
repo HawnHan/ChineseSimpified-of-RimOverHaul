@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CaveSpelopede.label>洞穴甲虫</CaveSpelopede.label>
+  <CaveSpelopede.labelPlural>洞穴甲虫</CaveSpelopede.labelPlural>
+  <CaveSpelopede.lifeStages.0.label>洞穴漫步者</CaveSpelopede.lifeStages.0.label>
+  <CaveSpelopede.lifeStages.0.labelPlural>洞穴漫步者</CaveSpelopede.lifeStages.0.labelPlural>
+  <CaveSpelopede.lifeStages.0.labelMale>雄性洞穴漫步者</CaveSpelopede.lifeStages.0.labelMale>
+  <CaveSpelopede.lifeStages.0.labelMalePlural>雄性洞穴漫步者</CaveSpelopede.lifeStages.0.labelMalePlural>
+  <CaveSpelopede.lifeStages.0.labelFemale>雌性洞穴漫步者</CaveSpelopede.lifeStages.0.labelFemale>
+  <CaveSpelopede.lifeStages.0.labelFemalePlural>雌性洞穴漫步者</CaveSpelopede.lifeStages.0.labelFemalePlural>
+  <CaveSpelopede.lifeStages.1.label>洞穴漫步者</CaveSpelopede.lifeStages.1.label>
+  <CaveSpelopede.lifeStages.1.labelPlural>洞穴漫步者</CaveSpelopede.lifeStages.1.labelPlural>
+  <CaveSpelopede.lifeStages.1.labelMale>雄性洞穴漫步者</CaveSpelopede.lifeStages.1.labelMale>
+  <CaveSpelopede.lifeStages.1.labelMalePlural>雄性洞穴漫步者</CaveSpelopede.lifeStages.1.labelMalePlural>
+  <CaveSpelopede.lifeStages.1.labelFemale>雌性洞穴漫步者</CaveSpelopede.lifeStages.1.labelFemale>
+  <CaveSpelopede.lifeStages.1.labelFemalePlural>雌性洞穴漫步者</CaveSpelopede.lifeStages.1.labelFemalePlural>
+  <CaveSpelopede.lifeStages.2.label>洞穴漫步者</CaveSpelopede.lifeStages.2.label>
+  <CaveSpelopede.lifeStages.2.labelPlural>洞穴漫步者</CaveSpelopede.lifeStages.2.labelPlural>
+  <CaveSpelopede.lifeStages.2.labelMale>雄性洞穴漫步者</CaveSpelopede.lifeStages.2.labelMale>
+  <CaveSpelopede.lifeStages.2.labelMalePlural>雄性洞穴漫步者</CaveSpelopede.lifeStages.2.labelMalePlural>
+  <CaveSpelopede.lifeStages.2.labelFemale>雌性洞穴漫步者</CaveSpelopede.lifeStages.2.labelFemale>
+  <CaveSpelopede.lifeStages.2.labelFemalePlural>雌性洞穴漫步者</CaveSpelopede.lifeStages.2.labelFemalePlural>
+  <CaveSpelopede.labelMale>雄性洞穴漫步者</CaveSpelopede.labelMale>
+  <CaveSpelopede.labelMalePlural>雄性洞穴漫步者</CaveSpelopede.labelMalePlural>
+  <CaveSpelopede.labelFemale>雌性洞穴漫步者</CaveSpelopede.labelFemale>
+  <CaveSpelopede.labelFemalePlural>雌性洞穴漫步者</CaveSpelopede.labelFemalePlural>
+
+  <CaveBeetleKing.label>洞穴甲虫王</CaveBeetleKing.label>
+  <CaveBeetleKing.labelPlural>洞穴甲虫王</CaveBeetleKing.labelPlural>
+  <CaveBeetleKing.lifeStages.0.label>洞穴王甲虫</CaveBeetleKing.lifeStages.0.label>
+  <CaveBeetleKing.lifeStages.0.labelPlural>洞穴王甲虫</CaveBeetleKing.lifeStages.0.labelPlural>
+  <CaveBeetleKing.lifeStages.0.labelMale>洞王甲虫</CaveBeetleKing.lifeStages.0.labelMale>
+  <CaveBeetleKing.lifeStages.0.labelMalePlural>雄性洞穴王甲虫</CaveBeetleKing.lifeStages.0.labelMalePlural>
+  <CaveBeetleKing.lifeStages.0.labelFemale>女洞王甲虫</CaveBeetleKing.lifeStages.0.labelFemale>
+  <CaveBeetleKing.lifeStages.0.labelFemalePlural>女洞王甲虫</CaveBeetleKing.lifeStages.0.labelFemalePlural>
+  <CaveBeetleKing.lifeStages.1.label>洞穴王甲虫</CaveBeetleKing.lifeStages.1.label>
+  <CaveBeetleKing.lifeStages.1.labelPlural>洞穴王甲虫</CaveBeetleKing.lifeStages.1.labelPlural>
+  <CaveBeetleKing.lifeStages.1.labelMale>洞王甲虫</CaveBeetleKing.lifeStages.1.labelMale>
+  <CaveBeetleKing.lifeStages.1.labelMalePlural>雄性洞穴王甲虫</CaveBeetleKing.lifeStages.1.labelMalePlural>
+  <CaveBeetleKing.lifeStages.1.labelFemale>女洞王甲虫</CaveBeetleKing.lifeStages.1.labelFemale>
+  <CaveBeetleKing.lifeStages.1.labelFemalePlural>女洞王甲虫</CaveBeetleKing.lifeStages.1.labelFemalePlural>
+  <CaveBeetleKing.lifeStages.2.label>洞穴王甲虫</CaveBeetleKing.lifeStages.2.label>
+  <CaveBeetleKing.lifeStages.2.labelPlural>洞穴王甲虫</CaveBeetleKing.lifeStages.2.labelPlural>
+  <CaveBeetleKing.lifeStages.2.labelMale>洞王甲虫</CaveBeetleKing.lifeStages.2.labelMale>
+  <CaveBeetleKing.lifeStages.2.labelMalePlural>雄性洞穴王甲虫</CaveBeetleKing.lifeStages.2.labelMalePlural>
+  <CaveBeetleKing.lifeStages.2.labelFemale>女洞王甲虫</CaveBeetleKing.lifeStages.2.labelFemale>
+  <CaveBeetleKing.lifeStages.2.labelFemalePlural>女洞王甲虫</CaveBeetleKing.lifeStages.2.labelFemalePlural>
+  <CaveBeetleKing.labelMale>洞王甲虫</CaveBeetleKing.labelMale>
+  <CaveBeetleKing.labelMalePlural>雄性洞穴王甲虫</CaveBeetleKing.labelMalePlural>
+  <CaveBeetleKing.labelFemale>女洞王甲虫</CaveBeetleKing.labelFemale>
+  <CaveBeetleKing.labelFemalePlural>女洞王甲虫</CaveBeetleKing.labelFemalePlural>
+
+
+  <!--<CaveBeetleKing.description>Huge, scary king of cave spiders. Armor with double growths of chitin gives incredible vitality. Huge mites in a moment chop any living flesh.</CaveBeetleKing.description>-->
+  <!--<CaveSpelopede.description>One of the few cave representatives of the planet. Small in size, the body is covered with rather dense chitinous armor. Sharp claws make him a dangerous enemy in close combat.</CaveSpelopede.description>-->
+
+</LanguageData>

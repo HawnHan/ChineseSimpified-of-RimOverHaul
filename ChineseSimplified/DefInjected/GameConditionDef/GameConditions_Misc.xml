@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SuperHeatWave.label>异常炎热的天气</SuperHeatWave.label>
+  <SuperHeatWave.description>难以置信的强热浪席卷了星球。温度可以上升到100度！</SuperHeatWave.description>
+  <SuperHeatWave.endMessage>难以置信的热度过去了</SuperHeatWave.endMessage>
+
+  <BoulderMassHit.label>流星雨</BoulderMassHit.label>
+  <BoulderMassHit.description>流星雨！有一段时间，陨石会掉到地上。</BoulderMassHit.description>
+  <BoulderMassHit.endMessage>似乎一切…</BoulderMassHit.endMessage>
+
+  <Endlessday.label>无尽白昼</Endlessday.label>
+  <Endlessday.description>因为行星附近一颗恒星的强烈闪光，从现在开始都是白昼，并且再也不会有变化。</Endlessday.description>
+  <Endlessday.endMessage>似乎一切…</Endlessday.endMessage>
+
+  <LeanAtmosphere.label>空气稀薄</LeanAtmosphere.label>
+  <LeanAtmosphere.description>由于恒星爆炸释放出大量能量，星球大气层的一部分被烧毁。它将改变星球上所有的气候条件。预期气温将下降</LeanAtmosphere.description>
+  <LeanAtmosphere.endMessage></LeanAtmosphere.endMessage>
+
+  <RadiationFon.label>辐射增加</RadiationFon.label>
+  <RadiationFon.description>由于缺少一部分大气，宇宙辐射很容易透过大气层直射到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon.description>
+  <RadiationFon.endMessage>
+  </RadiationFon.endMessage>
+
+  <NoSun.label>没有太阳</NoSun.label>
+  <NoSun.description>在你的星系中没有恒星可以加热行星并发光。将造成永恒的黑夜和寒冷。</NoSun.description>
+  <NoSun.endMessage></NoSun.endMessage>
+
+  <DenseAtmosphere.label>稠密大气</DenseAtmosphere.label>
+  <DenseAtmosphere.description>这颗行星的大气层非常稠密，导致温室效应。</DenseAtmosphere.description>
+  <DenseAtmosphere.endMessage>
+  </DenseAtmosphere.endMessage>
+
+  <IceStorm.label>冰暴</IceStorm.label>
+  <IceStorm.description>一场冰暴席卷了你的营地。这场风暴携带着难以置信的低温和冰块。尽量不要离开房子</IceStorm.description>
+  <IceStorm.endMessage>冰暴已经停止了</IceStorm.endMessage>
+
+  <HeavyAir.label>重空气</HeavyAir.label>
+  <HeavyAir.description>气流带来大量的重气体，会导致呼吸困难，身体中毒，这会持续几天。</HeavyAir.description>
+  <HeavyAir.endMessage>看来大部分重元素都被吹走了</HeavyAir.endMessage>
+
+  <SandStorm.label>沙尘暴</SandStorm.label>
+  <SandStorm.description>一场沙尘暴即将来临。在持续期间，能见度与行走速度会被降低</SandStorm.description>
+  <SandStorm.endMessage>沙尘暴结束了</SandStorm.endMessage>
+
+  <ClimateChaos.label>混乱气候</ClimateChaos.label>
+  <ClimateChaos.description>因受一股强大的能量影响，气候已发生变化。天气和天气灾害将不断变化。</ClimateChaos.description>
+  <ClimateChaos.endMessage>气候已恢复正常</ClimateChaos.endMessage>
+
+  <IonizedAtmosphere.label>电离大气层</IonizedAtmosphere.label>
+  <IonizedAtmosphere.description>电离层比以往任何时候都要厚得多。这种现象增加了雷暴天气的几率。</IonizedAtmosphere.description>
+  <IonizedAtmosphere.endMessage>电离层已恢复正常</IonizedAtmosphere.endMessage>
+
+  <Earthquake.label>地震</Earthquake.label>
+  <Earthquake.description>一场地震发生了，所有人都需要到避难所！</Earthquake.description>
+  <Earthquake.endMessage>地震结束了</Earthquake.endMessage>
+
+  <Constellations.label>星座之光</Constellations.label>
+  <Constellations.description>星座之光</Constellations.description>
+  <Constellations.endMessage>星座之光消失了</Constellations.endMessage>
+
+
+  <!--<WetAir.label>Wet air</WetAir.label>-->
+  <!--<WetAir.description>Air has come filled with particles of water. Being on the open area will immediately freeze the lungs, and buildings will start to deteriorate</WetAir.description>-->
+  <!--<WetAir.endMessage>Water in the air turned into ice</WetAir.endMessage>-->
+
+</LanguageData>
