@@ -8,3 +8,6 @@ ChineseSimpified of MoreEventsMod
 I think this MOD is really great, but the lag of Chinese translation is regrettable.
 Of course, I must apologize to the original translator for uploading the supplementary Chinese version of the MOD without your permission.
 But I can't stand. Such a good MOD should be known and used by more Chinese people.
+
+2019-10-7
+受限于我自身的英语水平及文字功底，该MOD的翻译并不让人满意。（同时也因作者常将未完成的内容也附加在已发布的版本中，但我不会每次都重新进行中英对照，因此可能造成不正确的存在。）
