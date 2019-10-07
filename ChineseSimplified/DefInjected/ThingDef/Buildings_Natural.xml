@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource rocks -->
+
+  <MineableIron.label>铁矿</MineableIron.label>
+  <MineableIron.description>地球上是占比最多的元素，为地球外核和内地核的主要成分。它也是地壳中含量第四多的元素。\n平滑的纯铁表面为如镜般的银灰色。但铁容易与氧和水反应，产生棕色或黑色的水合铁离子，就是俗称的铁锈。不同于其他金属会产生钝化层的氧化物，铁锈拥有的体积大于原本的金属，因而容易剥落，露出新的表面继续锈蚀。</MineableIron.description>
+
+  <MineableCopper.label>铜矿</MineableCopper.label>
+  <MineableCopper.description>纯铜是柔软的金属，表面刚切开时为红橙色带金属光泽、延展性好、导热性和导电性高，因此在电缆和电气、电子元件是最常用的材料，也可用作建筑材料，以及组成众多种合金，例如用于珠宝的纹银，用于制作船用五金和硬币的白铜以及用于温度计的应变片和热电偶的康铜 。</MineableCopper.description>
+	
+  <MineableCoal.label>煤</MineableCoal.label>
+  <MineableCoal.description>煤是一种可燃的黑色或棕黑色沉积岩，其形成的岩层称为煤层。</MineableCoal.description>
+
+  <MineableNickel.label>镍矿</MineableNickel.label>
+  <MineableNickel.description>镍属于过渡金属，质硬，具延展性。纯镍的化学活性相当高，这种活性可以在反应表面积最大化的粉末状态下看到，但大块的镍金属与周围的空气反应缓慢，因为其表面已形成了一层带保护性质的氧化物。</MineableNickel.description>
+
+  <MineableIlmenite.label>钛铁矿</MineableIlmenite.label>
+  <MineableIlmenite.description>钛具有良好的抗腐蚀能力（包括海水、王水及氯气）。\n钛的矿石主要有钛铁矿及金红石，广布于地壳及岩石圈之中。钛亦同时存在于几乎所有生物、岩石、水体及土壤中。</MineableIlmenite.description>
+
+  <MineableTungsten.label>钨矿</MineableTungsten.label>
+  <MineableTungsten.description>原矿中便含有足以提取成块的钨。</MineableTungsten.description>
+
+
+</LanguageData>

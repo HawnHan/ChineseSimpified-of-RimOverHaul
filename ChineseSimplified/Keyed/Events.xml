@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <DS_InstallCommand_Title>安装进度 {0}</DS_InstallCommand_Title>
+  <DS_InstallCommand_Desc>生成新对象</DS_InstallCommand_Desc>
+
   <Supernova_label>超新星爆炸</Supernova_label>
   <SupernovaExp_low>在几十万光年远的地方，发生了一次超新星爆炸。它不会造成伤害，但会让你看到美丽的风景。</SupernovaExp_low>
   <SupernovaExp_medium>在几万光年之外，发生了一次超新星爆炸。预计会有小流星雨，气温会升高。</SupernovaExp_medium>
@@ -48,30 +51,26 @@
   <EarthshakeDesc>这场地震结束了。地震强度：</EarthshakeDesc>
 
   <ZeroPointReactorDestablished>零点反应堆不稳定</ZeroPointReactorDestablished>
-  <ZeroPointReactorDestablishedDesc>零点反应堆不稳定，即将失效。其核心组件真空泵吸住了最近的角色！小心！</ZeroPointReactorDestablishedDesc>
+  <ZeroPointReactorDestablishedDesc>零点反应堆不稳定，即将失效。其核心组件真空泵会吸住附近的物体！小心！</ZeroPointReactorDestablishedDesc>
   <ZPRNeedMorePumps>\n- 需要真空泵: </ZPRNeedMorePumps>
   <ZPRWorking>激活。</ZPRWorking>
   <ZPRNoActiveLabel>等待启动:</ZPRNoActiveLabel>
   <ZPRHasRoofs>\n- 需要屋顶</ZPRHasRoofs>
   <ZPRNeedRoom>\n- 需要密闭房间</ZPRNeedRoom>
 
-  <SiegeCampUpdateTimer>经此天数后升级：</SiegeCampUpdateTimer>
-  <SiegeCampLevel>\n基地难度：</SiegeCampLevel>
+  <SiegeCampUpdateTimer>\n经此天数后强度升级：</SiegeCampUpdateTimer>
+  <SiegeCampLevel>\n基地强度：</SiegeCampLevel>
   <YourAttackWasRepelledTitle>你的进攻失败了</YourAttackWasRepelledTitle>
   <YourAttackWasRepelledDesc>你对围攻者基地的进攻失败了。他们会考虑他们在防御上的不足，并且可能会重建防线。尚存的殖民者也许死了，也许被贩卖了。</YourAttackWasRepelledDesc>
 
   <AttackIsNotRepelled>你现在还不能离开。敌袭尚未结束。</AttackIsNotRepelled>
-  <TimerDaysToAttack>{0}天后被袭击</TimerDaysToAttack>
+  <TimerDaysToAttack>{0} 天后遇袭</TimerDaysToAttack>
   <ThreatLevel>\n袭击强度: {0}</ThreatLevel>
-  <AttackFriendlySettlementLetter1>来自 {0} 盟友的侦察员报告，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。不幸的是，袭击强度尚不清楚。
-（要帮助盟友基地，请组建远征队到达敌袭基地并击退敌袭。）</AttackFriendlySettlementLetter1>
-  <AttackFriendlySettlementLetter2>来自 {0} 盟友的侦察员报告，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。袭击强度：{1}
-（要帮助盟友基地，请组建远征队到达敌袭基地并击退敌袭。）</AttackFriendlySettlementLetter2>
-  <AttackedFriendlySettlementDefendHelp>你的远征队已到达目的地。组建防线，盟友基地中的殖民者可任由你调配。但请你记住，你需要尽可能的保全他们的性命。
-</AttackedFriendlySettlementDefendHelp>
+  <AttackFriendlySettlementLetter1>来自 {0} 盟友的侦察员报告，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。不幸的是，袭击强度尚不清楚。\n（要帮助盟友基地，请组建远征队到达敌袭基地并击退敌袭。）</AttackFriendlySettlementLetter1>
+  <AttackFriendlySettlementLetter2>来自 {0} 盟友的侦察员报告，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。袭击强度：{1}\n（要帮助盟友基地，请组建远征队到达敌袭基地并击退敌袭。）</AttackFriendlySettlementLetter2>
+  <AttackedFriendlySettlementDefendHelp>你的远征队已到达目的地。组建防线，盟友基地中的殖民者可任由你调配。但请你记住，你需要尽可能的保全他们的性命。</AttackedFriendlySettlementDefendHelp>
   <AttackedFriendlySettlementDefendVictory>你守住了敌袭。\n{0} 感谢你。你一共挽救了 {1} 个盟友的生命，因此你得到了以下报酬：\n {2} \n\n物品在盟军基地中。你可以在组建远征队或在其他时间将其带走。</AttackedFriendlySettlementDefendVictory>
-  <AttackedFriendlySettlementDefendLoseWithHelp>你击退了敌袭，但你没有保住哪怕一名盟友。\n因此没有人可以给予你报酬，且该基地被摧毁了。
-</AttackedFriendlySettlementDefendLoseWithHelp>
+  <AttackedFriendlySettlementDefendLoseWithHelp>你击退了敌袭，但你没有保住哪怕一名盟友。\n因此没有人可以给予你报酬，且该基地被摧毁了。</AttackedFriendlySettlementDefendLoseWithHelp>
   <AttackedFriendlySettlementLoseWithoutHelp>你未能帮助 {0} 防御敌袭，你的声誉下降了。</AttackedFriendlySettlementLoseWithoutHelp>
   <RaidStartDefendTitle>袭击开始了!</RaidStartDefendTitle>
   <RaidStartDefend>敌人正在突进，做好准备！</RaidStartDefend>
@@ -84,7 +83,7 @@
   <UnloadArmor>从基站取下动力甲</UnloadArmor>
   <LoadArmor>将动力甲拿到基站</LoadArmor>
   <NoAvaliableArmors>无可用动力甲</NoAvaliableArmors>
-  <NotEnoughSpace>没有足够的空间给动力甲。请在基站周围留出更多空间。</NotEnoughSpace>
+  <NotEnoughSpace>没有足够的空间放置动力甲。请在基站周围留出更多空间。</NotEnoughSpace>
   <NoArmorInStation>基站未运作。缺少动力甲。</NoArmorInStation>
   <CoreType>核心</CoreType>
   <ChargeSpeed>充能速度: {0}</ChargeSpeed>
@@ -105,11 +104,10 @@
   <PaidSuccessDoom>赎金已付</PaidSuccessDoom>
   <RansomCompleteTitle>赎金已付</RansomCompleteTitle>
   <RansomComplete>敌军首领在无线电中肆意大笑。因为不管如何，他们都不会歼星。笑声逐渐远去，你看到他们如何远远的逃离了临时驻地。但这或许不是结束。</RansomComplete>
-  <PlanetDestroyed>在场所有人的耳朵都因这不合常理的巨大声响竖起来。这种轰鸣像极了炸弹爆炸，闪耀的光芒又像新星的诞生。整颗星球都开始晃动，倒霉的目睹者们陷入了无尽的深渊，周围充满了绝望而疯狂的哭泣。在每个人的脸上，恐惧的表情如冻结般凝固，眼里反射出来的是满满的星球血液——岩浆。\n\n末日机器发射出夺目光柱，这这不仅仅标志着你的殖民地的终结，同时也是这个星球的：毁灭风暴带走了所有的拯救希望。太阳辐射波席卷了整个星球表面，于每一处裂缝中炸裂。残存的世界碎片在往后很长一段时间里都在提醒着后代，人类才是最大的毁灭者。\n\n甚至连最杰出的作家也无法用文字描述出你现居地的情况，但如果他着手开始这个注定失败的任务，那么他一定不会使用这个词来形容——“天堂”。
-</PlanetDestroyed>
+  <PlanetDestroyed>在场所有人的耳朵都因这不合常理的巨大声响竖起来。这种轰鸣像极了炸弹爆炸，闪耀的光芒又像新星的诞生。整颗星球都开始晃动，倒霉的目睹者们陷入了无尽的深渊，周围充满了绝望而疯狂的哭泣声。在每个人的脸上，恐惧的表情如冻结般凝固，眼里反射出来的是满满的星球血液——岩浆。\n\n末日机器发射出夺目光柱，这不仅仅标志着你的殖民地的终结，同时也是这个星球的：毁灭风暴带走了所有的救援希望。太阳辐射波席卷了整个星球表面，于每一处裂缝中炸裂。残存的世界碎片在往后很长一段时间里都在提醒着后代，人类才是最大的毁灭者。\n\n甚至连最杰出的作家也无法用文字描述出你现居地的情况，但如果他着手开始这个注定失败的任务，那么他一定不会使用这个词来形容——“天堂”。</PlanetDestroyed>
   <ArsonOut>纵火犯们离开了</ArsonOut>
 
-  <DoomsdayEnterSiteHelp>你必须到达那个藏着末日武器的敌军基地。务必找到它，将其断电并摧毁，但首先，你要做的是清除该基地。</DoomsdayEnterSiteHelp>
+  <DoomsdayEnterSiteHelp>你必须到达那个藏着末日武器的敌军建筑。务必找到它，将其断电并摧毁，但首先，你要做的是清扫该基地。</DoomsdayEnterSiteHelp>
   <DeEnergizedStatus>屏障级别：{0}</DeEnergizedStatus>
   <ShildsOffDommsdayTitle>能量屏障失效</ShildsOffDommsdayTitle>
   <DeactiveEnergyShieldDoom>关闭能量屏障</DeactiveEnergyShieldDoom>
@@ -151,7 +149,7 @@
 我简单的留下了一个谜语，就是我跟你说过很多次的那个，我认为这对你来说没有难度。用谜底来登陆Fernal这个账户。
 当你进入一个黑暗的厨房后，内有一根蜡烛(candle)，一盏煤油灯(kerosene lamp)和一个煤气灶(gas stove)。你会先点着什么？</DoomsdayTerminal_UsersHack>
   <DoomsdayTerminal_UsersHackAnser>Match</DoomsdayTerminal_UsersHackAnser>
-  <DoomsdayTerminal_AlreadyLogged>你早已登陆了。请使用 /logout 登出。</DoomsdayTerminal_AlreadyLogged>
+  <DoomsdayTerminal_AlreadyLogged>已登陆。请使用 /logout 登出。</DoomsdayTerminal_AlreadyLogged>
   <DoomsdayTerminal_SecurityFirst>输入安全密码以登录，格式 /security *password*
 *(5$#LKki*6 骇客工具1.0 --> 内存转存命令 /security dump ^I21%$$*1%p0rfgw
   </DoomsdayTerminal_SecurityFirst>
@@ -207,5 +205,19 @@ Root (5A8)
   <DoomsdayTerminal_SecurityDisabled>关闭安全系统中 --> 完成</DoomsdayTerminal_SecurityDisabled>
   <SecurityDoomsdayOffTitle>系统已关闭</SecurityDoomsdayOffTitle>
   <SecurityDoomsdayOff>你在时限内禁用了末日武器的安全系统。现在，你可以安全的毁掉它了。</SecurityDoomsdayOff>
+
+  <GameCondition_SpaceBattleTitle>一场太空战正发生在低轨区域，留心残骸流弹。</GameCondition_SpaceBattleTitle>
+
+  <Building_TribalCrack_OptionInactive>无法摧毁，所选殖民者未装备手榴弹。</Building_TribalCrack_OptionInactive>
+  <Building_TribalCrack_Option>进入地道并将其炸毁</Building_TribalCrack_Option>
+
+  <TribalCrack_InfoTitle>使命任务开始</TribalCrack_InfoTitle>
+  <TribalCrack_InfoDesc>殖民者 {0} 进入了地道。安放炸弹并引爆大约需要 {1} 天。在此期间，该殖民者将不可用。</TribalCrack_InfoDesc>
+
+  <Building_TribalCrack_Title>部落工兵</Building_TribalCrack_Title>
+  <Building_TribalCrack_Desc>{0} 破坏了连接你和部落定居点的地道。</Building_TribalCrack_Desc>
+
+  <Building_TribalCrack_DoDestroyAction>用手将洞口掩埋</Building_TribalCrack_DoDestroyAction>
+  <Building_TribalCrack_Info>埋盖进度: {0}%</Building_TribalCrack_Info>
 
 </LanguageData>

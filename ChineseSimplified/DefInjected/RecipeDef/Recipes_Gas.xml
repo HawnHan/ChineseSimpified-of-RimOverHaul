@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GetHydrogen.label>制造氢气瓶</GetHydrogen.label>
+  <GetHydrogen.description>将液化天然气转换为氢气。</GetHydrogen.description>
+  <GetHydrogen.jobString>装载氢气瓶</GetHydrogen.jobString>
+
+  <GetLeqGasCycl.label>制造液化天然气瓶</GetLeqGasCycl.label>
+  <GetLeqGasCycl.description>制造瓶子并将其注满液化天然气</GetLeqGasCycl.description>
+  <GetLeqGasCycl.jobString>制造液化天然气瓶</GetLeqGasCycl.jobString>
+
+
+</LanguageData>

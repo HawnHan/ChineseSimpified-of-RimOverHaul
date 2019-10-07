@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicOreProcessing.label>基础矿石加工及冶炼</BasicOreProcessing.label>
+  <BasicOreProcessing.description>最基础的加工原矿并从中获得矿块技术。\n允许你在简易熔炉中冶炼铁块和铜块。</BasicOreProcessing.description>
+
+
+</LanguageData>

@@ -1,5 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <RelationChangeDialog>与派系 {0} 的关系改变了 {1}</RelationChangeDialog>
+  <RelationChangeDialog>与派系 {0} 的关系变更了 {1}</RelationChangeDialog>
+  <TabCokeFurnace>熔炉</TabCokeFurnace>
+  <CheckRecipes>制作: {0}</CheckRecipes>
+  <CockeFurnace_Ingedients>原料</CockeFurnace_Ingedients>
+  <CokeFurnace_CarryItem>装载 {0} ({1} 剩余)</CokeFurnace_CarryItem>
+  <CokeFurnace_CarryItem_NoItem> (炉内不足)</CokeFurnace_CarryItem_NoItem>
+  <CokeFurnace_StartFire>生火</CokeFurnace_StartFire>
+  <CokeFurnace_off>熄火</CokeFurnace_off>
+  <CokeFurnace_Started>熔炉处于运行状态。用殖民者右键以关闭。</CokeFurnace_Started>
+  <CokeFurnace_Active>已启动。</CokeFurnace_Active>
+  <CokeFurnace_Inactive>未启动。</CokeFurnace_Inactive>
+  <CokeFurnace_TakeItem>完成</CokeFurnace_TakeItem>
+  <CokeFurnace_TakeItem2>取出 {0}</CokeFurnace_TakeItem2>
+  <CokeFurnace_NoIng> (缺少原料)</CokeFurnace_NoIng>
+  <CokeFurnace_NoFuel> (缺少燃料)</CokeFurnace_NoFuel>
+  <CokeFurnace_IngInfo>制作 {0} 的原料不足。\n\n共需 {2} 单元 {1}(已放入 {3})。\n选择殖民者后右键熔炉并放入所需原料。</CokeFurnace_IngInfo>
+  <CokeFurnace_ResultInfo>最终，你会得到 {1} 单元的 {0}。\n\n要开始冶炼，请将对应的原料放入熔炉，然后选择殖民者，右键熔炉并选择“生火”。你可以在下方看到冶炼进度。</CokeFurnace_ResultInfo>
+
+  <MustPlaceOnGasWell>只能建在天然气井上。</MustPlaceOnGasWell>
+  <CompGasWell_GasReserve>天然气储量: {0}</CompGasWell_GasReserve>
+
+  <GasPlant_ActiveInfo>已启用</GasPlant_ActiveInfo>
+  <GasPlant_ActiveInfoOFF>未启用。缺少天然气冷却器或电力。</GasPlant_ActiveInfoOFF>
+  <GasPlant_GasWellInfo>\n天然气井储量: {0}</GasPlant_GasWellInfo>
+
+  <GasCooler_ActiveInfo>储量: {0} / {1}\n冷却速度: {2}</GasCooler_ActiveInfo>
+  <GasCooler_ActiveInfoNoTankers>\n缺少通向储气罐的管道</GasCooler_ActiveInfoNoTankers>
+  <GasCooler_ActiveInfoNoInNet>\n无进气管</GasCooler_ActiveInfoNoInNet>
+
+  <CompGasTank_Storage>液化天然气: {0} / {1}</CompGasTank_Storage>
+  <GasStation_Info>储量: {0} / {1}</GasStation_Info>
+  <GasBill_NotEnoughGas>天然气不足({0})</GasBill_NotEnoughGas>
+
+  <CokeFurnace_infinity>无限</CokeFurnace_infinity>
+  <CokeFurnace_Notinfinity>定量</CokeFurnace_Notinfinity>
 
 </LanguageData>

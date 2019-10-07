@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AdvancedOreProcessing.label>高级矿物加工</AdvancedOreProcessing.label>
+  <AdvancedOreProcessing.description>使用电弧熔炉可让你加工例如钛铁矿及钴矿等高级矿石，生产更多高级合金。\n解锁电弧熔炉以生产钴，镍和钯。</AdvancedOreProcessing.description>
+
+  <HeavyDutyAlloys.label>超重合金</HeavyDutyAlloys.label>
+  <HeavyDutyAlloys.description>通过研究合金技术发现了性能远超现有任一金属的新世代合金。\n允许你制造玻璃钢和钛合金。</HeavyDutyAlloys.description>
+
+  <GasIndustry.label>天然气产业</GasIndustry.label>
+  <GasIndustry.description>该技术开启了人工生产天然气的可能性，并能在特殊装置中加工天然气。</GasIndustry.description>
+
+  <ElectricityAndGas.label>电-气转换</ElectricityAndGas.label>
+  <ElectricityAndGas.description>使用天然气产生电力。\n允许你建造天然气涡机以气换电。</ElectricityAndGas.description>
+
+  <GasTraspAndStorage.label>天然气传输及存储</GasTraspAndStorage.label>
+  <GasTraspAndStorage.description>学习如何更好的传输及储存天然气。\n允许你建造大型油罐及储气瓶。</GasTraspAndStorage.description>
+
+  <HydrogenProduction.label>制氢技术</HydrogenProduction.label>
+  <HydrogenProduction.description>学习使用蒸馏天然气生产氢气。</HydrogenProduction.description>
+
+  <GasToHeat.label>天然气供暖</GasToHeat.label>
+  <GasToHeat.description>建造比电力加热器更有效的天然气加热器。</GasToHeat.description>
+
+
+</LanguageData>

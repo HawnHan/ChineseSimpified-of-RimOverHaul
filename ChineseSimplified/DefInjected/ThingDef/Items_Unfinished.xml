@@ -1,6 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <ColdFusionReactorHeath.label>冷核聚变反应堆芯</ColdFusionReactorHeath.label>
+  <ColdFusionReactorHeath.description>冷聚变反应堆的核心组件。借助它可以使核反应堆更现代化，以获得新的，更完美的能源。</ColdFusionReactorHeath.description>
+
+  <PalladiumCore.label>钯核心</PalladiumCore.label>
+  <PalladiumCore.description>能量的主要来源。尽管其存在放射性，但反应器的设计让其无法影响环境。</PalladiumCore.description>
+
+  <Enricher.label>浓缩器</Enricher.label>
+  <Enricher.description>扩大核心与核心的功率，增强能量的产生。</Enricher.description>
+
+  <VacuumTube.label>真空传输管</VacuumTube.label>
+  <VacuumTube.description>反应堆的核心组件，它可以产生能量。</VacuumTube.description>
+
+  <VacuumStabilizer.label>真空稳定器</VacuumStabilizer.label>
+  <VacuumStabilizer.description>维持压力稳定且会产生零电磁辐射。</VacuumStabilizer.description>
+
+  <SuperMagnetNewGeneration.label>新生代超磁铁</SuperMagnetNewGeneration.label>
+  <SuperMagnetNewGeneration.description>超级磁铁，一种内有黑洞的未知材料。</SuperMagnetNewGeneration.description>
+
+  <QuantumConverter.label>量子转换器</QuantumConverter.label>
+  <QuantumConverter.description>从黑洞蒸发转换（捕获）辐射并将其转换为能量的一个重要组件。</QuantumConverter.description>
+
+
   <!-- <ThingDef Name="UnfinishedNonStuffBase" Abstract="True">
 		<thingClass>UnfinishedThing</thingClass>
 		<category>Item</category>
@@ -41,33 +63,9 @@
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingDef> -->
-
-  <ColdFusionReactorHeath.label>冷核聚变反应堆芯</ColdFusionReactorHeath.label>
-  <ColdFusionReactorHeath.description>冷聚变反应堆的核心组件。借助它可以使核反应堆更现代化，获得新的，更完美的能源。</ColdFusionReactorHeath.description>
-
-  <PalladiumCore.label>钯核心</PalladiumCore.label>
-  <PalladiumCore.description>能量的主要来源。尽管其存在放射性，但反应器的设计不会允许其影响环境。</PalladiumCore.description>
-
-  <MiniColdFusionReactor.label>微型冷核聚变反应堆</MiniColdFusionReactor.label>
-  <MiniColdFusionReactor.description>缩小版的冷核聚变反应堆。依旧可以正常运作，但占用更小的空间，因此可以其适用性更广。</MiniColdFusionReactor.description>
-
-  <MiniArcReactor.label>微型电弧反应堆</MiniArcReactor.label>
-  <MiniArcReactor.description>缩小版的电弧反应堆。与冷核聚变反应堆相比它的效率更好，是其直系改进版。</MiniArcReactor.description>
-
-  <Enricher.label>浓缩器</Enricher.label>
-  <Enricher.description>扩大核心与核心的功率，增强能量的产生。</Enricher.description>
-
-  <VacuumTube.label>真空传输管</VacuumTube.label>
-  <VacuumTube.description>反应堆的核心组件，它可以产生能量。</VacuumTube.description>
-
-  <VacuumStabilizer.label>真空稳定器</VacuumStabilizer.label>
-  <VacuumStabilizer.description>维持压力稳定且会产生零电磁辐射。</VacuumStabilizer.description>
-
-  <SuperMagnetNewGeneration.label>新生代超磁铁</SuperMagnetNewGeneration.label>
-  <SuperMagnetNewGeneration.description>超级磁铁，一种内有黑洞的未知材料。</SuperMagnetNewGeneration.description>
-
-  <QuantumConverter.label>量子转换器</QuantumConverter.label>
-  <QuantumConverter.description>从黑洞蒸发转换（捕获）辐射并将其转换为能量的一个重要组件。</QuantumConverter.description>
-
+  <!--<MiniColdFusionReactor.label>微型冷核聚变反应堆</MiniColdFusionReactor.label>-->
+  <!--<MiniColdFusionReactor.description>缩小版的冷核聚变反应堆。依旧可以正常运作，但占用更小的空间，因此其适用性更广。</MiniColdFusionReactor.description>-->
+  <!--<MiniArcReactor.label>微型电弧反应堆</MiniArcReactor.label>-->
+  <!--<MiniArcReactor.description>缩小版的电弧反应堆。与冷核聚变反应堆相比它的效率更好，是其直系改进版。</MiniArcReactor.description>-->
 
 </LanguageData>

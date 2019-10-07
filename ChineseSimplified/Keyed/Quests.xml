@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <QuestPrefix>任务</QuestPrefix>
+
+  <Quest_RequiredItems>物资援助</Quest_RequiredItems>
+  <Quest_HelpItems_Site>物资传输点</Quest_HelpItems_Site>
+  <HowToCheckReqList>要查看索求物资，请打开详情页。</HowToCheckReqList>
+  <HelpResourcesDescriptionTitle>{0} 派系向你索求物资。你需要派遣一支携带所需物资的远征队到达该地以传输物资。\n索求物资清单:</HelpResourcesDescriptionTitle>
+  <GiveItemsSuccessTitle>物资已传输</GiveItemsSuccessTitle>
+  <GiveItemsSuccess>你已成功传输物资。报酬将以运输仓的方式发往你的基地。</GiveItemsSuccess>
+  <GiveItemsSuccess2>你已成功传输物资。报酬已给予你的远征队。</GiveItemsSuccess2>
+  <NotEnoughItemsToQuest>物资不足</NotEnoughItemsToQuest>
+  <GiveItemsOption>传输物资</GiveItemsOption>
+
+  <Quest_HelpItems_Label>物资请求</Quest_HelpItems_Label>
+  <Quest_HelpItems_Description>{0} 派系的首领联系你并告知你他们准备扩建他们的定居地，但他们没有足够多的可用资源。他们向你请求部分物资，作为交换，他们将给你一些他们富余的物资。\n你可以组建一支携带所需物资的远征队将物资带给他们。</Quest_HelpItems_Description>
+
+  <HowToGivePawns>要援助该殖民地，需要组建一支人数为 {0} 的远征队到达建筑工地。\n建设时长:{1}</HowToGivePawns>
+  <Quest_BuildNewBase_Label>新城的建立</Quest_BuildNewBase_Label>
+  <Quest_BuildNewBase_Description>{0} 派系你为他们的基地迁移提供帮助。他们给出的原因是现居地的自然资源即将耗竭，且低下的土地肥沃性无法持续发展。他们拥有足够的物资，但缺乏有实力的建筑工人，请求你给予援助。\n\n建设会持续几天，在此期间你安排过去的殖民者将不可用。在建设完成后你会得到报酬，且殖民者会被送回。</Quest_BuildNewBase_Description>
+  <Quest_BuildNewBase_Place>{0} 的施工地点</Quest_BuildNewBase_Place>
+  <NotEnoughPawnsToHelp>远征队人数不足</NotEnoughPawnsToHelp>
+  <HelpStartedTitle>开工</HelpStartedTitle>
+  <HelpStarted>你的远征队已到达新基地的施工地点。初步估计，施工将持续 {0} 天，之后你派遣的殖民者会被送回。</HelpStarted>
+  <BuildingAlreadyStarted>工程早已开始</BuildingAlreadyStarted>
+  <Quest_HelpWithBuilding_Option>帮助建设</Quest_HelpWithBuilding_Option>
+  <PawnsRequired>人数需求: {0}</PawnsRequired>
+  <BuildingSeccessEndTitle>竣工</BuildingSeccessEndTitle>
+  <BuildingSeccessEnd>{0} 的基地建设已竣工。他们感激你的帮助并告知，他们愿意通过物资或者军事援助来回报你。(你可以通过全息星球仪提出请求)</BuildingSeccessEnd>
+
+  <Quest_AttackFriendlySettlement_CardLabel>友军基地遇袭</Quest_AttackFriendlySettlement_CardLabel>
+  <Quest_AttackFriendlySettlement_Description>盟友 {1} 的首领 {0} 报告说他们的侦察兵发现敌人正准备突袭他们的定居点。他们表明他们大多数的战士在外进行一项机密任务，因此需要军事援助\n若你帮助他们击退这次袭击，他们能为你提供不定期的情报。\n\n要帮助击退这次袭击，组建一支远征队，带上你所需的一切装备，到达地图上的集合点。\n最终报酬将取决于盟军基地中存活下来的盟友数量。</Quest_AttackFriendlySettlement_Description>
+  <ScoutComp_GiveTitle>情报协议</ScoutComp_GiveTitle>
+  <ScoutComp_Give>你已与 {0} 派系签署了情报协议。他们将在长达 {2} 天内每隔 {1} 天为你提供可能发生的危险事件的情报数据，但需要注意的是，这些情报并不总是完全准确的。</ScoutComp_Give>
+  <ScoutComp_AlreadyGiveTitle>情报协议</ScoutComp_AlreadyGiveTitle>
+  <ScoutComp_AlreadyGive>之前已签署了与 {0} 派系的情报协议，因此协议延期到 {1} 天。</ScoutComp_AlreadyGive>
+
+  <Quest_MissingPeople_CardLabel>失踪</Quest_MissingPeople_CardLabel>
+  <Quest_MissingPeople_Description> {0} 派系的首领联系我们并报告，他们有一支收集物资的殖民者小队至今未归。原预计 {1} 天的行程，但已经过去了 {2} 天，远行者们仍旧没有回来。在尝试联系小队失败后，他们担心这支远行队可能迷路或受到了袭击。\n远行队所带食物还可以维持 {3} 天，这之后会被活活饿死。他请求我们找到失踪的远行队并将其带回他们的定居点。</Quest_MissingPeople_Description>
+  <Quest_MissingPeople_PlaceLabel>预测远行队所在点</Quest_MissingPeople_PlaceLabel>
+  <Quest_MissingPeople_InspectString>失踪的远行小队可能在这里。\n预计食物耗尽时间: {0} (天)</Quest_MissingPeople_InspectString>
+  <Quest_CheckMissingPeople_Action>搜查该地</Quest_CheckMissingPeople_Action>
+  <Quest_MissingPeople_CheckFailTitle>没有发现</Quest_MissingPeople_CheckFailTitle>
+  <Quest_MissingPeople_CheckFail>我们发现了失踪小队的踪迹，但人不在此。该地有一些较新的离开踪迹，我们应该追踪下去。(新的目的地已在地图上更新)</Quest_MissingPeople_CheckFail>
+  <Quest_MissingPeople_EnterToMapTitle>失踪</Quest_MissingPeople_EnterToMapTitle>
+  <Quest_MissingPeople_EnterToMap>进入该地后我们迅速发现了那一队失踪远行者。虽然他们虚弱不堪但仍未放弃。当我们准备离开时，一队敌军出现在我们眼前。我们必须杀出一条出路，当然，还要注意保护好我们此行营救的殖民者小队。</Quest_MissingPeople_EnterToMap>
+  <Quest_MissingPeople_Stage2Title>远征队已组建，可以出发了</Quest_MissingPeople_Stage2Title>
+  <Quest_MissingPeople_Stage2>我们已经击退了突袭。现在必须将他们在 {0} 天内护送到目的地。假若我们没有按时将他们护送到家，那么我们将面临被谴责为趁人之危的拾荒盗贼。(让远征队抵达指定的殖民地)</Quest_MissingPeople_Stage2>
+  <Quest_MissingPeople_End>你已抵达盟友的定居点。\n</Quest_MissingPeople_End>
+  <Quest_MissingPeople_EndFull>\n你让所有殖民者都活着回来了，{0} 十分感激你。</Quest_MissingPeople_EndFull>
+  <Quest_MissingPeople_EndPart>\n你向他们描述了你一路上的艰难险阻，那些死掉的人并非毫无价值，其他人应该为他们感到骄傲。</Quest_MissingPeople_EndPart>
+  <Quest_MissingPeople_Fiasko>\n你抵达时只带着借口。{0} 派系的首领十分沮丧。你全力解释，但没有任何依据，他们摇摇头，走开了。</Quest_MissingPeople_Fiasko>
+  <Quest_MissingPeople_EndQuest>任务结果</Quest_MissingPeople_EndQuest>
+  <Quest_CheckMissingPeople_Action2>送回失踪者</Quest_CheckMissingPeople_Action2>
+  <Quest_MissingPeople_ThiefTitle>起诉</Quest_MissingPeople_ThiefTitle>
+  <Quest_MissingPeople_Thief>你没有按时送达营救的幸存者，那些殖民者依靠自己回到了家。他们将这件事告诉了他们的首领，首领指责你违背殖民者小队的意愿妄图藏匿他们。你与该派系的协议已失效。</Quest_MissingPeople_Thief>
+
+  <Quest_TradeRequestComp_CardLabel>交易请求</Quest_TradeRequestComp_CardLabel>
+  <Quest_BanditCamp_CardLabel>强盗窝</Quest_BanditCamp_CardLabel>
+
+  <Quest_KillLeader_CardLabel>杀死敌方首领的任务</Quest_KillLeader_CardLabel>
+  <Quest_KillLeader_Description>{0} 与你谈论来自 {2} 派系的首领 {1}，说他可能会威胁到他们的定居点，要求你将其消灭。他在世界地图上标记了该首领所在的地方。\n暗杀他的消息可能早已泄露到世界各地，因此有必要尽快采取行动。</Quest_KillLeader_Description>
+  <Quest_KillLeader_PlaceLabel>目标所在地</Quest_KillLeader_PlaceLabel>
+
+  <Quest_SuppressionRebellion_CardLabel>镇压叛乱</Quest_SuppressionRebellion_CardLabel>
+  <Quest_SuppressionRebellion_Description>{0} 派系遇到了来自内部的叛乱。反抗军们要求独立，他们已经上演了多次屠杀行为，屠戮了一些平民。{0} 派系的兵力只能将其驱逐出定居点，但他们正积蓄力量并将再次进攻。\n你可以选择帮忙平定叛乱或者冷眼旁观战争发展，结束。最终，如果叛军获胜，就会形成一个新的派系。</Quest_SuppressionRebellion_Description>
+  <Quest_SuppressionRebellion_PlaceLabel>反抗军所在地</Quest_SuppressionRebellion_PlaceLabel>
+  <Quest_SuppressionRebellion_Dia>你已进入任务所在地。你看到远处的一队反抗军正准备发起进攻。\n\n你有两条途径完成任务。\n\n你可以残暴地屠尽所有反抗军。这样的话，你可以将他们的所有物资都拿走。\n\n或者你可以让反抗军尽可能的丧失行动能力，如此一来，他们仍归属 {0} 派系管制。而你会为你的行动得到报酬。\n\n无论那种方法，该任务都判定为完成。</Quest_SuppressionRebellion_Dia>
+  <Quest_SuppressionRebellionFailTitle>镇压叛乱失败</Quest_SuppressionRebellionFailTitle>
+  <Quest_SuppressionRebellionDesc>尝试镇压失败，且被反抗军击败了。\n反抗军们，极有可能，已经前往派系殖民地，结局已经不再是你能掌控的了。</Quest_SuppressionRebellionDesc>
+  <Quest_SuppressionRebellionWinTitle>胜利</Quest_SuppressionRebellionWinTitle>
+  <Quest_SuppressionRebellionWinDesc>你击败了反抗军，并俘虏了 {0} 人，因此 {1} 派系决定在你的报酬上再追加 {2} 白银。--------------\n{3}</Quest_SuppressionRebellionWinDesc>
+  <Quest_SuppressionRebellionRebelWinTitle>反抗军获胜</Quest_SuppressionRebellionRebelWinTitle>
+  <Quest_SuppressionRebellionRebelWinDesc>反抗军们击败了 {0} 殖民地的战士。 {1} \n这使得首领和政权进行了更迭。</Quest_SuppressionRebellionRebelWinDesc>
+  <Quest_SuppressionRebelplayerAffect>反抗军们会记得你的殖民地层阻拦过他们，因此你们的关系恶化了。</Quest_SuppressionRebelplayerAffect>
+  <Quest_SuppressionRebelNonplayerAffect>你的殖民地并未参与该次事件。</Quest_SuppressionRebelNonplayerAffect>
+  <Quest_SuppressionRebellionNewFactionTitle>反抗军们失败了</Quest_SuppressionRebellionNewFactionTitle>
+  <Quest_SuppressionRebellionNewFactionDesc>反抗军们未能击溃 {0} ，因此残余的反抗军们形成了分支派系，并自称 {1}。</Quest_SuppressionRebellionNewFactionDesc>
+  <CaravanArrivalAction_EnterToRebelMap_AlreadyStart>叛乱已爆发</CaravanArrivalAction_EnterToRebelMap_AlreadyStart>
+
+  <Quest_KillOrder_CardLabel>击杀任务</Quest_KillOrder_CardLabel>
+  <Quest_KillOrder_Description>{0} 以白银为酬金请求你消灭来自 {2} 派系的 {1}。他在世界地图上标记了此人所在的地方。</Quest_KillOrder_Description>
+  <Quest_KillOrder_PlaceLabel>目标所在地</Quest_KillOrder_PlaceLabel>
+
+
+</LanguageData>

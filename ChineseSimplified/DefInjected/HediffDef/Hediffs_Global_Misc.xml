@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <ZeroMechanites.label>零点机械感染</ZeroMechanites.label>
+  <ZeroMechanites.stages.0.label>轻度疼痛</ZeroMechanites.stages.0.label>
+  <ZeroMechanites.stages.1.label>剧烈疼痛</ZeroMechanites.stages.1.label>
+
   <Irradiation.label>辐射照射</Irradiation.label>
   <Irradiation.stages.0.label>最初的</Irradiation.stages.0.label>
   <Irradiation.stages.1.label>最初的</Irradiation.stages.1.label>

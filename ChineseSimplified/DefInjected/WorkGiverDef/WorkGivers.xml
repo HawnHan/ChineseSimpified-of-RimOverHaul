@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoSmelthingOre.label>用熔炉冶炼</DoSmelthingOre.label>
+  <DoSmelthingOre.verb>冶炼</DoSmelthingOre.verb>
+  <DoSmelthingOre.gerund>冶炼于</DoSmelthingOre.gerund>
+
+  <DoGasWork.label>在采气厂工作</DoGasWork.label>
+  <DoGasWork.verb>作业</DoGasWork.verb>
+  <DoGasWork.gerund>作业于</DoGasWork.gerund>
+
+  <DoCokeFurnace.label>在焦煤熔炉冶炼</DoCokeFurnace.label>
+  <DoCokeFurnace.verb>冶炼</DoCokeFurnace.verb>
+  <DoCokeFurnace.gerund>冶炼于</DoCokeFurnace.gerund>
+
+
+</LanguageData>

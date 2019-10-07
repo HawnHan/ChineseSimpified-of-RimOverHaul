@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GasPipeline.label>天然气管道(天然气)</GasPipeline.label>
+  <GasPipeline.description>设计用于传输天然气的管道。</GasPipeline.description>
+  <GasPipeline_Blueprint.label>天然气管道(天然气)(蓝图)</GasPipeline_Blueprint.label>
+  <GasPipeline_Frame.label>天然气管道(天然气)(建造中)</GasPipeline_Frame.label>
+  <GasPipeline_Frame.description>设计用于传输天然气的管道。</GasPipeline_Frame.description>
+
+  <LiquidGasPipeline.label>天然气管道(液化天然气)</LiquidGasPipeline.label>
+  <LiquidGasPipeline.description>传输液化天然气的管道。</LiquidGasPipeline.description>
+  <LiquidGasPipeline_Blueprint.label>天然气管道(液化天然气)(蓝图)</LiquidGasPipeline_Blueprint.label>
+  <LiquidGasPipeline_Frame.label>天然气管道(液化天然气)(建造中)</LiquidGasPipeline_Frame.label>
+  <LiquidGasPipeline_Frame.description>传输液化天然气的管道。</LiquidGasPipeline_Frame.description>
+
+  <GasWell.label>天然气井</GasWell.label>
+  <GasWell.description>存有天然气的井。安装天然气生产单元以生产天然气。</GasWell.description>
+
+  <GasProductionPlant.label>采气厂</GasProductionPlant.label>
+  <GasProductionPlant.description>它可以将天然气从井中抽出，并将其以可燃天然气的形式注入管道。</GasProductionPlant.description>
+  <GasProductionPlant_Blueprint.label>采气厂(蓝图)</GasProductionPlant_Blueprint.label>
+  <GasProductionPlant_Frame.label>采气厂(建造中)</GasProductionPlant_Frame.label>
+  <GasProductionPlant_Frame.description>它可以将天然气从井中抽出，并将其以可燃天然气的形式注入管道。</GasProductionPlant_Frame.description>
+
+  <GasCooler.label>天然气冷却器</GasCooler.label>
+  <GasCooler.description>该机器可将传入其中的天然气冷却至160度，生成可大量储存的液化天然气。</GasCooler.description>
+  <GasCooler_Blueprint.label>天然气冷却器(蓝图)</GasCooler_Blueprint.label>
+  <GasCooler_Frame.label>天然气冷却器(建造中)</GasCooler_Frame.label>
+  <GasCooler_Frame.description>该机器可将传入其中的天然气冷却至160度，生成可大量储存的液化天然气。</GasCooler_Frame.description>
+
+  <SmallGasVault.label>小储气罐</SmallGasVault.label>
+  <SmallGasVault.description>小型液化天然气储罐。</SmallGasVault.description>
+  <SmallGasVault_Blueprint.label>小储气罐(蓝图)</SmallGasVault_Blueprint.label>
+  <SmallGasVault_Frame.label>小储气罐(建造中)</SmallGasVault_Frame.label>
+  <SmallGasVault_Frame.description>小型液化天然气储罐。</SmallGasVault_Frame.description>
+
+  <BigGasVault.label>大储气罐</BigGasVault.label>
+  <BigGasVault.description>大型液化天然气储罐。</BigGasVault.description>
+  <BigGasVault_Blueprint.label>大储气罐(蓝图)</BigGasVault_Blueprint.label>
+  <BigGasVault_Frame.label>大储气罐(建造中)</BigGasVault_Frame.label>
+  <BigGasVault_Frame.description>大型液化天然气储罐。</BigGasVault_Frame.description>
+
+  <GasProcessingStation.label>天然气加工站</GasProcessingStation.label>
+  <GasProcessingStation.description>加工液化天然气为其他气体的站点。</GasProcessingStation.description>
+  <GasProcessingStation_Blueprint.label>天然气加工站(蓝图)</GasProcessingStation_Blueprint.label>
+  <GasProcessingStation_Frame.label>天然气加工站(建造中)</GasProcessingStation_Frame.label>
+  <GasProcessingStation_Frame.description>加工液化天然气为其他气体的站点。</GasProcessingStation_Frame.description>
+	
+  <GasTurbine.label>气涡轮机</GasTurbine.label>
+  <GasTurbine.description>天然气涡轮机，又称燃气轮机，是一种持续燃烧的内燃机。</GasTurbine.description>
+  <GasTurbine_Blueprint.label>气涡轮机(蓝图)</GasTurbine_Blueprint.label>
+  <GasTurbine_Frame.label>气涡轮机(建造中)</GasTurbine_Frame.label>
+  <GasTurbine_Frame.description>天然气涡轮机，又称燃气轮机，是一种持续燃烧的内燃机。</GasTurbine_Frame.description>
+
+  <GasHeater.label>天然气供暖器</GasHeater.label>
+  <GasHeater.description>天然气供暖设备。它可以全自动开关以到达预设的目标温度。</GasHeater.description>
+  <GasHeater_Blueprint.label>天然气供暖器(蓝图)</GasHeater_Blueprint.label>
+  <GasHeater_Blueprint_Install.label>天然气供暖器(蓝图)</GasHeater_Blueprint_Install.label>
+  <GasHeater_Frame.label>天然气供暖器(建造中)</GasHeater_Frame.label>
+  <GasHeater_Frame.description>天然气供暖设备。它可以全自动开关以到达预设的目标温度。</GasHeater_Frame.description>
+
+
+</LanguageData>

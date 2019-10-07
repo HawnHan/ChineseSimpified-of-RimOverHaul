@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmeltingIronIngots.label>冶炼铁</SmeltingIronIngots.label>
+  <SmeltingIronIngots.description>熔化铁矿以获取铁块。</SmeltingIronIngots.description>
+  <SmeltingIronIngots.jobString>冶炼铁</SmeltingIronIngots.jobString>
+
+  <SmeltingCopperIngots.label>冶炼铜</SmeltingCopperIngots.label>
+  <SmeltingCopperIngots.description>熔化铜矿以获取铜块。</SmeltingCopperIngots.description>
+  <SmeltingCopperIngots.jobString>冶炼铜</SmeltingCopperIngots.jobString>
+
+  <SmeltingNickelIngots.label>冶炼镍</SmeltingNickelIngots.label>
+  <SmeltingNickelIngots.description>熔化镍矿以获取镍块和钴块。</SmeltingNickelIngots.description>
+  <SmeltingNickelIngots.jobString>冶炼镍</SmeltingNickelIngots.jobString>
+
+  <SmeltingPalladiumIngot.label>冶炼钯</SmeltingPalladiumIngot.label>
+  <SmeltingPalladiumIngot.description>用镍，白银及铜炼制钯</SmeltingPalladiumIngot.description>
+  <SmeltingPalladiumIngot.jobString>冶炼钯</SmeltingPalladiumIngot.jobString>
+
+  <SmeltingTiliumIngot.label>冶炼缇利姆合金</SmeltingTiliumIngot.label>
+  <SmeltingTiliumIngot.description>获取缇利姆合金块</SmeltingTiliumIngot.description>
+  <SmeltingTiliumIngot.jobString>冶炼缇利姆合金</SmeltingTiliumIngot.jobString>
+
+  <SmeltingTitanIngots.label>冶炼钛合金</SmeltingTitanIngots.label>
+  <SmeltingTitanIngots.description>熔炼钛矿以获取钛合金</SmeltingTitanIngots.description>
+  <SmeltingTitanIngots.jobString>冶炼钛合金</SmeltingTitanIngots.jobString>
+
+  <SmeltingChorium.label>冶炼铬</SmeltingChorium.label>
+  <SmeltingChorium.description>用铁和焦煤炼制铬</SmeltingChorium.description>
+  <SmeltingChorium.jobString>冶炼铬</SmeltingChorium.jobString>
+
+  <BurnWoodToCoal.label>制作碳</BurnWoodToCoal.label>
+  <BurnWoodToCoal.description>燃烧木头以获取碳</BurnWoodToCoal.description>
+  <BurnWoodToCoal.jobString>正在制作碳</BurnWoodToCoal.jobString>
+
+  <SmeltingPlasteel.label>冶炼玻璃钢</SmeltingPlasteel.label>
+  <SmeltingPlasteel.description>用铁、钛合金和钴炼制玻璃钢</SmeltingPlasteel.description>
+  <SmeltingPlasteel.jobString>冶炼玻璃钢</SmeltingPlasteel.jobString>
+
+  <SmeltingSteel.label>冶炼钢铁</SmeltingSteel.label>
+  <SmeltingSteel.description>用铁块和煤炼制钢铁</SmeltingSteel.description>
+  <SmeltingSteel.jobString>冶炼钢铁</SmeltingSteel.jobString>
+
+  <SmeltingSteelBig.label>冶炼钢铁(x10)</SmeltingSteelBig.label>
+  <SmeltingSteelBig.description>用铁块和煤炼制钢铁(x10)</SmeltingSteelBig.description>
+  <SmeltingSteelBig.jobString>冶炼钢铁(x10)</SmeltingSteelBig.jobString>
+
+  <BurnCoalToCokeCoal.label>制作焦煤</BurnCoalToCokeCoal.label>
+  <BurnCoalToCokeCoal.description>燃烧煤以获取焦煤</BurnCoalToCokeCoal.description>
+  <BurnCoalToCokeCoal.jobString>正在制作焦煤</BurnCoalToCokeCoal.jobString>
+
+  <SmeltingTungsten.label>冶炼钨</SmeltingTungsten.label>
+  <SmeltingTungsten.description>冶炼钨块</SmeltingTungsten.description>
+  <SmeltingTungsten.jobString>正在冶炼钨</SmeltingTungsten.jobString>
+
+
+</LanguageData>

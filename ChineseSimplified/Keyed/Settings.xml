@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MEM_Settings_General>更多事件设置</MEM_Settings_General>
+  <MEM_Settings_General>事件设置</MEM_Settings_General>
   <EventActive>启用?</EventActive>
 
-  <ShipCrash_Title>飞船坠毁</ShipCrash_Title>
-  <ShipCrash_Desc>一艘不明飞船失事坠毁了。许多碎片散落在星球上。你可以搜寻它们以获取资源或新技术物资。</ShipCrash_Desc>
+  <General_Title>大致设定</General_Title>
+  <General_Desc>大致设定</General_Desc>
+  <UseNewMapSizes_title>启用附加的世界尺寸</UseNewMapSizes_title>
+  <UseNewMapSizes>启用附加的世界尺寸(需要重启游戏)</UseNewMapSizes>
+
   <MinParts_title>最小残骸数量</MinParts_title>
   <MinParts>一次事件散布在定居点周围生成的最小残骸个数</MinParts>
   <MaxParts_title>最大残骸数量</MaxParts_title>
@@ -31,95 +34,76 @@
   <ShipCargo_Living_MaxSupply_title>人物箱最大个数</ShipCargo_Living_MaxSupply_title>
   <ShipCargo_Living_MaxSupply>生成该种箱子的最大个数</ShipCargo_Living_MaxSupply>
 
-  <Supernova_Title>超新星爆炸</Supernova_Title>
-  <Supernova_Desc>超新星爆炸</Supernova_Desc>
-
-  <SuperHeatWave_Title>异常炎热的天气</SuperHeatWave_Title>
-  <SuperHeatWave_Desc>难以置信的强热浪席卷星球。温度可以上升到100度！</SuperHeatWave_Desc>
-
-  <MechanoidPortal_Title>传送机械体！</MechanoidPortal_Title>
-  <MechanoidPortal_Desc>一个神秘的碎片从天空落下，产生了一个传送装置，从中出现了机械体。传送门本身一直有效，但是如果您破坏了生成器，那么传送门将消失。</MechanoidPortal_Desc>
-
-  <Disease_NeurofibromatousWorm_Title>神经纤维瘤蠕虫</Disease_NeurofibromatousWorm_Title>
-  <Disease_NeurofibromatousWorm_Desc>神经纤维瘤蠕虫影响大脑中负责视觉和听觉的部分，也影响身体神经末梢。如果不及时治愈，殖民者将永远失聪失明！</Disease_NeurofibromatousWorm_Desc>
-
-  <Disease_Fibrodysplasia_Title>纤维发育不良</Disease_Fibrodysplasia_Title>
-  <Disease_Fibrodysplasia_Desc>你的殖民者某些身体部分覆盖着脓液。如果不治疗，身体的一部分就会完全死亡，这种疾病会传播到其他殖民者身上。</Disease_Fibrodysplasia_Desc>
-
-  <DestroyRoad_Title>道路损坏</DestroyRoad_Title>
-  <DestroyRoad_Desc>一小队劫匪炸毁了其中一条道路。</DestroyRoad_Desc>
-
-  <BoulderMassHit_Title>流星雨</BoulderMassHit_Title>
-  <BoulderMassHit_Desc>流星雨！有一段时间，陨石会随机掉到地面。</BoulderMassHit_Desc>
-
-  <BeetleRush_Title>蜂巢！</BeetleRush_Title>
-  <BeetleRush_Desc>洞穴甲虫从蜂巢里挖了一条隧道。他们会一直出现直到你关上通道。</BeetleRush_Desc>
-
-  <RadiationFon_Title>辐射增强</RadiationFon_Title>
-  <RadiationFon_Desc>由于缺少一部分大气保护，宇宙辐射很容易地泄漏到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon_Desc>
-
-  <IceStorm_Title>冰风暴</IceStorm_Title>
-  <IceStorm_Desc>一场冰暴袭击了你的殖民地。这场风暴携带着难以置信的低温和冰块。尽量不要离开房子</IceStorm_Desc>
-
-  <HeavyAir_Title>重空气</HeavyAir_Title>
-  <HeavyAir_Desc>气流带来大量的重气体，会导致呼吸困难，身体中毒，这会持续几天。</HeavyAir_Desc>
-
-  <SandStorm_Title>沙尘暴</SandStorm_Title>
-  <SandStorm_Desc>一场沙尘暴即将来临。在持续期间，能见度与行走速度会被降低。</SandStorm_Desc>
-
-  <MassiveFire_Title>熊熊烈火</MassiveFire_Title>
-  <MassiveFire_Desc>邻近地区开始发生大火。如果它没有被熄灭，它将摧毁附近所有森林！</MassiveFire_Desc>
-
-  <Endlessday_Title>无尽白昼</Endlessday_Title>
-  <Endlessday_Desc>无尽白昼</Endlessday_Desc>
-
-  <DenseAtmosphere_Title>稠密大气</DenseAtmosphere_Title>
-  <DenseAtmosphere_Desc>稠密大气</DenseAtmosphere_Desc>
-
-  <ClimateBomb_Title>气候炸弹</ClimateBomb_Title>
-  <ClimateBomb_Desc>已检测到气候炸弹所在位置。不清楚是谁放置了它，但你要明白：如果它没有被清除，气候将变得狂暴。</ClimateBomb_Desc>
-
-  <IonizedAtmosphere_Title>电离大气层</IonizedAtmosphere_Title>
-  <IonizedAtmosphere_Desc>电离层比以往任何时候都要厚得多。这种现象增加了雷暴天气的几率。</IonizedAtmosphere_Desc>
-
-  <Earthquake_Title>地震</Earthquake_Title>
-  <Earthquake_Desc>一场地震开始了，所有人都需要到避难所！</Earthquake_Desc>
-
-  <SiegeCamp_Title>围攻者基地</SiegeCamp_Title>
-  <SiegeCamp_Desc>一个敌人的基地已落户在你的殖民地附近。在你摧毁围攻者基地前他们将不断袭击并轰炸你的殖民地。</SiegeCamp_Desc>
-
-  <AttackFriendlySettlement_Title>友军基地被袭</AttackFriendlySettlement_Title>
-  <AttackFriendlySettlement_Desc>一名盟友的侦查员报告说，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。</AttackFriendlySettlement_Desc>
-
-  <Constellations_Title>星座之光</Constellations_Title>
-  <Constellations_Desc></Constellations_Desc>
   <EnablePositive_title>启用正星座(1 - 启用, 0 - 禁用)</EnablePositive_title>
   <EnablePositive>启用正能量星座(1 - 启用, 0 - 禁用)</EnablePositive>
   <EnableNegative_title>启用负星座(1 - 启用, 0 - 禁用)</EnableNegative_title>
   <EnableNegative>启用负能量星座(1 - 启用, 0 - 禁用)</EnableNegative>
 
-  <MineralMeteorite_Title>矿陨石</MineralMeteorite_Title>
-  <MineralMeteorite_Desc>一块巨大的矿物质陨石进入了大气层。</MineralMeteorite_Desc>
+  <RaidEnemyWithAnimals_Title>敌方动物袭击</RaidEnemyWithAnimals_Title>
+  <RaidEnemyWithAnimals_Desc>敌方动物袭击</RaidEnemyWithAnimals_Desc>
 
-  <DropAnimalInsanity_Title>空投疯狂动物</DropAnimalInsanity_Title>
-  <DropAnimalInsanity_Desc>未知派系向我们空投了狂暴动物。准备防御！</DropAnimalInsanity_Desc>
+  <DoMapChange_title>逐步改变沙漠的生物群(1或0)</DoMapChange_title>
+  <DoMapChange>若选择1，则每过几天将改变随机小格沙漠中的生物群</DoMapChange>
 
-  <HungryCannibalRaid_Title>饥饿食人族袭击</HungryCannibalRaid_Title>
-  <HungryCannibalRaid_Desc>食人族部落从四面八方袭击你的殖民地！他们不会留俘虏，他们要的是人肉</HungryCannibalRaid_Desc>
-
-  <DoomsdayUltimatum_Title>末日通牒</DoomsdayUltimatum_Title>
-  <DoomsdayUltimatum_Desc>敌对派系给你发来通牒：我们拥有足以毁灭这个星球的武器。并开出条件：50000白银。\n你可以与其他派系一起收集白银或者组织一次进攻。</DoomsdayUltimatum_Desc>
-
-  <Arsonists_Title>纵火犯</Arsonists_Title>
-  <Arsonists_Desc>几名敌方派系的战士已到达并准备烧毁你的森林。</Arsonists_Desc>
-
-  <LeanAtmosphere_Title>贫瘠大气</LeanAtmosphere_Title>
-  <LeanAtmosphere_Desc>贫瘠大气</LeanAtmosphere_Desc>
-
-  <NoSun_Title>没有太阳</NoSun_Title>
-  <NoSun_Desc>没有太阳</NoSun_Desc>
-
-  <UnifiedRaid_Title>联合袭击</UnifiedRaid_Title>
-  <UnifiedRaid_Desc>两股敌方部队决定联合军队袭击你的殖民地。</UnifiedRaid_Desc>
+  <!--<ShipCrash_Title>飞船坠毁</ShipCrash_Title>-->
+  <!--<ShipCrash_Desc>一艘不明飞船失事坠毁了。许多碎片散落在星球上。你可以搜寻它们以获取资源或新技术物资。</ShipCrash_Desc>-->
+  <!--<Supernova_Title>超新星爆炸</Supernova_Title>-->
+  <!--<Supernova_Desc>超新星爆炸</Supernova_Desc>-->
+  <!--<SuperHeatWave_Title>异常炎热的天气</SuperHeatWave_Title>-->
+  <!--<SuperHeatWave_Desc>难以置信的强热浪席卷星球。温度可以上升到100度！</SuperHeatWave_Desc>-->
+  <!--<MechanoidPortal_Title>传送机械体！</MechanoidPortal_Title>-->
+  <!--<MechanoidPortal_Desc>一个神秘的碎片从天空落下，产生了一个传送装置，从中出现了机械体。传送门本身一直有效，但是如果您破坏了生成器，那么传送门将消失。</MechanoidPortal_Desc>-->
+  <!--<Disease_NeurofibromatousWorm_Title>神经纤维瘤蠕虫</Disease_NeurofibromatousWorm_Title>-->
+  <!--<Disease_NeurofibromatousWorm_Desc>神经纤维瘤蠕虫影响大脑中负责视觉和听觉的部分，也影响身体神经末梢。如果不及时治愈，殖民者将永远失聪失明！</Disease_NeurofibromatousWorm_Desc>-->
+  <!--<Disease_Fibrodysplasia_Title>纤维发育不良</Disease_Fibrodysplasia_Title>-->
+  <!--<Disease_Fibrodysplasia_Desc>你的殖民者某些身体部分覆盖着脓液。如果不治疗，身体的一部分就会完全死亡，这种疾病会传播到其他殖民者身上。</Disease_Fibrodysplasia_Desc>-->
+  <!--<DestroyRoad_Title>道路损坏</DestroyRoad_Title>-->
+  <!--<DestroyRoad_Desc>一小队劫匪炸毁了其中一条道路。</DestroyRoad_Desc>-->
+  <!--<BoulderMassHit_Title>流星雨</BoulderMassHit_Title>-->
+  <!--<BoulderMassHit_Desc>流星雨！有一段时间，陨石会随机掉到地面。</BoulderMassHit_Desc>-->
+  <!--<BeetleRush_Title>蜂巢！</BeetleRush_Title>-->
+  <!--<BeetleRush_Desc>洞穴甲虫从蜂巢里挖了一条隧道。他们会一直出现直到你关上通道。</BeetleRush_Desc>-->
+  <!--<RadiationFon_Title>辐射增强</RadiationFon_Title>-->
+  <!--<RadiationFon_Desc>由于缺少一部分大气保护，宇宙辐射很容易地泄漏到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon_Desc>-->
+  <!--<IceStorm_Title>冰风暴</IceStorm_Title>-->
+  <!--<IceStorm_Desc>一场冰暴袭击了你的殖民地。这场风暴携带着难以置信的低温和冰块。尽量不要离开房子</IceStorm_Desc>-->
+  <!--<HeavyAir_Title>重空气</HeavyAir_Title>-->
+  <!--<HeavyAir_Desc>气流带来大量的重气体，会导致呼吸困难，身体中毒，这会持续几天。</HeavyAir_Desc>-->
+  <!--<SandStorm_Title>沙尘暴</SandStorm_Title>-->
+  <!--<SandStorm_Desc>一场沙尘暴即将来临。在持续期间，能见度与行走速度会被降低。</SandStorm_Desc>-->
+  <!--<MassiveFire_Title>熊熊烈火</MassiveFire_Title>-->
+  <!--<MassiveFire_Desc>邻近地区开始发生大火。如果它没有被熄灭，它将摧毁附近所有森林！</MassiveFire_Desc>-->
+  <!--<Endlessday_Title>无尽白昼</Endlessday_Title>-->
+  <!--<Endlessday_Desc>无尽白昼</Endlessday_Desc>-->
+  <!--<DenseAtmosphere_Title>稠密大气</DenseAtmosphere_Title>-->
+  <!--<DenseAtmosphere_Desc>稠密大气</DenseAtmosphere_Desc>-->
+  <!--<ClimateBomb_Title>气候炸弹</ClimateBomb_Title>-->
+  <!--<ClimateBomb_Desc>已检测到气候炸弹所在位置。不清楚是谁放置了它，但你要明白：如果它没有被清除，气候将变得狂暴。</ClimateBomb_Desc>-->
+  <!--<IonizedAtmosphere_Title>电离大气层</IonizedAtmosphere_Title>-->
+  <!--<IonizedAtmosphere_Desc>电离层比以往任何时候都要厚得多。这种现象增加了雷暴天气的几率。</IonizedAtmosphere_Desc>-->
+  <!--<Earthquake_Title>地震</Earthquake_Title>-->
+  <!--<Earthquake_Desc>一场地震开始了，所有人都需要到避难所！</Earthquake_Desc>-->
+  <!--<SiegeCamp_Title>围攻者基地</SiegeCamp_Title>-->
+  <!--<SiegeCamp_Desc>一个敌人的基地已落户在你的殖民地附近。在你摧毁围攻者基地前他们将不断袭击并轰炸你的殖民地。</SiegeCamp_Desc>-->
+  <!--<AttackFriendlySettlement_Title>友军基地遇袭</AttackFriendlySettlement_Title>-->
+  <!--<AttackFriendlySettlement_Desc>一名盟友的侦查员报告说，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。</AttackFriendlySettlement_Desc>-->
+  <!--<Constellations_Title>星座之光</Constellations_Title>-->
+  <!--<Constellations_Desc></Constellations_Desc>-->
+  <!--<MineralMeteorite_Title>矿陨石</MineralMeteorite_Title>-->
+  <!--<MineralMeteorite_Desc>一块巨大的矿物质陨石进入了大气层。</MineralMeteorite_Desc>-->
+  <!--<DropAnimalInsanity_Title>空投疯狂动物</DropAnimalInsanity_Title>-->
+  <!--<DropAnimalInsanity_Desc>未知派系向我们空投了狂暴动物。准备防御！</DropAnimalInsanity_Desc>-->
+  <!--<HungryCannibalRaid_Title>饥饿食人族袭击</HungryCannibalRaid_Title>-->
+  <!--<HungryCannibalRaid_Desc>食人族部落从四面八方袭击你的殖民地！他们不会留俘虏，他们要的是人肉</HungryCannibalRaid_Desc>-->
+  <!--<DoomsdayUltimatum_Title>末日通牒</DoomsdayUltimatum_Title>-->
+  <!--<DoomsdayUltimatum_Desc>敌对派系给你发来通牒：我们拥有足以毁灭这个星球的武器。并开出条件：50000白银。\n你可以与其他派系一起收集白银或者组织一次进攻。</DoomsdayUltimatum_Desc>-->
+  <!--<Arsonists_Title>纵火犯</Arsonists_Title>-->
+  <!--<Arsonists_Desc>几名敌方派系的战士已到达并准备烧毁你的森林。</Arsonists_Desc>-->
+  <!--<LeanAtmosphere_Title>贫瘠大气</LeanAtmosphere_Title>-->
+  <!--<LeanAtmosphere_Desc>贫瘠大气</LeanAtmosphere_Desc>-->
+  <!--<NoSun_Title>没有太阳</NoSun_Title>-->
+  <!--<NoSun_Desc>没有太阳</NoSun_Desc>-->
+  <!--<UnifiedRaid_Title>联合袭击</UnifiedRaid_Title>-->
+  <!--<UnifiedRaid_Desc>两股敌方部队决定联合军队袭击你的殖民地。</UnifiedRaid_Desc>-->
 
 </LanguageData>

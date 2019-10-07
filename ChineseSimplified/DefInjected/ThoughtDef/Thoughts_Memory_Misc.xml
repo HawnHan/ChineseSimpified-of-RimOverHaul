@@ -13,6 +13,24 @@
   <PositiveCharge.stages.0.description>丧气是弱者才会有的表现。我已准备好面对任何困难，情绪无法击倒我！</PositiveCharge.stages.0.description>
 
 
+  <!-- Состояние: Психическое воздействие -->
+
+  <MentalImpact.stages.0.label>精神冲击</MentalImpact.stages.0.label>
+  <MentalImpact.stages.0.description>你每一次吸入这种气体，某些东西都在改变。</MentalImpact.stages.0.description>
+
+
+  <!-- Состояние: Морской воздух -->
+
+  <SeaAir.stages.0.label>海边空气</SeaAir.stages.0.label>
+  <SeaAir.stages.0.description>我感到精力充沛，这令人精神焕发的海边空气</SeaAir.stages.0.description>
+
+
+  <!-- Состояние: Горный воздух -->
+
+  <MountainAir.stages.0.label>山间空气</MountainAir.stages.0.label>
+  <MountainAir.stages.0.description>我感受到这来自山顶令人神清气爽的空气</MountainAir.stages.0.description>
+
+
   <!--<AwesomeSight.stages.Awesome_Sight.label>Awesome Sight</AwesomeSight.stages.Awesome_Sight.label>-->
   <!--<AwesomeSight.stages.Awesome_Sight.description>Supernova explosion looks awesome! I want to admire all day.</AwesomeSight.stages.Awesome_Sight.description>-->
 

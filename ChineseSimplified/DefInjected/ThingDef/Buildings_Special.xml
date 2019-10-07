@@ -13,17 +13,11 @@
   <VacuumPump.label>真空泵</VacuumPump.label>
   <VacuumPump.description>用于控制房间内氧气及其他成分的泵。它是零点反应堆运行的重要组成部分。</VacuumPump.description>
 
-  <Mk1PowerStation.label>MKⅠ充能基站</Mk1PowerStation.label>
-  <Mk1PowerStation.description>充能动力甲与创建Ⅰ代动力甲的基站。</Mk1PowerStation.description>
-  <Mk1PowerStation_Blueprint.label>MKⅠ充能基站(蓝图)</Mk1PowerStation_Blueprint.label>
-  <Mk1PowerStation_Frame.label>MKⅠ充能基站(建造中)</Mk1PowerStation_Frame.label>
-  <Mk1PowerStation_Frame.description>充能动力甲与创建Ⅰ代动力甲的基站。</Mk1PowerStation_Frame.description>
-
   <SingularReactor.label>非凡反应堆</SingularReactor.label>
   <SingularReactor.description>其能量来源于坍缩后微观黑洞的一种介质。这种反应器的发电原理是使用黑洞蒸发期间释放的能量。</SingularReactor.description>
 
   <DoomsdayUltimateBomb.label>末日武器</DoomsdayUltimateBomb.label>
-  <DoomsdayUltimateBomb.description>末日武器是一种足以从根本上摧毁一个星球的武器，大气层会被破坏，天空会裂成一片片碎块。\n\n该机器是基于机械科技并使用极其昂贵和稀有的材料制造的：使用玻璃钢和白银电镀，其内部填满黄金和高级零部件。当其存在于太空或别的星球时，还拥有一个先进电脑的通讯系统，允许你对所有活着的物体在一瞬间造成毁灭性的伤害。\n\n如果该武器落入坏人之手，将会导致缺氧、太阳辐射、基因突变和许多极其严重的事故。</DoomsdayUltimateBomb.description>
+  <DoomsdayUltimateBomb.description>末日武器是一种足以从根本上摧毁一个星球的武器，启动后，大气层会被破坏，天空会裂成一片片碎块。\n\n该机器基于机械科技，并使用极其昂贵和稀有的材料制造：外部用玻璃钢和白银电镀，内部填满黄金和高级零部件。当其存在于太空或别的星球时，还拥有一个先进电脑的通讯系统，允许你对所有活着的物体在一瞬间造成毁灭性的伤害。\n\n如果该武器落入坏人之手，将会导致缺氧、太阳辐射、基因突变和许多极其严重的事故。</DoomsdayUltimateBomb.description>
 
   <Geoscape.label>全息星球仪</Geoscape.label>
   <Geoscape.description>此计算机会监控关注星球上正在发生的事情。因已连接到星球信息网，在星球的全息图上，所有重要的事件都会展示。此星球计算机基于机械科技，因此可以提供高质网络连接效率和无缝的实时消息通知。</Geoscape.description>
@@ -31,5 +25,11 @@
   <Geoscape_Frame.label>全息星球仪(建造中)</Geoscape_Frame.label>
   <Geoscape_Frame.description>此计算机会监控关注星球上正在发生的事情。因已连接到星球信息网，在星球的全息图上，所有重要的事件都会展示。此星球计算机基于机械科技，因此可以提供高质网络连接效率和无缝的实时消息通知。</Geoscape_Frame.description>
 
+
+  <!--<Mk1PowerStation.label>MKⅠ充能基站</Mk1PowerStation.label>-->
+  <!--<Mk1PowerStation.description>充能动力甲与创建Ⅰ代动力甲的基站。</Mk1PowerStation.description>-->
+  <!--<Mk1PowerStation_Blueprint.label>MKⅠ充能基站(蓝图)</Mk1PowerStation_Blueprint.label>-->
+  <!--<Mk1PowerStation_Frame.label>MKⅠ充能基站(建造中)</Mk1PowerStation_Frame.label>-->
+  <!--<Mk1PowerStation_Frame.description>充能动力甲与创建Ⅰ代动力甲的基站。</Mk1PowerStation_Frame.description>-->
 
 </LanguageData>

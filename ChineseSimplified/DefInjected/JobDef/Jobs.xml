@@ -1,13 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LoadArmorIntoStation.reportString>将动力甲拿到基站</LoadArmorIntoStation.reportString>
-  <UnLoadArmorIntoStation.reportString>从基站取下动力甲</UnLoadArmorIntoStation.reportString>
-  <CarryReactorToStation.reportString>将核心拿到基站</CarryReactorToStation.reportString>
   <FireAround.reportString>纵火</FireAround.reportString>
   <UseGeoscape.reportString>使用全息星球仪</UseGeoscape.reportString>
   <DeEnergizeDoomsdayBomb.reportString>关闭武器能量屏障</DeEnergizeDoomsdayBomb.reportString>
   <DisableSecuritySystems.reportString>关闭安全系统</DisableSecuritySystems.reportString>
+  <SpeakWithQuester.reportString>探讨任务</SpeakWithQuester.reportString>
+  <SpeakWithPawn.reportString>讨论</SpeakWithPawn.reportString>
+  <DestroyTribalCrack.reportString>正在炸毁地道</DestroyTribalCrack.reportString>
+  <CarryItemToCokeFurnace.reportString>搬运物品到焦煤熔炉</CarryItemToCokeFurnace.reportString>
+  <SwitchCokeFurnace.reportString>开关焦炭炉</SwitchCokeFurnace.reportString>
+  <TakeResultFromCokeFurnace.reportString>从焦煤熔炉中取出物品</TakeResultFromCokeFurnace.reportString>
+  <FillUpHole.reportString>将地道填满土</FillUpHole.reportString>
 
+
+  <!--<LoadArmorIntoStation.reportString>将动力甲拿到基站</LoadArmorIntoStation.reportString>-->
+  <!--<UnLoadArmorIntoStation.reportString>从基站取下动力甲</UnLoadArmorIntoStation.reportString>-->
+  <!--<CarryReactorToStation.reportString>将核心拿到基站</CarryReactorToStation.reportString>-->
 
 </LanguageData>

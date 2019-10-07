@@ -3,14 +3,14 @@
 
   <SuperHeatWave.label>异常炎热的天气</SuperHeatWave.label>
   <SuperHeatWave.description>难以置信的强热浪席卷了星球。温度可以上升到100度！</SuperHeatWave.description>
-  <SuperHeatWave.endMessage>难以置信的热度过去了</SuperHeatWave.endMessage>
+  <SuperHeatWave.endMessage>难以置信的热浪过去了</SuperHeatWave.endMessage>
 
   <BoulderMassHit.label>流星雨</BoulderMassHit.label>
   <BoulderMassHit.description>流星雨！有一段时间，陨石会掉到地上。</BoulderMassHit.description>
   <BoulderMassHit.endMessage>似乎一切…</BoulderMassHit.endMessage>
 
   <Endlessday.label>无尽白昼</Endlessday.label>
-  <Endlessday.description>因为行星附近一颗恒星的强烈闪光，从现在开始都是白昼，并且再也不会有变化。</Endlessday.description>
+  <Endlessday.description>因为行星附近一颗恒星的强烈闪光，所以从现在开始只余白昼，不再交替。</Endlessday.description>
   <Endlessday.endMessage>似乎一切…</Endlessday.endMessage>
 
   <LeanAtmosphere.label>空气稀薄</LeanAtmosphere.label>
@@ -18,7 +18,7 @@
   <LeanAtmosphere.endMessage></LeanAtmosphere.endMessage>
 
   <RadiationFon.label>辐射增加</RadiationFon.label>
-  <RadiationFon.description>由于缺少一部分大气，宇宙辐射很容易透过大气层直射到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon.description>
+  <RadiationFon.description>由于部分大气稀薄，宇宙辐射很容易透过大气层直射到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon.description>
   <RadiationFon.endMessage>
   </RadiationFon.endMessage>
 
@@ -59,7 +59,18 @@
   <Constellations.description>星座之光</Constellations.description>
   <Constellations.endMessage>星座之光消失了</Constellations.endMessage>
 
+  <Psychogas.label>神经毒气</Psychogas.label>
+  <Psychogas.description>某人释放了大量的化学致幻物到空气中，因此室外的人将逐渐丧失理智。</Psychogas.description>
+  <Psychogas.endMessage>大部分的气体已经挥发。室外又安全了。</Psychogas.endMessage>
 
+  <SpaceBattle.label>太空战役</SpaceBattle.label>
+  <SpaceBattle.description>距你所在星球不远处，两个未知的派系上演了一场太空战。战争持续期间，飞船与流弹可能会砸到你所在的星球。</SpaceBattle.description>
+  <SpaceBattle.endMessage>战争平息了</SpaceBattle.endMessage>
+
+
+  <!--<SummerSolstice.label>夏至</SummerSolstice.label>-->
+  <!--<SummerSolstice.description>仲夏，最漫长的白昼</SummerSolstice.description>-->
+  <!--<SummerSolstice.endMessage>漫长的夏至日结束了</SummerSolstice.endMessage>-->
   <!--<WetAir.label>Wet air</WetAir.label>-->
   <!--<WetAir.description>Air has come filled with particles of water. Being on the open area will immediately freeze the lungs, and buildings will start to deteriorate</WetAir.description>-->
   <!--<WetAir.endMessage>Water in the air turned into ice</WetAir.endMessage>-->

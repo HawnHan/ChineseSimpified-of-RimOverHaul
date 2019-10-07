@@ -1,6 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Frenzy_SummerWork.label>工作狂热</Frenzy_SummerWork.label>
+  <Frenzy_SummerWork.beginLetter>[PAWN_nameIndef]受到了激励！\n\n[PAWN_pronoun]在接下来的2天里将以更高的效率进行工作。</Frenzy_SummerWork.beginLetter>
+  <Frenzy_SummerWork.endMessage>{0}失去了激励状态（工作狂热）。</Frenzy_SummerWork.endMessage>
+  <Frenzy_SummerWork.baseInspectLine>激励状态: 工作狂热</Frenzy_SummerWork.baseInspectLine>
+
   <Constellations_Frenzy_Shooting.label>射手座祝福</Constellations_Frenzy_Shooting.label>
   <Constellations_Frenzy_Shooting.beginLetter>[PAWN_nameIndef] 提升了射击能力。</Constellations_Frenzy_Shooting.beginLetter>
   <Constellations_Frenzy_Shooting.endMessage>{5} 因星座之光的消失随之消失。</Constellations_Frenzy_Shooting.endMessage>

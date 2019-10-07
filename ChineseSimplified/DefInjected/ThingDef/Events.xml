@@ -16,5 +16,8 @@
   <ClimatBomb.label>气候炸弹</ClimatBomb.label>
   <ClimatBomb.description>一个巨大的设备，其中间有一个未知神器。启动会产生巨大能量，一部分会逸向天空。这会导致启动区域的天气极度剧变的情况。</ClimatBomb.description>
 
+  <TribalCrack.label>地道</TribalCrack.label>
+  <TribalCrack.description>该地道通往原住民的居住地。</TribalCrack.description>
+
 
 </LanguageData>

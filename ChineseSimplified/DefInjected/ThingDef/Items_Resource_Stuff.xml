@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IronOre.label>铁矿</IronOre.label>
+  <IronOre.description>地球上是占比最多的元素，为地球外核和内地核的主要成分。它也是地壳中含量第四多的元素。\n平滑的纯铁表面为如镜般的银灰色。但铁容易与氧和水反应，产生棕色或黑色的水合铁离子，就是俗称的铁锈。不同于其他金属会产生钝化层的氧化物，铁锈拥有的体积大于原本的金属，因而容易剥落，露出新的表面继续锈蚀。\n可在简易熔炉中冶炼铁。</IronOre.description>
+
+  <IronIngot.label>铁</IronIngot.label>
+  <IronIngot.description>从铁矿中提炼得到。可被用于其他清单或直接作为建造原材。\n地球上是占比最多的元素，为地球外核和内地核的主要成分。它也是地壳中含量第四多的元素。\n平滑的纯铁表面为如镜般的银灰色。但铁容易与氧和水反应，产生棕色或黑色的水合铁离子，就是俗称的铁锈。不同于其他金属会产生钝化层的氧化物，铁锈拥有的体积大于原本的金属，因而容易剥落，露出新的表面继续锈蚀。</IronIngot.description>
+  <IronIngot.stuffProps.stuffAdjective>铁</IronIngot.stuffProps.stuffAdjective>
+
+  <CopperOre.label>铜矿</CopperOre.label>
+  <CopperOre.description>纯铜是柔软的金属，表面刚切开时为红橙色带金属光泽、延展性好、导热性和导电性高，因此在电缆和电气、电子元件是最常用的材料，也可用作建筑材料，以及组成众多种合金，例如用于珠宝的纹银，用于制作船用五金和硬币的白铜以及用于温度计的应变片和热电偶的康铜 。\n可在简易熔炉中冶炼铜。</CopperOre.description>
+
+  <CopperIngot.label>铜</CopperIngot.label>
+  <CopperIngot.description>从铜矿中提炼得到。可被用于其他清单或直接作为建造原材。\n纯铜是柔软的金属，表面刚切开时为红橙色带金属光泽、延展性好、导热性和导电性高，因此在电缆和电气、电子元件是最常用的材料，也可用作建筑材料，以及组成众多种合金，例如用于珠宝的纹银，用于制作船用五金和硬币的白铜以及用于温度计的应变片和热电偶的康铜 。</CopperIngot.description>
+  <CopperIngot.stuffProps.stuffAdjective>铜</CopperIngot.stuffProps.stuffAdjective>
+
+  <Coal.label>煤</Coal.label>
+  <Coal.description>煤是一种可燃的黑色或棕黑色沉积岩，其形成的岩层称为煤层。</Coal.description>
+
+  <NickelOre.label>镍矿</NickelOre.label>
+  <NickelOre.description>镍属于过渡金属，质硬，具延展性。纯镍的化学活性相当高，这种活性可以在反应表面积最大化的粉末状态下看到，但大块的镍金属与周围的空气反应缓慢，因为其表面已形成了一层带保护性质的氧化物。\n可在电弧熔炉中加工镍。</NickelOre.description>
+
+  <NickelIngot.label>镍</NickelIngot.label>
+  <NickelIngot.description>从镍矿中提炼得到。可被用于其他清单或直接作为建造原材。\n镍属于过渡金属，质硬，具延展性。纯镍的化学活性相当高，这种活性可以在反应表面积最大化的粉末状态下看到，但大块的镍金属与周围的空气反应缓慢，因为其表面已形成了一层带保护性质的氧化物。</NickelIngot.description>
+
+  <CobaltIngot.label>钴</CobaltIngot.label>
+  <CobaltIngot.description>从镍矿中提炼得到。可被用于其他清单或直接作为建造原材。\n钴和镍一样，在地壳中只能有化合物形式，以少量沉淀于陨铁的方式储存。用还原方法冶炼出的纯元素，是一种坚硬、具有光泽的银灰色金属。</CobaltIngot.description>
+  <CobaltIngot.stuffProps.stuffAdjective>钴</CobaltIngot.stuffProps.stuffAdjective>
+
+  <IlmeniteOre.label>钛铁矿</IlmeniteOre.label>
+  <IlmeniteOre.description>钛具有良好的抗腐蚀能力（包括海水、王水及氯气）。\n钛的矿石主要有钛铁矿及金红石，广布于地壳及岩石圈之中。钛亦同时存在于几乎所有生物、岩石、水体及土壤中。\n可在简易熔炉中冶炼钛。</IlmeniteOre.description>
+
+  <IlmeniteIngot.label>钛</IlmeniteIngot.label>
+  <IlmeniteIngot.description>从钛铁矿中提炼得到。可被用于其他清单或直接作为建造原材。</IlmeniteIngot.description>
+  <IlmeniteIngot.stuffProps.stuffAdjective>钛</IlmeniteIngot.stuffProps.stuffAdjective>
+
+  <PalladiumIngot.label>钯</PalladiumIngot.label>
+  <PalladiumIngot.description>钯也常被使用在电子工业、牙医学、医学、氢气纯化、化学应用、地下水处理以及珠宝业。钯能催化氢气及氧气反应产生水及热，是燃料电池中关键的成分。</PalladiumIngot.description>
+
+  <Chromium.label>铬</Chromium.label>
+  <Chromium.description>铬金属的价值在于其具有高度耐腐蚀性和硬度。钢铁生产中的一个重大发展是发现借由添加金属铬形成不锈钢，可使钢材具有高度耐腐蚀和褪色的特性。</Chromium.description>
+  <Chromium.stuffProps.stuffAdjective>铬</Chromium.stuffProps.stuffAdjective>
+
+  <Tillium.label>缇利姆合金</Tillium.label>
+  <Tillium.description>缇利姆是一种性能与钯和铀相近的金属，但不同的是它毒性更小，效率更高。外观为带着黑色颗粒的白色金属。在高压下用铀富集钯，便可以得到一种新的放射性金属。若不加入玻璃钢作为原料，它会变得不稳定。</Tillium.description>
+
+  <CokeCoal.label>焦煤</CokeCoal.label>
+  <CokeCoal.description>这种灰色多孔硬物是将煤在950-1100°С的高温下炼制成的。</CokeCoal.description>
+
+  <TungstenOre.label>钨矿</TungstenOre.label>
+  <TungstenOre.description>原矿中便含有足以提取成块的钨。\n可在电弧熔炉中冶炼钨。</TungstenOre.description>
+
+  <TungstenIngot.label>钨</TungstenIngot.label>
+  <TungstenIngot.description>钨元素的稳定性是非常出色的，在所有已知元素中拥有最高的熔点3422°C(6192°F,3695K)以及最高的沸点5930°C(10706°F,6203K)。密度是水的19.25倍，与铀与金的密度相当，比铅的密度还高1.7倍。</TungstenIngot.description>
+
+
+</LanguageData>

@@ -25,39 +25,32 @@ Trait: ключ traitReq  (например traitReq1) -->
   <DoomsdayHelp.Pages.2.Options.0.Label>坚持己见</DoomsdayHelp.Pages.2.Options.0.Label>
   <DoomsdayHelp.Pages.2.Options.1.Label>强迫援助</DoomsdayHelp.Pages.2.Options.1.Label>
   <DoomsdayHelp.Pages.2.Options.2.Label>请求援助</DoomsdayHelp.Pages.2.Options.2.Label>
-  <DoomsdayHelp.Pages.2.Options.3.Label>结束对话</DoomsdayHelp.Pages.2.Options.3.Label>
   <DoomsdayHelp.Pages.3.Title>难以置信...</DoomsdayHelp.Pages.3.Title>
   <DoomsdayHelp.Pages.3.Text>- 这真是可怕。 \n*他沉默了一会儿，然后发出沉重的叹息，深深的吸了一口气，才继续道：* \n- 我会让我的人做好准备，但我们派系情形现在也不好。我不知道我们能不能按时来帮忙。</DoomsdayHelp.Pages.3.Text>
   <DoomsdayHelp.Pages.3.Options.0.Label>友好交谈</DoomsdayHelp.Pages.3.Options.0.Label>
   <DoomsdayHelp.Pages.3.Options.1.Label>恳请援助</DoomsdayHelp.Pages.3.Options.1.Label>
   <DoomsdayHelp.Pages.3.Options.2.Label>潜藏的威胁</DoomsdayHelp.Pages.3.Options.2.Label>
-  <DoomsdayHelp.Pages.3.Options.3.Label>结束对话</DoomsdayHelp.Pages.3.Options.3.Label>
   <DoomsdayHelp.Pages.4.Title>你这些话并不能说服我...</DoomsdayHelp.Pages.4.Title>
   <DoomsdayHelp.Pages.4.Text>- 不，不，我并不觉得这是个大威胁，但我看不出有什么必要用我的人去援助你，我们有能力保护自己，不需要额外的援助。</DoomsdayHelp.Pages.4.Text>
   <DoomsdayHelp.Pages.4.Options.0.Label>大话连篇</DoomsdayHelp.Pages.4.Options.0.Label>
   <DoomsdayHelp.Pages.4.Options.1.Label>让步</DoomsdayHelp.Pages.4.Options.1.Label>
   <DoomsdayHelp.Pages.4.Options.2.Label>武力威胁</DoomsdayHelp.Pages.4.Options.2.Label>
-  <DoomsdayHelp.Pages.4.Options.3.Label>结束对话</DoomsdayHelp.Pages.4.Options.3.Label>
   <DoomsdayHelp.Pages.5.Title>你的要求简直不可理喻...</DoomsdayHelp.Pages.5.Title>
   <DoomsdayHelp.Pages.5.Text>- 他们想做什么。 - 可怕，是的肯定的，但是... \n*电话那头沉默了几秒，然后带着悲伤的语调说道：* \n- 对不起，我们无能为力。</DoomsdayHelp.Pages.5.Text>
   <DoomsdayHelp.Pages.5.Options.0.Label>扩大压力</DoomsdayHelp.Pages.5.Options.0.Label>
   <DoomsdayHelp.Pages.5.Options.1.Label>继续施压</DoomsdayHelp.Pages.5.Options.1.Label>
-  <DoomsdayHelp.Pages.5.Options.2.Label>结束对话</DoomsdayHelp.Pages.5.Options.2.Label>
   <DoomsdayHelp.Pages.6.Title>我不会听你的！</DoomsdayHelp.Pages.6.Title>
   <DoomsdayHelp.Pages.6.Text>*他听了你的话后大笑了一声，然后粗暴地问道：* \n- 听到了吗？我们的军事力量比你强得多。忘记你那愚蠢的想法。</DoomsdayHelp.Pages.6.Text>
   <DoomsdayHelp.Pages.6.Options.0.Label>最后一次对话</DoomsdayHelp.Pages.6.Options.0.Label>
   <DoomsdayHelp.Pages.6.Options.1.Label>施加心理压力</DoomsdayHelp.Pages.6.Options.1.Label>
-  <DoomsdayHelp.Pages.6.Options.2.Label>结束对话</DoomsdayHelp.Pages.6.Options.2.Label>
   <DoomsdayHelp.Pages.7.Title>什么债务？</DoomsdayHelp.Pages.7.Title>
   <DoomsdayHelp.Pages.7.Text>- 我什么都记不得了。不过，如果是你说的是这样…我会听你的。</DoomsdayHelp.Pages.7.Text>
   <DoomsdayHelp.Pages.7.Options.0.Label>继续对话</DoomsdayHelp.Pages.7.Options.0.Label>
   <DoomsdayHelp.Pages.7.Options.1.Label>说清楚</DoomsdayHelp.Pages.7.Options.1.Label>
-  <DoomsdayHelp.Pages.7.Options.2.Label>结束对话</DoomsdayHelp.Pages.7.Options.2.Label>
   <DoomsdayHelp.Pages.8.Title>你在说什么？</DoomsdayHelp.Pages.8.Title>
   <DoomsdayHelp.Pages.8.Text>- 我们欠你们钱吗？ \n*他想了一会儿，然后不确定地回答：* \n- 我不记得了，但如果你这么说，我愿意这样做。</DoomsdayHelp.Pages.8.Text>
   <DoomsdayHelp.Pages.8.Options.0.Label>继续对话</DoomsdayHelp.Pages.8.Options.0.Label>
   <DoomsdayHelp.Pages.8.Options.1.Label>自信回答</DoomsdayHelp.Pages.8.Options.1.Label>
-  <DoomsdayHelp.Pages.8.Options.2.Label>结束对话</DoomsdayHelp.Pages.8.Options.2.Label>
   <DoomsdayHelp.Pages.9.Title>不可容忍！</DoomsdayHelp.Pages.9.Title>
   <DoomsdayHelp.Pages.9.Text>*他不情愿地听着，在你说话期间连打了几好次哈欠，当你说完后，他不屑的轻笑了一下，说：* \n- 我们熟悉你所说的威胁，但要我帮助你？你可真有趣！就连瞎眼的企鹅都是个比你好的盟友。忘了吧，蠢货！</DoomsdayHelp.Pages.9.Text>
   <DoomsdayHelp.Pages.9.Options.0.Label>结束对话</DoomsdayHelp.Pages.9.Options.0.Label>
@@ -65,7 +58,21 @@ Trait: ключ traitReq  (например traitReq1) -->
   <DoomsdayHelp.Pages.10.Text>*你的话说完几秒钟后，他沉默了，而当他试图说出自己的想法时，好像他完全忘了自己想做什么。他急促的喘气，但话却一个字一个字的吐出：* \n- 他们妄图歼灭整个星球？我们会给你提供援助。我们一定会援助的。请告诉我该怎么做，我们最好的战士会完成的。</DoomsdayHelp.Pages.10.Text>
   <DoomsdayHelp.Pages.10.Options.0.Label>结束对话</DoomsdayHelp.Pages.10.Options.0.Label>
 
+  <CommOptionGetHelp.label>抉择 - 请求帮助</CommOptionGetHelp.label>
+  <CommOptionGetHelp.Pages.0.Title>我们请求援助</CommOptionGetHelp.Pages.0.Title>
+  <CommOptionGetHelp.Pages.0.Text>你给一名友军领袖致电。接通后，他不慌不忙地用粗浊的声音问到：你好吗？</CommOptionGetHelp.Pages.0.Text>
+  <CommOptionGetHelp.Pages.0.Options.0.Label>请求资源</CommOptionGetHelp.Pages.0.Options.0.Label>
+  <CommOptionGetHelp.Pages.0.Options.1.Label>请求人力</CommOptionGetHelp.Pages.0.Options.1.Label>
+  <CommOptionGetHelp.Pages.0.Options.2.Label>结束对话</CommOptionGetHelp.Pages.0.Options.2.Label>
 
+
+  <!--<DoomsdayHelp.Pages.2.Options.3.Label>结束对话</DoomsdayHelp.Pages.2.Options.3.Label>-->
+  <!--<DoomsdayHelp.Pages.3.Options.3.Label>结束对话</DoomsdayHelp.Pages.3.Options.3.Label>-->
+  <!--<DoomsdayHelp.Pages.4.Options.3.Label>结束对话</DoomsdayHelp.Pages.4.Options.3.Label>-->
+  <!--<DoomsdayHelp.Pages.5.Options.2.Label>结束对话</DoomsdayHelp.Pages.5.Options.2.Label>-->
+  <!--<DoomsdayHelp.Pages.6.Options.2.Label>结束对话</DoomsdayHelp.Pages.6.Options.2.Label>-->
+  <!--<DoomsdayHelp.Pages.7.Options.2.Label>结束对话</DoomsdayHelp.Pages.7.Options.2.Label>-->
+  <!--<DoomsdayHelp.Pages.8.Options.2.Label>结束对话</DoomsdayHelp.Pages.8.Options.2.Label>-->
   <!--<TestDialog.label>会话标签</TestDialog.label>-->
   <!--<TestDialog.Pages.0.Title>嗨，陌生人！</TestDialog.Pages.0.Title>-->
   <!--<TestDialog.Pages.0.Text>你想要一些食物吗？</TestDialog.Pages.0.Text>-->

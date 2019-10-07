@@ -1,19 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <TryStartQuestDialog>查看任务</TryStartQuestDialog>
 
-  <QuestFail>失败任务 {0} 个</QuestFail>
-  <QuestSuccess>完成任务 {1} 个</QuestSuccess>
+  <QuestFail>任务 {0} 已失败</QuestFail>
+  <QuestSuccess>任务 {1} 已完成</QuestSuccess>
   <QuestTimeout>任务 {0} 的完成时间已过</QuestTimeout>
   <UnlimitedTime>剩余时间：无限制</UnlimitedTime>
   <QuestTimer>剩余时间：{0} 天</QuestTimer>
-  <JumpToLOcation>跳转到事件位置</JumpToLOcation>
+  <!--[Core] <JumpToLocation>Jump to location</JumpToLocation>-->
+  <QuestRewards>报酬</QuestRewards>
+  <AdditionalQuestContent>额外</AdditionalQuestContent>
 
   <OpenCommsGeo>使用通讯台</OpenCommsGeo>
   <OpenCommsGeoNoPower>使用通讯台[无电力]</OpenCommsGeoNoPower>
 
   <EventsCommTab>活动事件</EventsCommTab>
   <QuestsCommTab>任务</QuestsCommTab>
-  <InteractionCommTab>对话</InteractionCommTab>
+  <InteractionCommTab>交际</InteractionCommTab>
 
   <RelatedEventCom>相关事件: {0}</RelatedEventCom>
   <FactionComm>派系: {0}</FactionComm>
@@ -27,6 +30,108 @@
   <HelpDoomsday>将会援助</HelpDoomsday>
   <DiscussWithOtherFactions>与其他派系讨论事件。</DiscussWithOtherFactions>
   <DoomsdayCardLabel>世界末日</DoomsdayCardLabel>
-  <DoomsdayDesc>派系 {0} 聚集在该星球上安放了一个末日武器。我们可以尝试收集缺少的金额，又或者其他派系会以进攻敌军基地的方式来帮助我们？</DoomsdayDesc>
+  <DoomsdayDesc>派系 {0} 聚集在该星球上安放了一个末日武器。我们可以尝试收集缺少的金额，抑或其他派系会以进攻敌军基地的方式来帮助我们？</DoomsdayDesc>
+
+  <InteractionInterTab>对话</InteractionInterTab>
+  <MessagesInterTab>邮件</MessagesInterTab>
+  <AllianceInterTab>联盟</AllianceInterTab>
+  <RelationsWithPlayer>与你的关系: {0} ({1})</RelationsWithPlayer>
+  <FactionInteractionDef>派系: {0}</FactionInteractionDef>
+  <AdditionalContent>额外信息</AdditionalContent>
+
+  <CommOption_GetHelp_Label>请求帮助(过期: {0})</CommOption_GetHelp_Label>
+  <Help_AskResoucesTitle>物资已发送</Help_AskResoucesTitle>
+  <Help_AskResouces>派系 {0} 谨记自己的职责，给你发来了他尽力收集到的物资：\n{1}</Help_AskResouces>
+  <Help_AskPowerTitle>援助队伍已出发</Help_AskPowerTitle>
+  <Help_AskPower>派系 {0} 谨记自己的职责，派遣了一支战斗小队来支援你的定居点。</Help_AskPower>
+  <UsingCaravan>该派系的科技水平不允许其使用空投仓技术，因此他们派遣了一支远征队。</UsingCaravan>
+  <UsingCapsules>援助将以空投发送。</UsingCapsules>
+  <GiftHasBeenDroppedTitle>物资已转移</GiftHasBeenDroppedTitle>
+  <GiftHasBeenDropped>物资已留在你的殖民地附近。（点击转到物资停留点）</GiftHasBeenDropped>
+  <AssistCaravan_GifterArrivedTitle>友军已抵达</AssistCaravan_GifterArrivedTitle>
+  <AssistCaravan_GifterArrived>友军部队在你的请求下已抵达。他们将物品留在了你的殖民地附近。</AssistCaravan_GifterArrived>
+
+  <ClimateBombTitle>气候炸弹</ClimateBombTitle>
+  <ClimateBombDesc>我们发现了一个气候炸弹。我的思维很混乱。是谁，又为什么将其留在这个星球上，还不得而知。但如果我们不希望下几个季节的气候发生什么状况，就需要去解决它。\n\n我们需要组建一支精锐部队，那里极有可能存在敌方派系，很可能卷入战斗。</ClimateBombDesc>
+
+  <Comm_MassiveFireTitle>熊熊烈火</Comm_MassiveFireTitle>
+  <Comm_MassiveFireDesc>我们定居点附近爆发了一场火灾，可能是由天气引起的。在每一分钟里，火势都愈演愈烈。令人担忧的是，火势会蔓延到附近，这也包括我们。\n我们可以寄望于雨或者自己将其扑灭。</Comm_MassiveFireDesc>
+
+  <Comm_ShipCrashTitle>飞船失事</Comm_ShipCrashTitle>
+  <Comm_ShipCrashDesc>我们看到一艘飞船失事了——外观像通用飞船。它坠落时，四分五裂，残骸有大有小。残骸可能是货物或居住舱。\n飞船残骸散落在全球各地。飞船外层由玻璃钢制成，因此绝大部分的资源极有可能得以存留。你可以组建远征队搜寻残余的船舱，并将其带走。当然了，这极其容易吸引不速之客。</Comm_ShipCrashDesc>
+
+  <Comm_SiegeCampTitle>围攻者基地</Comm_SiegeCampTitle>
+  <Comm_SiegeCampDesc>匪徒营地建立在我们的不远处。他们拥有迫击炮，并有着摧毁我们的想法。他们会频繁的袭击我们，与此同时会升级他们的基地与增加自身的军事力量。我们要尽快的摧毁它，在它变成真正的难题前。</Comm_SiegeCampDesc>
+
+  <EmailMessage_From>寄件人: {0}</EmailMessage_From>
+  <EmailMessage_To>收件人: {0}</EmailMessage_To>
+  <EmailMessageReceivedTitle>收到信息</EmailMessageReceivedTitle>
+  <EmailMessageReceived>你收到一封来自于 {0} 的话题为 {1} 的信息。你可以在全息星球仪中的邮箱查看。</EmailMessageReceived>
+  <DeleteMessage>删除信息</DeleteMessage>
+
+  <ScoutingComp_InfoTitle>我发来了我们情报人员收集的有关你们定居点的情报。报告描述了威胁所在与预计发生时间。\n\n</ScoutingComp_InfoTitle>
+  <ScoutingComp_ThreatKnown>(威胁: {0})</ScoutingComp_ThreatKnown>
+  <ScoutingComp_ThreatUnknown>(未知威胁等级)</ScoutingComp_ThreatUnknown>
+  <ScoutingComp_CommingTime>预计抵达时间：{0} 天</ScoutingComp_CommingTime>
+  <ScoutingComp_NoThreatsInfoTitle>经过几天的侦查后，我们的侦察员终于回来了。他们没有侦测到任何可能发生的威胁。</ScoutingComp_NoThreatsInfoTitle>
+  <ScoutingComp_Subject>情报报告</ScoutingComp_Subject>
+
+  <CommOption_SubscribeScout_Label>情报协议</CommOption_SubscribeScout_Label>
+  <CommOption_SubscribeScout_SubTitle>情报协议\n\n通过签订协议，签署了协议的派系会以邮件发送他们人员得到的情报结果，其内可能含有威胁事件的情报。\n\n</CommOption_SubscribeScout_SubTitle>
+  <CommOption_SubscribeScout_SubAlready>[协议已签订:剩余 {0} 天有效期]</CommOption_SubscribeScout_SubAlready>
+  <CommOption_SubscribeScout_SubButton>签订</CommOption_SubscribeScout_SubButton>
+  <CommOption_SubscribeScout_SubAlreadyOption>已签订</CommOption_SubscribeScout_SubAlreadyOption>
+  <CommOption_SubscribeScout_SubGoodWillOption>需要最低80点关系</CommOption_SubscribeScout_SubGoodWillOption>
+  <CommOption_ExitNode>取消</CommOption_ExitNode>
+
+  <QuestPawn_Title>你好！你想要讨论些什么？</QuestPawn_Title>
+  <QuestPawn_Line1>来自派系 {1} 的 {0} ({2}: {3})</QuestPawn_Line1>
+  <QuestPawn_Line1_Player>{0}</QuestPawn_Line1_Player>
+  <TakeQuestFromPawn>接受任务</TakeQuestFromPawn>
+  <TakeQuestFromPawnLetter>任务 “{0}” 已接收。</TakeQuestFromPawnLetter>
+  <TakeQuestFromPawnLetterDesc>你已接收任务——"{0}"。该任务的更多信息可在全息星球仪中查看。\n----------------\n{1}</TakeQuestFromPawnLetterDesc>
+
+  <Pocahontas_CardLabel>Discuss interfractional exchange</Pocahontas_CardLabel>
+  <CommOption_PawnOfferYes_Label>接受 {0}</CommOption_PawnOfferYes_Label>
+  <CommOption_PawnOfferYesTitle>招募协议</CommOption_PawnOfferYesTitle>
+  <CommOption_PawnOfferYes>你接受了协议。殖民者 {0} 已加入你的殖民者列表。同时增进了你与派系 {1} 之间的关系。</CommOption_PawnOfferYes>
+
+  <PawnInfo>{PAWN_gender ? He : She},是 {PAWN_kind}. {PAWN_possessive}的名字是 {PAWN_nameDef},并且{PAWN_pronoun}是 {PAWN_title}。</PawnInfo>
+
+  <CommOption_DeclineQuest_Label>拒绝</CommOption_DeclineQuest_Label>	
+  <CommOption_DeclineDialog_Label>拒绝</CommOption_DeclineDialog_Label>
+
+  <ActualOnlyThisMap>当该访客加入你时此协议生效了。</ActualOnlyThisMap>
+  <TimerInfo>该协议有效期为 {0} 天。</TimerInfo>
+  <CommunicationDialog_PocahontasTitle>拒绝提议</CommunicationDialog_PocahontasTitle>
+  <CommunicationDialog_Pocahontas>你未接受同居提议，这降低了你与 {0} 派系的关系。</CommunicationDialog_Pocahontas>
+
+  <InspectString_Timer>剩余 {0} 天</InspectString_Timer>
+  <EnterToMapQuest_Option>开始任务</EnterToMapQuest_Option>
+  <Quest_KillLeaderTitle>胜利</Quest_KillLeaderTitle>
+  <Quest_KillLeaderDesc>已击杀敌方首领，现在，你可以重组远征队了。</Quest_KillLeaderDesc>
+  <LeaderStillAlive>敌方首领依旧存活。({0})</LeaderStillAlive>
+
+  <QuestOption_IncreaseReward_Label>尝试提高报酬({0} - {1}) </QuestOption_IncreaseReward_Label>
+  <QuestOption_IncreaseReward_Level>{0} 技能等级不足，最低需要 {1} 级(人物技能 {2} 级)</QuestOption_IncreaseReward_Level>
+
+  <OrderedTargetStillAlive>目标仍存活。({0})</OrderedTargetStillAlive>
+  <Quest_KillOrderTitle>完成请求</Quest_KillOrderTitle>
+  <Quest_KillOrderDesc>你已完成击杀，目标已清除——{0}。</Quest_KillOrderDesc>
+  <Quest_KillOrderTargetInfo>目标: {0}\n酬金:\n {1}</Quest_KillOrderTargetInfo>
+
+  <CommOption_NonAgressionPact_Label>互不侵犯条约({0})</CommOption_NonAgressionPact_Label>
+  <CommOption_NonAgressionPact_NotEnoughSilver>白银不足(需要 {0}，已有{1})</CommOption_NonAgressionPact_NotEnoughSilver>
+  <CommOption_NonAgressionPact_SuccessTitle>条约生效</CommOption_NonAgressionPact_SuccessTitle>
+  <CommOption_NonAgressionPact_Success>你与 {0} 派系的互不侵犯契约已签署。你的谈判者 {1} 的技能等级促成了为期 {2} 天的协议。在此期间，{0} 派系将不会对你发起袭击。</CommOption_NonAgressionPact_Success>
+  <NonAfressionPackCompTitle>条约到期</NonAfressionPackCompTitle>
+  <NonAfressionPackComp>与 {0} 派系的互不侵犯条约到期了。现在他们或许会再次袭击你。</NonAfressionPackComp>
+
+  <CommunicationComponent_CommunicationDialogTimer>通知</CommunicationComponent_CommunicationDialogTimer>
+
+  <!--<JumpToLocation>Jump to location ({0})</JumpToLocation>-->
+
+  <!--[Core] <JumpToLocation>转至事件发生地点</JumpToLocation>-->
+  <!--<JumpToLOcation>跳转到事件位置</JumpToLOcation>-->
 
 </LanguageData>

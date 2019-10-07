@@ -87,9 +87,9 @@
 
   <!-- Событие: Подрыв дороги -->
 
-  <DestroyRoad.label>道路损坏</DestroyRoad.label>
+  <DestroyRoad.label>道路故障</DestroyRoad.label>
   <DestroyRoad.letterText>一小队劫匪炸毁了其中一条道路。</DestroyRoad.letterText>
-  <DestroyRoad.letterLabel>道路损坏</DestroyRoad.letterLabel>
+  <DestroyRoad.letterLabel>道路故障</DestroyRoad.letterLabel>
 
 
   <!-- Событие: Крушение корабля -->
@@ -104,13 +104,6 @@
   <SandStorm.label>沙尘暴</SandStorm.label>
   <SandStorm.letterText>一场沙尘暴即将来临。在持续期间，能见度与行走速度会被降低。</SandStorm.letterText>
   <SandStorm.letterLabel>沙尘暴</SandStorm.letterLabel>
-
-
-  <!-- Событие: Массовый пожар -->
-
-  <MassiveFire.label>熊熊烈火</MassiveFire.label>
-  <MassiveFire.letterText>邻近地区开始发生大火。如果它没有被熄灭，它将摧毁附近所有森林！</MassiveFire.letterText>
-  <MassiveFire.letterLabel>熊熊烈火</MassiveFire.letterLabel>
 
 
   <!-- Событие: Климматическая бомба -->
@@ -150,9 +143,9 @@
 
   <!-- Событие: Нападение на дружественное поселение -->
 
-  <AttackFriendlySettlement.label>友军基地被袭</AttackFriendlySettlement.label>
+  <AttackFriendlySettlement.label>友军基地遇袭</AttackFriendlySettlement.label>
   <AttackFriendlySettlement.letterText>一名盟友的侦查员报告说，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。</AttackFriendlySettlement.letterText>
-  <AttackFriendlySettlement.letterLabel>友军基地被袭</AttackFriendlySettlement.letterLabel>
+  <AttackFriendlySettlement.letterLabel>友军基地遇袭</AttackFriendlySettlement.letterLabel>
 
 
   <!-- Событие: Вызов созвездия -->
@@ -204,6 +197,127 @@
   <UnifiedRaid.letterLabel>联合袭击</UnifiedRaid.letterLabel>
 
 
+  <!-- Задание: помощь ресурсами -->
+
+  <Quest_ResourceHelp.label>物资援助</Quest_ResourceHelp.label>
+  <Quest_ResourceHelp.letterText>一个派系正向你请求物资用以建立他们的定居点。\n你可以通过全息星球仪联系他们。</Quest_ResourceHelp.letterText>
+  <Quest_ResourceHelp.letterLabel>物资援助</Quest_ResourceHelp.letterLabel>
+
+
+  <!-- Задание: постройка новой базы -->
+
+  <Quest_BuildNewBase.label>建立新城</Quest_BuildNewBase.label>
+  <Quest_BuildNewBase.letterText> {0} 派系准备建立一个新基地，他们需要人力方面的帮助。他们向你请求几名殖民者去帮忙几天。\n你可以通过全息星球仪联系他们。</Quest_BuildNewBase.letterText>
+  <Quest_BuildNewBase.letterLabel>建立新城</Quest_BuildNewBase.letterLabel>
+
+
+  <!-- Задание: пропали люди -->
+
+  <Quest_MissingPeople.label>失踪</Quest_MissingPeople.label>
+  <Quest_MissingPeople.letterText>派系 {0} 的领袖联系并报告道：几天前他们的一支居民小队为获取物资进行了一次远行。原远行时间预计为 {1} 天。但 {2} 天过去了，远行者们仍旧没有回来。在尝试联系小队失败后，他们担心这支远行队可能迷路或受到了袭击。\n远行队所带食物还可以维持 {3} 天，这之后会被活活饿死。他请求我们找到失踪的远行队并将其带回他们的定居点。</Quest_MissingPeople.letterText>
+  <Quest_MissingPeople.letterLabel>失踪</Quest_MissingPeople.letterLabel>
+
+
+  <!-- Событие: Психогаз -->
+
+  <Psychogas.label>神经毒气</Psychogas.label>
+  <Psychogas.letterText>某人释放了大量的化学致幻物到空气中，因此室外的人将逐渐丧失理智。</Psychogas.letterText>
+  <Psychogas.letterLabel>神经毒气</Psychogas.letterLabel>
+
+
+  <!-- Событие: Рейд с животными -->
+
+  <RaidEnemyWithAnimals.label>袭击</RaidEnemyWithAnimals.label>
+
+
+  <!-- Событие: Нулевые механиты -->
+
+  <Disease_ZeroMechanites.label>零点机械感染</Disease_ZeroMechanites.label>
+  <Disease_ZeroMechanites.letterText>{0}{1}患上了{2}。\n\n确保有病床和医生，使他们得到适当的治疗并尽可能卧床休息。\n\n以下{1}生病了：\n\n{3}</Disease_ZeroMechanites.letterText>
+  <Disease_ZeroMechanites.letterLabel>疾病(零点机械感染)</Disease_ZeroMechanites.letterLabel>
+
+
+  <!-- Событие: Летнее солнцестояние -->
+
+  <SummerSolstice.label>夏至</SummerSolstice.label>
+  <SummerSolstice.letterText>最漫长的白昼。你的殖民者获得正能量！</SummerSolstice.letterText>
+  <SummerSolstice.letterLabel>夏至</SummerSolstice.letterLabel>
+
+
+  <!-- Событие: Покахонтас -->
+
+  <Pocahontas.label>宝嘉康蒂</Pocahontas.label>
+  <Pocahontas.letterText>来自 {1} 派系的 {0} 定居点向你提议派遣 {2} 与你一起生活。\n若你接受提议，{2} 会加入你，并改善你们之间的派系关系。若你拒绝，会导致你们之间的关系恶化。\n\n{2} 的情况为:\n{3}\n\n{4}</Pocahontas.letterText>
+  <Pocahontas.letterLabel>宝嘉康蒂</Pocahontas.letterLabel>
+
+
+  <!-- Событие: Морской воздух -->
+
+  <SeaAir.label>海边空气</SeaAir.label>
+  <SeaAir.letterText>刮来不同寻常的清新海边空气！殖民者们感觉很好！</SeaAir.letterText>
+  <SeaAir.letterLabel>海边空气</SeaAir.letterLabel>
+
+
+  <!-- Событие: Горный воздух -->
+
+  <MountainAir.label>山间空气</MountainAir.label>
+  <MountainAir.letterText>清新的山间空气</MountainAir.letterText>
+  <MountainAir.letterLabel>山间空气</MountainAir.letterLabel>
+
+
+  <!-- Событие: Перестрелка двух фракций -->
+
+  <AmbushTwoFactions.label>两派交火</AmbushTwoFactions.label>
+  <AmbushTwoFactions.letterText>{0}，{1} 和 {2} 两个派系正在交火</AmbushTwoFactions.letterText>
+  <AmbushTwoFactions.letterLabel>两派交火</AmbushTwoFactions.letterLabel>
+
+
+  <!-- Задание: Заказ на убийство вражеского лидера -->
+
+  <Quest_KillLeader.label>杀死敌方首领的任务</Quest_KillLeader.label>
+  <Quest_KillLeader.letterText>{0} 与你谈论来自 {2} 派系的首领 {1}，说他可能会威胁到他们的定居点，要求你将其消灭。他在世界地图上标记了该首领所在的地方。\n暗杀他的消息可能早已泄露到世界各地，因此有必要尽快采取行动。\n\n你可以通过全息星球仪联系他们。</Quest_KillLeader.letterText>
+  <Quest_KillLeader.letterLabel>杀死敌方首领的任务</Quest_KillLeader.letterLabel>
+
+
+  <!-- Задание: Подавление мятежа -->
+
+  <Quest_SuppressionRebellion.label>镇压叛乱</Quest_SuppressionRebellion.label>
+  <Quest_SuppressionRebellion.letterText>{0} 说派系 {2} 所在的 {1} 定居点发生了叛乱。反抗军们要求独立。他们已经上演了多次屠杀行为，屠戮了一些平民。{1} 定居点的兵力只能将其驱逐出定居点，但他们正积蓄力量并将再次进攻。\n{0} 请求你帮助镇压叛乱。\n\n你可以通过全息星球仪联系他们。</Quest_SuppressionRebellion.letterText>
+  <Quest_SuppressionRebellion.letterLabel>镇压叛乱</Quest_SuppressionRebellion.letterLabel>
+
+
+  <!-- Событие: Космическая битва -->
+
+  <SpaceBattle.label>太空战役</SpaceBattle.label>
+  <SpaceBattle.letterText>你星球附近两个未知的派系上演了一场太空战。在此持续期间，除了可能装有某些让你感兴趣东西的太空飞船坠落在星球意外，还可能会有一些流弹砸下来。</SpaceBattle.letterText>
+  <SpaceBattle.letterLabel>太空战役</SpaceBattle.letterLabel>
+
+
+  <!-- Задание: Заказ на убийство вражеского лидера -->
+
+  <Quest_KillOrder.label>击杀任务</Quest_KillOrder.label>
+  <Quest_KillOrder.letterText>{0} 以白银为酬金请求你消灭来自 {2} 派系的 {1}。他在世界地图上标记了此人所在的地方。\n\n你可以通过全息星球仪联系他们。</Quest_KillOrder.letterText>
+  <Quest_KillOrder.letterLabel>击杀任务</Quest_KillOrder.letterLabel>
+
+
+  <!-- Событие: Концлагерь -->
+
+  <ConcantrationCamp.label>集中营</ConcantrationCamp.label>
+  <ConcantrationCamp.letterText>一个你不认识的人联系到了你。气喘吁吁但仍有余力的他告知你有一个海盗建立的集中营。他将其坐标快速地发给你并请求你帮助他及其他一样的人逃离这里。\n你可以通过全息星球仪查看此事件。</ConcantrationCamp.letterText>
+  <ConcantrationCamp.letterLabel>集中营</ConcantrationCamp.letterLabel>
+
+
+  <!-- Задание: Туннельные крысы -->
+
+  <TunnelRats.label>地道战</TunnelRats.label>
+  <TunnelRats.letterText>原住民派系挖了一条直通你基地的地道。他们会不断的从中爬出来，直到你将其掩盖。\n（要掩盖地道，需要选择带有手榴弹的角色，右键地道口并做出你的选择）</TunnelRats.letterText>
+  <TunnelRats.letterLabel>地道战</TunnelRats.letterLabel>
+
+
+  <!-- Событие: Массовый пожар -->
+  <!--<MassiveFire.label>熊熊烈火</MassiveFire.label>-->
+  <!--<MassiveFire.letterText>邻近地区开始发生大火。如果它没有被熄灭，它将摧毁附近所有森林！</MassiveFire.letterText>-->
+  <!--<MassiveFire.letterLabel>熊熊烈火</MassiveFire.letterLabel>-->
   <!--<WetAir.label>Wet air</WetAir.label>-->
   <!--<WetAir.letterLabel>Wet air</WetAir.letterLabel>-->
   <!--<WetAir.letterText>Air has come filled with particles of water. Being on the open area will immediately freeze the lungs, and buildings will start to deteriorate</WetAir.letterText>-->

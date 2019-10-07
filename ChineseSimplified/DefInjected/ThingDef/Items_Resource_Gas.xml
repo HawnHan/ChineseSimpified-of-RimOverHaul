@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HydrogenCylinder.label>氢气瓶</HydrogenCylinder.label>
+  <HydrogenCylinder.description>满是氢气的钢瓶。易爆物。</HydrogenCylinder.description>
+
+  <LiquefiedNaturalGasCylinder.label>液化天然气瓶</LiquefiedNaturalGasCylinder.label>
+  <LiquefiedNaturalGasCylinder.description>满是液化天然气的钢瓶。易爆物。</LiquefiedNaturalGasCylinder.description>
+
+
+</LanguageData>
