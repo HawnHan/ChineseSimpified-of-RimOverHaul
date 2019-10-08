@@ -91,7 +91,7 @@
   <TakeQuestFromPawnLetter>任务 “{0}” 已接收。</TakeQuestFromPawnLetter>
   <TakeQuestFromPawnLetterDesc>你已接收任务——"{0}"。该任务的更多信息可在全息星球仪中查看。\n----------------\n{1}</TakeQuestFromPawnLetterDesc>
 
-  <Pocahontas_CardLabel>Discuss interfractional exchange</Pocahontas_CardLabel>
+  <Pocahontas_CardLabel>商议移民事件</Pocahontas_CardLabel>
   <CommOption_PawnOfferYes_Label>接受 {0}</CommOption_PawnOfferYes_Label>
   <CommOption_PawnOfferYesTitle>招募协议</CommOption_PawnOfferYesTitle>
   <CommOption_PawnOfferYes>你接受了协议。殖民者 {0} 已加入你的殖民者列表。同时增进了你与派系 {1} 之间的关系。</CommOption_PawnOfferYes>
