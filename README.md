@@ -1,5 +1,5 @@
 # ChineseSimpified-of-MoreEventsMod
-ChineseSimpified of MoreEventsMod
+ChineseSimpified of RimOverhaul(MoreEventsMod ago)
 
 我认为这个MOD真的很棒，但中文翻译的滞后让人感到可惜。
 当然我必须要先对原翻译者道歉：未经你的允许上传了这个MOD的补充汉化。
