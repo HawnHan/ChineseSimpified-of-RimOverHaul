@@ -96,7 +96,7 @@
   <CommOption_PawnOfferYesTitle>招募协议</CommOption_PawnOfferYesTitle>
   <CommOption_PawnOfferYes>你接受了协议。殖民者 {0} 已加入你的殖民者列表。同时增进了你与派系 {1} 之间的关系。</CommOption_PawnOfferYes>
 
-  <PawnInfo>{PAWN_gender ? He : She},是 {PAWN_kind}. {PAWN_possessive}的名字是 {PAWN_nameDef},并且{PAWN_pronoun}是 {PAWN_title}。</PawnInfo>
+  <PawnInfo>{PAWN_gender ? 他 : 她},是 {PAWN_kind}. {PAWN_possessive}昵称是 {PAWN_nameDef},并且{PAWN_pronoun} 的职业是 {PAWN_title}。</PawnInfo>
 
   <CommOption_DeclineQuest_Label>拒绝</CommOption_DeclineQuest_Label>	
   <CommOption_DeclineDialog_Label>拒绝</CommOption_DeclineDialog_Label>
