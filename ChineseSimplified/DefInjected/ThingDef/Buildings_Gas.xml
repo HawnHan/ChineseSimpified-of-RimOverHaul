@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <GasPipeline.label>天然气管道(天然气)</GasPipeline.label>
+  <GasPipeline.label>管道(天然气)</GasPipeline.label>
   <GasPipeline.description>设计用于传输天然气的管道。</GasPipeline.description>
-  <GasPipeline_Blueprint.label>天然气管道(天然气)(蓝图)</GasPipeline_Blueprint.label>
-  <GasPipeline_Frame.label>天然气管道(天然气)(建造中)</GasPipeline_Frame.label>
+  <GasPipeline_Blueprint.label>管道(天然气)(蓝图)</GasPipeline_Blueprint.label>
+  <GasPipeline_Frame.label>管道(天然气)(建造中)</GasPipeline_Frame.label>
   <GasPipeline_Frame.description>设计用于传输天然气的管道。</GasPipeline_Frame.description>
 
-  <LiquidGasPipeline.label>天然气管道(液化天然气)</LiquidGasPipeline.label>
+  <LiquidGasPipeline.label>管道(液化气)</LiquidGasPipeline.label>
   <LiquidGasPipeline.description>传输液化天然气的管道。</LiquidGasPipeline.description>
-  <LiquidGasPipeline_Blueprint.label>天然气管道(液化天然气)(蓝图)</LiquidGasPipeline_Blueprint.label>
-  <LiquidGasPipeline_Frame.label>天然气管道(液化天然气)(建造中)</LiquidGasPipeline_Frame.label>
+  <LiquidGasPipeline_Blueprint.label>管道(液化气)(蓝图)</LiquidGasPipeline_Blueprint.label>
+  <LiquidGasPipeline_Frame.label>管道(液化气)(建造中)</LiquidGasPipeline_Frame.label>
   <LiquidGasPipeline_Frame.description>传输液化天然气的管道。</LiquidGasPipeline_Frame.description>
 
   <GasWell.label>天然气井</GasWell.label>
@@ -22,10 +22,10 @@
   <GasProductionPlant_Frame.label>采气厂(建造中)</GasProductionPlant_Frame.label>
   <GasProductionPlant_Frame.description>它可以将天然气从井中抽出，并将其以可燃天然气的形式注入管道。</GasProductionPlant_Frame.description>
 
-  <GasCooler.label>天然气冷却器</GasCooler.label>
+  <GasCooler.label>天然气冷却机</GasCooler.label>
   <GasCooler.description>该机器可将传入其中的天然气冷却至160度，生成可大量储存的液化天然气。</GasCooler.description>
-  <GasCooler_Blueprint.label>天然气冷却器(蓝图)</GasCooler_Blueprint.label>
-  <GasCooler_Frame.label>天然气冷却器(建造中)</GasCooler_Frame.label>
+  <GasCooler_Blueprint.label>天然气冷却机(蓝图)</GasCooler_Blueprint.label>
+  <GasCooler_Frame.label>天然气冷却机(建造中)</GasCooler_Frame.label>
   <GasCooler_Frame.description>该机器可将传入其中的天然气冷却至160度，生成可大量储存的液化天然气。</GasCooler_Frame.description>
 
   <SmallGasVault.label>小储气罐</SmallGasVault.label>
