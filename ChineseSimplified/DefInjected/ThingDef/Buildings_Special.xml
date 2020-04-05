@@ -21,11 +21,17 @@
 
   <Geoscape.label>全息星球仪</Geoscape.label>
   <Geoscape.description>此计算机会监控关注星球上正在发生的事情。因已连接到星球信息网，在星球的全息图上，所有重要的事件都会展示。此星球计算机基于机械科技，因此可以提供高质网络连接效率和无缝的实时消息通知。</Geoscape.description>
-  <Geoscape_Blueprint.label>全息星球仪(蓝图)</Geoscape_Blueprint.label>
-  <Geoscape_Frame.label>全息星球仪(建造中)</Geoscape_Frame.label>
-  <Geoscape_Frame.description>此计算机会监控关注星球上正在发生的事情。因已连接到星球信息网，在星球的全息图上，所有重要的事件都会展示。此星球计算机基于机械科技，因此可以提供高质网络连接效率和无缝的实时消息通知。</Geoscape_Frame.description>
+
+  <LaboratoryConsole.label>Management console</LaboratoryConsole.label>
+  <LaboratoryConsole.description>Management console for various systems</LaboratoryConsole.description>
+
+  <Singularity.label>Singularity</Singularity.label>
+  <Singularity.description>Singularity</Singularity.description>
 
 
+  <!--<Geoscape_Blueprint.label>全息星球仪(蓝图)</Geoscape_Blueprint.label>-->
+  <!--<Geoscape_Frame.label>全息星球仪(建造中)</Geoscape_Frame.label>-->
+  <!--<Geoscape_Frame.description>此计算机会监控关注星球上正在发生的事情。因已连接到星球信息网，在星球的全息图上，所有重要的事件都会展示。此星球计算机基于机械科技，因此可以提供高质网络连接效率和无缝的实时消息通知。</Geoscape_Frame.description>-->
   <!--<Mk1PowerStation.label>MKⅠ充能基站</Mk1PowerStation.label>-->
   <!--<Mk1PowerStation.description>充能动力甲与创建Ⅰ代动力甲的基站。</Mk1PowerStation.description>-->
   <!--<Mk1PowerStation_Blueprint.label>MKⅠ充能基站(蓝图)</Mk1PowerStation_Blueprint.label>-->

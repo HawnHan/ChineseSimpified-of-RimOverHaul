@@ -38,7 +38,9 @@
   <Quest_MissingPeople_CardLabel>失踪</Quest_MissingPeople_CardLabel>
   <Quest_MissingPeople_Description> {0} 派系的首领联系我们并报告，他们有一支收集物资的殖民者小队至今未归。原预计 {1} 天的行程，但已经过去了 {2} 天，远行者们仍旧没有回来。在尝试联系小队失败后，他们担心这支远行队可能迷路或受到了袭击。\n远行队所带食物还可以维持 {3} 天，这之后会被活活饿死。他请求我们找到失踪的远行队并将其带回他们的定居点。</Quest_MissingPeople_Description>
   <Quest_MissingPeople_PlaceLabel>预测远行队所在点</Quest_MissingPeople_PlaceLabel>
+  <Quest_MissingPeople_PlaceLabelSaved>People destination</Quest_MissingPeople_PlaceLabelSaved>
   <Quest_MissingPeople_InspectString>失踪的远行小队可能在这里。\n预计食物耗尽时间: {0} (天)</Quest_MissingPeople_InspectString>
+  <Quest_MissingPeople_InspectString2>House of missing settlers. \nTime to deliver settlers: {0} (days)</Quest_MissingPeople_InspectString2>
   <Quest_CheckMissingPeople_Action>搜查该地</Quest_CheckMissingPeople_Action>
   <Quest_MissingPeople_CheckFailTitle>没有发现</Quest_MissingPeople_CheckFailTitle>
   <Quest_MissingPeople_CheckFail>我们发现了失踪小队的踪迹，但人不在此。该地有一些较新的离开踪迹，我们应该追踪下去。(新的目的地已在地图上更新)</Quest_MissingPeople_CheckFail>

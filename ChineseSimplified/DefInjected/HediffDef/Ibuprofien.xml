@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IbuprofienHediff.label>Ibuprofien</IbuprofienHediff.label>
+  <IbuprofienHediff.description>This drug belongs to the antipsychotic group of drugs. Its effectiveness is determined by the effect on various receptors, lowering psychosensitivity and matoric. The drug helps to maintain a satisfactory mental state, without causing much addiction, but over time causing degradation of muscle tissue. With prolonged consumption, Ibuprofien is able to cause various forms of diseases of the brain and eyes.</IbuprofienHediff.description>
+  <IbuprofienHediff.stages.0.label>I</IbuprofienHediff.stages.0.label>
+  <IbuprofienHediff.stages.1.label>II</IbuprofienHediff.stages.1.label>
+  <IbuprofienHediff.stages.2.label>III</IbuprofienHediff.stages.2.label>
+  <IbuprofienHediff.labelNoun>Ibuprofien</IbuprofienHediff.labelNoun>
+
+
+</LanguageData>

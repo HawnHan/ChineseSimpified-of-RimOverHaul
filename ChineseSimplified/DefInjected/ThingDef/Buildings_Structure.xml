@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Doors -->
+
+  <ElectricUnbreakableDoor.label>door</ElectricUnbreakableDoor.label>
+  <ElectricUnbreakableDoor.description>A door with a special mechanism that locks the door while there is electricity.</ElectricUnbreakableDoor.description>
+
+  <ElectricUnbreakableWall.label>wall</ElectricUnbreakableWall.label>
+  <ElectricUnbreakableWall.description>An electrified wall that prevents it from being hit due to high voltage.</ElectricUnbreakableWall.description>
+
+  <VibraniumWall.label>wall</VibraniumWall.label>
+  <VibraniumWall.description>Wall of vibranium. Absorbs up to 90% of damage from shots and explosions.</VibraniumWall.description>
+
+  <CorrosiumWall.label>wall</CorrosiumWall.label>
+  <CorrosiumWall.description>Wall of Corrosium. Increases Your Maximum Health Over Time.</CorrosiumWall.description>
+
+
+</LanguageData>

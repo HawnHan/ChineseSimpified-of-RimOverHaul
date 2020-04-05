@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PemotilanTolerance.label>Pemotilan tolerance</PemotilanTolerance.label>
+  <PemotilanTolerance.description>An experimental mixture of drugs designed to increase the combat parameters of subjects. The drug did not pass the proper studies, but a serious dependence was revealed after consumption. Significantly increases resistance and attack speed for a short time, draining the body.</PemotilanTolerance.description>
+
+  <PemotilanHediff.label>Artificial rage</PemotilanHediff.label>
+  <PemotilanHediff.description>An experimental mixture of drugs designed to increase the combat parameters of subjects. The drug did not pass the proper studies, but a serious dependence was revealed after consumption. Significantly increases resistance and attack speed for a short time, draining the body.</PemotilanHediff.description>
+  <PemotilanHediff.labelNoun>Artificial rage</PemotilanHediff.labelNoun>
+
+  <PemotilanPosthediff.label>Exhaustion</PemotilanPosthediff.label>
+  <PemotilanPosthediff.description>An experimental mixture of drugs designed to increase the combat parameters of subjects. The drug did not pass the proper studies, but a serious dependence was revealed after consumption. Significantly increases resistance and attack speed for a short time, draining the body.</PemotilanPosthediff.description>
+  <PemotilanPosthediff.labelNoun>Exhaustion</PemotilanPosthediff.labelNoun>
+
+  <PemotilanAddiction.label>Pemotilan addiction</PemotilanAddiction.label>
+  <PemotilanAddiction.description>An experimental mixture of drugs designed to increase the combat parameters of subjects. The drug did not pass the proper studies, but a serious dependence was revealed after consumption. Significantly increases resistance and attack speed for a short time, draining the body.</PemotilanAddiction.description>
+  <PemotilanAddiction.stages.1.label>withdrawal</PemotilanAddiction.stages.1.label>
+
+
+  <!--<PemotilanTolerance.stages.0.label>small</PemotilanTolerance.stages.0.label>-->
+  <!--<PemotilanTolerance.stages.1.label>small</PemotilanTolerance.stages.1.label>-->
+  <!--<PemotilanTolerance.stages.2.label>large</PemotilanTolerance.stages.2.label>-->
+  <!--<PemotilanTolerance.stages.3.label>massive</PemotilanTolerance.stages.3.label>-->
+
+</LanguageData>

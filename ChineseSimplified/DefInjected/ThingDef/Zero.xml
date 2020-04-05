@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zero.label>Zero</Zero.label>
+  <Zero.description>It is one of the most expensive drugs on the black market, due to the sharp increasing the soldier’s combat effectiveness and survival. Time slows down, which allows you to predict hits and shots. It causes severe forms of addiction. During withdrawal, a person has a strong the mood will fall, and time will practically stop. If you do not take the substance on time, the drug will cause severe intoxication and damage the brain. Not many people who survived after that, and if they survived, then did not represent further benefit.</Zero.description>
+  <Zero.ingestible.ingestCommandString>Take {0}</Zero.ingestible.ingestCommandString>
+  <Zero.ingestible.ingestReportString>Taking {0}.</Zero.ingestible.ingestReportString>
+
+
+</LanguageData>

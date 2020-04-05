@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutagenicSerumHediff.label>Gene improvement</MutagenicSerumHediff.label>
+  <MutagenicSerumHediff.description>A solution of special viruses, slightly radioactive liquids, as well as complex chemicals. When injected into the blood, it begins to replace the DNA chains of the carrier with more advanced ones, often obtained artificially. The process is accompanied by very strong unpleasant sensations, and the introduction of a large dose can be fatal. Origin: The prototype of the drug is sometimes created during the transition of civilization from the industrial world to the utopian, but due to a serious violation of ethical standards, including because animal experimentation is impossible, the very existence of the drug is washed away from history, few can get a “recipe” for this preparation, and even more so to refine and sell, so you can not hope to ever make such a concentrate yourself.</MutagenicSerumHediff.description>
+  <MutagenicSerumHediff.stages.0.label>easy changes</MutagenicSerumHediff.stages.0.label>
+  <MutagenicSerumHediff.stages.1.label>major changes</MutagenicSerumHediff.stages.1.label>
+  <MutagenicSerumHediff.stages.2.label>modified gene chains</MutagenicSerumHediff.stages.2.label>
+  <MutagenicSerumHediff.stages.3.label>gene replacement</MutagenicSerumHediff.stages.3.label>
+  <MutagenicSerumHediff.labelNoun>Gene improvement</MutagenicSerumHediff.labelNoun>
+
+  <MutagenicSerumDebuffHediff.label>Gene restructuring</MutagenicSerumDebuffHediff.label>
+  <MutagenicSerumDebuffHediff.description>A solution of special viruses, slightly radioactive liquids, as well as complex chemicals. When injected into the blood, it begins to replace the DNA chains of the carrier with more advanced ones, often obtained artificially. The process is accompanied by very strong unpleasant sensations, and the introduction of a large dose can be fatal. Origin: The prototype of the drug is sometimes created during the transition of civilization from the industrial world to the utopian, but due to a serious violation of ethical standards, including because animal experimentation is impossible, the very existence of the drug is washed away from history, few can get a “recipe” for this preparation, and even more so to refine and sell, so you can not hope to ever make such a concentrate yourself.</MutagenicSerumDebuffHediff.description>
+  <MutagenicSerumDebuffHediff.labelNoun>Gene restructuring</MutagenicSerumDebuffHediff.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Amita.label>amita</Amita.label>
+  <Amita.description>The drink combines the famous berries stimulants, as well as some brought from their distant worlds. It invigorates well, but causes instant dependence.</Amita.description>
+  <Amita.ingestible.ingestCommandString>Drink {0}</Amita.ingestible.ingestCommandString>
+  <Amita.ingestible.ingestReportString>Drinking {0}.</Amita.ingestible.ingestReportString>
+
+
+</LanguageData>

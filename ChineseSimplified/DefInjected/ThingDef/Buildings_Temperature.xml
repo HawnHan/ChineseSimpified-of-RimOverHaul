@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElectricVent.label>vent</ElectricVent.label>
+  <ElectricVent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</ElectricVent.description>
+
+
+  <!--<ElectricVent_Blueprint.label>vent (blueprint)</ElectricVent_Blueprint.label>-->
+  <!--<ElectricVent_Frame.label>vent (building)</ElectricVent_Frame.label>-->
+  <!--<ElectricVent_Frame.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</ElectricVent_Frame.description>-->
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VamitexEasy.label>Vamitex (easy)</VamitexEasy.label>
+  <VamitexEasy.description>Pills were created to accelerate the cure of diseases.</VamitexEasy.description>
+  <VamitexEasy.ingestible.ingestCommandString>Take {0}</VamitexEasy.ingestible.ingestCommandString>
+  <VamitexEasy.ingestible.ingestReportString>Taking {0}.</VamitexEasy.ingestible.ingestReportString>
+
+
+</LanguageData>

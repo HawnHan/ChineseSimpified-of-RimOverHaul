@@ -2,10 +2,12 @@
 <LanguageData>
 
   <ZeroMechanites.label>零点机械感染</ZeroMechanites.label>
+  <ZeroMechanites.description>Many nanorobots that change behavior.</ZeroMechanites.description>
   <ZeroMechanites.stages.0.label>轻度疼痛</ZeroMechanites.stages.0.label>
   <ZeroMechanites.stages.1.label>剧烈疼痛</ZeroMechanites.stages.1.label>
 
   <Irradiation.label>辐射照射</Irradiation.label>
+  <Irradiation.description>The flow of radiation negatively affects your condition.</Irradiation.description>
   <Irradiation.stages.0.label>最初的</Irradiation.stages.0.label>
   <Irradiation.stages.1.label>最初的</Irradiation.stages.1.label>
   <Irradiation.stages.2.label>少量的</Irradiation.stages.2.label>
@@ -14,6 +16,7 @@
   <Irradiation.stages.5.label>极端的</Irradiation.stages.5.label>
 
   <OxygenStarvation.label>缺氧</OxygenStarvation.label>
+  <OxygenStarvation.description>Lack of oxygen, threatening to develop into a lethal stage.</OxygenStarvation.description>
   <OxygenStarvation.stages.0.label>最初的</OxygenStarvation.stages.0.label>
   <OxygenStarvation.stages.1.label>最初的</OxygenStarvation.stages.1.label>
   <OxygenStarvation.stages.2.label>少量的</OxygenStarvation.stages.2.label>
@@ -22,6 +25,7 @@
   <OxygenStarvation.stages.5.label>极端的</OxygenStarvation.stages.5.label>
 
   <Fibrodysplasia.label>纤维发育不良</Fibrodysplasia.label>
+  <Fibrodysplasia.description>A rare and serious disease that gradually destroys body tissue.</Fibrodysplasia.description>
   <Fibrodysplasia.stages.0.label>少量的</Fibrodysplasia.stages.0.label>
   <Fibrodysplasia.stages.1.label>容易的</Fibrodysplasia.stages.1.label>
   <Fibrodysplasia.stages.2.label>中等的</Fibrodysplasia.stages.2.label>
@@ -29,11 +33,81 @@
   <Fibrodysplasia.stages.4.label>超硬的</Fibrodysplasia.stages.4.label>
 
   <NeurofibromatousWorms.label>神经纤维瘤蠕虫</NeurofibromatousWorms.label>
+  <NeurofibromatousWorms.description>A disease that develops under the influence of intractable parasites in the brain. Characterized by gradual loss of vision and hearing.</NeurofibromatousWorms.description>
   <NeurofibromatousWorms.stages.0.label>容易的</NeurofibromatousWorms.stages.0.label>
 
   <NeurofibromatousWormsFinal.label>神经纤维瘤蠕虫（死脑阶段）</NeurofibromatousWormsFinal.label>
+  <NeurofibromatousWormsFinal.description>The final stage of the disease, leading to complete loss of hearing and vision.</NeurofibromatousWormsFinal.description>
+
   <CaveBettleBuff.label>夜狩</CaveBettleBuff.label>
+  <CaveBettleBuff.description>The evolutionary mechanism of metabolic acceleration at a natural level of illumination for the body.</CaveBettleBuff.description>
+
   <ThirstHumanMeat.label>人肉渴求</ThirstHumanMeat.label>
+  <ThirstHumanMeat.description>Feeling of euphoria caused by eating human remains.</ThirstHumanMeat.description>
+
+  <PoisonBite.label>Poison bite</PoisonBite.label>
+  <PoisonBite.description>Acid and enzymes that enter the affected area interfere with healing and cause loss of coordination.</PoisonBite.description>
+  <PoisonBite.stages.0.label>early</PoisonBite.stages.0.label>
+  <PoisonBite.stages.1.label>poisoning</PoisonBite.stages.1.label>
+  <PoisonBite.stages.2.label>severe poisoning</PoisonBite.stages.2.label>
+  <PoisonBite.stages.3.label>dangerous poisoning</PoisonBite.stages.3.label>
+
+  <BioChemicRegeneration.label>Biochemical regeneration</BioChemicRegeneration.label>
+  <BioChemicRegeneration.description>The natural process of accelerating metabolism and healing of wounds, by increasing energy consumption.</BioChemicRegeneration.description>
+  <BioChemicRegeneration.labelNoun>Biochemical regeneration</BioChemicRegeneration.labelNoun>
+
+  <AdamantiumToxin.label>Adamantium Poisoning</AdamantiumToxin.label>
+  <AdamantiumToxin.description>Radiation from the material causes rejection in the nervous system, resulting in partial loss of coordination.</AdamantiumToxin.description>
+  <AdamantiumToxin.labelNoun>Adamantium Poisoning</AdamantiumToxin.labelNoun>
+
+  <PoisonHit.label>Poisoning</PoisonHit.label>
+  <PoisonHit.description>Chemicals in the wound cause fatigue and fatigue.</PoisonHit.description>
+  <PoisonHit.stages.0.label>early</PoisonHit.stages.0.label>
+  <PoisonHit.stages.1.label>easy poisoning</PoisonHit.stages.1.label>
+  <PoisonHit.stages.2.label>severe poisoning</PoisonHit.stages.2.label>
+  <PoisonHit.stages.3.label>dangerous poisoning</PoisonHit.stages.3.label>
+
+  <ElectromagneticShock.label>Electromagnetic shock</ElectromagneticShock.label>
+  <ElectromagneticShock.description>Concentrated electromagnetic radiation negatively affects the basic life systems of the body.</ElectromagneticShock.description>
+
+  <ExposureChargedPlasma.label>Exposure to charged plasma</ExposureChargedPlasma.label>
+  <ExposureChargedPlasma.description>Hot plasma suppresses natural processes in the brain and leads to a partial loss of intersystem interaction.</ExposureChargedPlasma.description>
+
+  <EnergyOverload.label>Energy overload</EnergyOverload.label>
+  <EnergyOverload.description>Strong magnetic effects overload the nervous system.</EnergyOverload.description>
+
+  <InternalBleeding.label>Internal bleeding</InternalBleeding.label>
+  <InternalBleeding.description>Deep tissue damage causes numerous ruptures of blood vessels inside the body.</InternalBleeding.description>
+
+  <ShortStun.label>Short stun</ShortStun.label>
+  <ShortStun.description>Stun caused by physical effects on the senses.</ShortStun.description>
+
+  <SphereOfResurrection.label>Temporarily alive</SphereOfResurrection.label>
+  <SphereOfResurrection.description>Many mechanites can, for a short time, partially restore the metabolism of dead creatures, simulating consciousness.</SphereOfResurrection.description>
+
+  <ExposurePoison.label>Exposure to poison</ExposurePoison.label>
+  <ExposurePoison.description>Poisonous chemicals penetrate the victim’s tissue, slightly slowing down nerve impulses.</ExposurePoison.description>
+
+  <ExposurePoison_Axe.label>Exposure to poison</ExposurePoison_Axe.label>
+  <ExposurePoison_Axe.description>Poisonous chemicals penetrate the victim’s tissue, slightly slowing down nerve impulses.</ExposurePoison_Axe.description>
+
+  <DevastatingInjuries.label>Devastating injuries</DevastatingInjuries.label>
+  <DevastatingInjuries.description>Severe breaks in body tissues.</DevastatingInjuries.description>
+
+  <CryotiumShards.label>Cryotium Shards</CryotiumShards.label>
+  <CryotiumShards.description>Small particles of cryotium cause a decrease in body temperature during evaporation inside the wound.</CryotiumShards.description>
+
+  <ExplosiveBullets.label>Explosive bullets</ExplosiveBullets.label>
+  <ExplosiveBullets.description>Explosive injuries cause significant damage to the condition.</ExplosiveBullets.description>
+
+  <BlastingBlisters.label>Blasting blisters</BlastingBlisters.label>
+  <BlastingBlisters.description>Large spherical neoplasms filled with organic flammable liquid.</BlastingBlisters.description>
+  <BlastingBlisters.stages.0.label>swelling</BlastingBlisters.stages.0.label>
+  <BlastingBlisters.stages.1.label>fermentation</BlastingBlisters.stages.1.label>
+  <BlastingBlisters.stages.2.label>destabilization</BlastingBlisters.stages.2.label>
+
+  <ElectricShock.label>Electric shock</ElectricShock.label>
+  <ElectricShock.description>Overload of the nervous system caused by exposure to electric current</ElectricShock.description>
 
 
   <!--<Irradiation.stages.initial-0.label>inconspicuous</Irradiation.stages.initial-0.label>-->

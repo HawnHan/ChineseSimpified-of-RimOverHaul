@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Entotizin.label>Entotizin</Entotizin.label>
+  <Entotizin.description>Resin-like viscous substance used mainly by snipers. The drug significantly increases the shooter's potential, increasing visual acuity and vigor. There is a chance of addiction, which is offset by its beneficial properties.</Entotizin.description>
+  <Entotizin.ingestible.ingestCommandString>Take {0}</Entotizin.ingestible.ingestCommandString>
+  <Entotizin.ingestible.ingestReportString>Taking {0}.</Entotizin.ingestible.ingestReportString>
+
+
+</LanguageData>

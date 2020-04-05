@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MutagenicSerum.label>Mutagenic serum</MutagenicSerum.label>
+  <MutagenicSerum.description>A solution of special viruses, slightly radioactive liquids, as well as complex chemicals. When injected into the blood, it begins to replace the DNA chains of the carrier with more advanced ones, often obtained artificially. The process is accompanied by very strong unpleasant sensations, and the introduction of a large dose can be fatal. Origin: The prototype of the drug is sometimes created during the transition of civilization from the industrial world to the utopian, but due to a serious violation of ethical standards, including because animal experimentation is impossible, the very existence of the drug is washed away from history, few can get a “recipe” for this preparation, and even more so to refine and sell, so you can not hope to ever make such a concentrate yourself.</MutagenicSerum.description>
+  <MutagenicSerum.ingestible.ingestCommandString>Take {0}</MutagenicSerum.ingestible.ingestCommandString>
+  <MutagenicSerum.ingestible.ingestReportString>Taking {0}.</MutagenicSerum.ingestible.ingestReportString>
+
+
+</LanguageData>

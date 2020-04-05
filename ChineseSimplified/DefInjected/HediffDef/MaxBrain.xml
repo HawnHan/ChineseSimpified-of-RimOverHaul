@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MaxBrainTolerance.label>MaxBrain tolerance</MaxBrainTolerance.label>
+  <MaxBrainTolerance.description>A home-made drug made from extracts of psycholist and Devil's mushroom is designed for short-term improvement in brain function and consciousness. When taking the drug for two to three days, it significantly increases the speed of mental work, concentration and mental stability. If consumed more than 1 time per month, addiction to the drug can occur, which is fraught with serious consequences that are difficult to overcome.</MaxBrainTolerance.description>
+
+  <MaxBrainHediff.label>Expanded consciousness</MaxBrainHediff.label>
+  <MaxBrainHediff.description>A home-made drug made from extracts of psycholist and Devil's mushroom is designed for short-term improvement in brain function and consciousness. When taking the drug for two to three days, it significantly increases the speed of mental work, concentration and mental stability. If consumed more than 1 time per month, addiction to the drug can occur, which is fraught with serious consequences that are difficult to overcome.</MaxBrainHediff.description>
+  <MaxBrainHediff.labelNoun>Expanded consciousness</MaxBrainHediff.labelNoun>
+
+  <MaxBrainPostfactor.label>'boost your brain' post factor</MaxBrainPostfactor.label>
+  <MaxBrainPostfactor.description>A home-made drug made from extracts of psycholist and Devil's mushroom is designed for short-term improvement in brain function and consciousness. When taking the drug for two to three days, it significantly increases the speed of mental work, concentration and mental stability. If consumed more than 1 time per month, addiction to the drug can occur, which is fraught with serious consequences that are difficult to overcome.</MaxBrainPostfactor.description>
+  <MaxBrainPostfactor.labelNoun>'boost your brain' post factor</MaxBrainPostfactor.labelNoun>
+
+  <MaxBrainAddiction.label>'boost your brain' addiction</MaxBrainAddiction.label>
+  <MaxBrainAddiction.description>A home-made drug made from extracts of psycholist and Devil's mushroom is designed for short-term improvement in brain function and consciousness. When taking the drug for two to three days, it significantly increases the speed of mental work, concentration and mental stability. If consumed more than 1 time per month, addiction to the drug can occur, which is fraught with serious consequences that are difficult to overcome.</MaxBrainAddiction.description>
+  <MaxBrainAddiction.stages.1.label>withdrawal</MaxBrainAddiction.stages.1.label>
+
+
+  <!--<MaxBrainTolerance.stages.0.label>small</MaxBrainTolerance.stages.0.label>-->
+  <!--<MaxBrainTolerance.stages.1.label>small</MaxBrainTolerance.stages.1.label>-->
+  <!--<MaxBrainTolerance.stages.2.label>large</MaxBrainTolerance.stages.2.label>-->
+  <!--<MaxBrainTolerance.stages.3.label>massive</MaxBrainTolerance.stages.3.label>-->
+
+</LanguageData>

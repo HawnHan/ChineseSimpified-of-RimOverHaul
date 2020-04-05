@@ -36,4 +36,7 @@
   <CokeFurnace_infinity>无限</CokeFurnace_infinity>
   <CokeFurnace_Notinfinity>定量</CokeFurnace_Notinfinity>
 
+  <CaravanArrivalAction_AttackCaravanAI_Label>攻击</CaravanArrivalAction_AttackCaravanAI_Label>
+  <CaravanArrivalAction_AttackCaravanAI_ReportString>攻击 {0}</CaravanArrivalAction_AttackCaravanAI_ReportString>
+
 </LanguageData>

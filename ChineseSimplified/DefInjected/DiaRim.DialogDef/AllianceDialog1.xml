@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <InvitationAlliance.label>Присоединение фракции к альянсу</InvitationAlliance.label>
+  <InvitationAlliance.Pages.0.Title>Приветствую вас.</InvitationAlliance.Pages.0.Title>
+  <InvitationAlliance.Pages.0.Text>- Не стану тратить ваше время зря и перейду к делу. У нас есть деловое предложение к вам.</InvitationAlliance.Pages.0.Text>
+  <InvitationAlliance.Pages.0.Options.0.Label>DiscussСollaboration</InvitationAlliance.Pages.0.Options.0.Label>
+  <InvitationAlliance.Pages.0.Options.1.Label>EndCooms</InvitationAlliance.Pages.0.Options.1.Label>
+  <InvitationAlliance.Pages.1.Title>Что вы можете нам предложить?</InvitationAlliance.Pages.1.Title>
+  <InvitationAlliance.Pages.1.Text>- Расскажите по подробнее, я не хочу тратить время на пустые разговоры.</InvitationAlliance.Pages.1.Text>
+  <InvitationAlliance.Pages.1.Options.0.Label>MilitaryExercises</InvitationAlliance.Pages.1.Options.0.Label>
+  <InvitationAlliance.Pages.1.Options.1.Label>GivePresent</InvitationAlliance.Pages.1.Options.1.Label>
+  <InvitationAlliance.Pages.1.Options.2.Label>OfferHelp</InvitationAlliance.Pages.1.Options.2.Label>
+  <InvitationAlliance.Pages.1.Options.3.Label>CallForUnity</InvitationAlliance.Pages.1.Options.3.Label>
+  <InvitationAlliance.Pages.1.Options.4.Label>EndCooms</InvitationAlliance.Pages.1.Options.4.Label>
+  <InvitationAlliance.Pages.2.Title>Учения?</InvitationAlliance.Pages.2.Title>
+  <InvitationAlliance.Pages.2.Text>- Дело в том что мы не планировали каких либо маневров в ближайшее время. Ни к чему тратить на это силы, хотя помощь не будет лишней.</InvitationAlliance.Pages.2.Text>
+  <InvitationAlliance.Pages.2.Options.0.Label>DiscussHostileGroups</InvitationAlliance.Pages.2.Options.0.Label>
+  <InvitationAlliance.Pages.2.Options.1.Label>MilitaryAssistance</InvitationAlliance.Pages.2.Options.1.Label>
+  <InvitationAlliance.Pages.2.Options.2.Label>EndCooms</InvitationAlliance.Pages.2.Options.2.Label>
+  <InvitationAlliance.Pages.3.Title>Деньги?</InvitationAlliance.Pages.3.Title>
+  <InvitationAlliance.Pages.3.Text>- Мы действительно переживаем не лучшие времена, но разве это может повлиять на нашу независимость?</InvitationAlliance.Pages.3.Text>
+  <InvitationAlliance.Pages.3.Options.0.Label>SeekLoyalty</InvitationAlliance.Pages.3.Options.0.Label>
+  <InvitationAlliance.Pages.3.Options.1.Label>DiscussTrade</InvitationAlliance.Pages.3.Options.1.Label>
+  <InvitationAlliance.Pages.3.Options.2.Label>EndCooms</InvitationAlliance.Pages.3.Options.2.Label>
+  <InvitationAlliance.Pages.4.Title>Помощь? Говорите громче!</InvitationAlliance.Pages.4.Title>
+  <InvitationAlliance.Pages.4.Text>- В последнее время участились атаки враждебных пиратских групп, нарушающих покой всех, кому не посчастливилось оказаться рядом. Мы действительно нуждаемся в некоторой материальной помощи для борьбы с этим.</InvitationAlliance.Pages.4.Text>
+  <InvitationAlliance.Pages.4.Options.0.Label>Aid</InvitationAlliance.Pages.4.Options.0.Label>
+  <InvitationAlliance.Pages.4.Options.1.Label>ConfidentialConversation</InvitationAlliance.Pages.4.Options.1.Label>
+  <InvitationAlliance.Pages.4.Options.2.Label>EndCooms</InvitationAlliance.Pages.4.Options.2.Label>
+  <InvitationAlliance.Pages.5.Title>Воодушевляюще, но...</InvitationAlliance.Pages.5.Title>
+  <InvitationAlliance.Pages.5.Text>- Несмотря на опасности и угрозу со стороны соседей, мы не испытываем нужду в объединении с вами.</InvitationAlliance.Pages.5.Text>
+  <InvitationAlliance.Pages.5.Options.0.Label>FierySpeech</InvitationAlliance.Pages.5.Options.0.Label>
+  <InvitationAlliance.Pages.5.Options.1.Label>MenacingWhispers</InvitationAlliance.Pages.5.Options.1.Label>
+  <InvitationAlliance.Pages.5.Options.2.Label>EndCooms</InvitationAlliance.Pages.5.Options.2.Label>
+  <InvitationAlliance.Pages.6.Title>Занимательно...</InvitationAlliance.Pages.6.Title>
+  <InvitationAlliance.Pages.6.Text>- Судя по всему, вы действительно намерены вести продуктивное сотрудничество, а мы просто не можем ответить вам отказом.</InvitationAlliance.Pages.6.Text>
+  <InvitationAlliance.Pages.6.Options.0.Label>EndCooms</InvitationAlliance.Pages.6.Options.0.Label>
+  <InvitationAlliance.Pages.7.Title>Бессмысленный треп!</InvitationAlliance.Pages.7.Title>
+  <InvitationAlliance.Pages.7.Text>- Хотя вы и зарекомендовали себя, как группа настойчивых людей, мы не можем воспринимать ваши слова в серьез.</InvitationAlliance.Pages.7.Text>
+  <InvitationAlliance.Pages.7.Options.0.Label>EndCooms</InvitationAlliance.Pages.7.Options.0.Label>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BattleRam.label>战争羊</BattleRam.label>
+  <BattleRam.labelPlural>战争羊</BattleRam.labelPlural>
+  <BattleRam.labelMale>雄性战争羊</BattleRam.labelMale>
+  <BattleRam.labelMalePlural>雄性战争羊</BattleRam.labelMalePlural>
+  <BattleRam.labelFemale>雌性战争羊</BattleRam.labelFemale>
+  <BattleRam.labelFemalePlural>雌性战争羊</BattleRam.labelFemalePlural>
+
+  <Goliath.label>巨兽</Goliath.label>
+  <Goliath.labelPlural>巨兽</Goliath.labelPlural>
+  <Goliath.labelMale>雄性巨兽</Goliath.labelMale>
+  <Goliath.labelMalePlural>雄性巨兽</Goliath.labelMalePlural>
+  <Goliath.labelFemale>雌性巨兽</Goliath.labelFemale>
+  <Goliath.labelFemalePlural>雌性巨兽</Goliath.labelFemalePlural>
+
+  <Bombardier.label>喷溅兽</Bombardier.label>
+  <Bombardier.labelPlural>喷溅兽</Bombardier.labelPlural>
+  <Bombardier.labelMale>雄性喷溅兽</Bombardier.labelMale>
+  <Bombardier.labelMalePlural>雄性喷溅兽</Bombardier.labelMalePlural>
+  <Bombardier.labelFemale>雌性喷溅兽</Bombardier.labelFemale>
+  <Bombardier.labelFemalePlural>雌性喷溅兽</Bombardier.labelFemalePlural>
+
+  <Termitnator.label>终结者</Termitnator.label>
+  <Termitnator.labelPlural>终结者</Termitnator.labelPlural>
+  <Termitnator.labelMale>雄性终结者</Termitnator.labelMale>
+  <Termitnator.labelMalePlural>雄性终结者</Termitnator.labelMalePlural>
+  <Termitnator.labelFemale>雌性终结者</Termitnator.labelFemale>
+  <Termitnator.labelFemalePlural>雌性终结者</Termitnator.labelFemalePlural>
+
+
+</LanguageData>

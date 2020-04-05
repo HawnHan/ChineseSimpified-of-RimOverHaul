@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AshesWater.label>Ashes water</AshesWater.label>
+  <AshesWater.description>The special herbs and ashes from the nuclear bombardment jungle dissolved in Go-juice cause a short-term effect of superhigh regeneration with powerful side effects, but if your colonist is about to die in a couple of hours, this is the only way.</AshesWater.description>
+  <AshesWater.ingestible.ingestCommandString>Take {0}</AshesWater.ingestible.ingestCommandString>
+  <AshesWater.ingestible.ingestReportString>Taking {0}.</AshesWater.ingestible.ingestReportString>
+
+
+</LanguageData>

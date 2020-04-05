@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Likombinat.label>Likombinat</Likombinat.label>
+  <Likombinat.description>An experimental drug that can cause powerful side effects and dependence. Nevertheless, presumably allows you to bring the reaction to an incredible level. However, the effect cannot last for a long time, requiring constant recharge. If you stop taking the drug, dangerous side effects are possible.</Likombinat.description>
+  <Likombinat.ingestible.ingestCommandString>Take {0}</Likombinat.ingestible.ingestCommandString>
+  <Likombinat.ingestible.ingestReportString>Taking {0}.</Likombinat.ingestible.ingestReportString>
+
+
+</LanguageData>

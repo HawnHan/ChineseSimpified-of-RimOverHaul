@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Extratisinum.label>Extratisinum</Extratisinum.label>
+  <Extratisinum.description>Resin-like viscous substance. After use, it greatly increases visual acuity and hearing, giving vigor. It causes a strong dependence, requiring constant consumption to maintain the effect.</Extratisinum.description>
+  <Extratisinum.ingestible.ingestCommandString>Take {0}</Extratisinum.ingestible.ingestCommandString>
+  <Extratisinum.ingestible.ingestReportString>Taking {0}.</Extratisinum.ingestible.ingestReportString>
+
+
+</LanguageData>

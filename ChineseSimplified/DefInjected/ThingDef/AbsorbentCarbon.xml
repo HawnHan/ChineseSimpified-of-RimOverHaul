@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AbsorbentCarbon.label>Absorbent carbon</AbsorbentCarbon.label>
+  <AbsorbentCarbon.description>A mixture of natural coal processed in a chemical laboratory and converted into tablets. Due to its natural cleansing properties, it is able, when used, to stop food poisoning.</AbsorbentCarbon.description>
+  <AbsorbentCarbon.ingestible.ingestCommandString>Take {0}</AbsorbentCarbon.ingestible.ingestCommandString>
+  <AbsorbentCarbon.ingestible.ingestReportString>Taking {0}.</AbsorbentCarbon.ingestible.ingestReportString>
+
+
+</LanguageData>

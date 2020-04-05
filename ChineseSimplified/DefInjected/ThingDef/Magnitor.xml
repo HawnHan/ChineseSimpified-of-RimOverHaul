@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Magnitor.label>Magnitor</Magnitor.label>
+  <Magnitor.description>The combined drug, while its constituent acetylsalicylic acid and magnesium hydroxide contribute to the relief of bleeding, which is used in medicine to treat diseases of the cardiovascular system. Able to quickly stop bleeding during use, however, this significantly exhausts the body. When applying, the colonist will be unconscious, however, the drug does not cause addiction and side effects, in addition to reducing blood filtration while the colonist is unconscious. When used on a colonist with a heart prosthesis installed, the quality is lower than natural, causing death.</Magnitor.description>
+  <Magnitor.ingestible.ingestCommandString>Take {0}</Magnitor.ingestible.ingestCommandString>
+  <Magnitor.ingestible.ingestReportString>Taking {0}.</Magnitor.ingestible.ingestReportString>
+
+
+</LanguageData>

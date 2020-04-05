@@ -22,14 +22,11 @@
   <Constellation_Social.label>海豚座</Constellation_Social.label>
   <Constellation_Social.description>海豚座在天空闪耀。这激励了商人。具有这一特性的人感受到了力量涌动。</Constellation_Social.description>
 
-  <!--[Duplicated] <Constellation_Craft.label>Созвездие Кузница Гефеста</Constellation_Craft.label>-->
-  <!--[Duplicated] <Constellation_Craft.description>В небе воссияло созвездие Кузница Гефеста. Это событие зажигает азарт в глазах ваших ремесленников. Каждое существо ощущает прилив сил.</Constellation_Craft.description>-->
+  <Constellation_Craft.label>御夫座</Constellation_Craft.label>
+  <Constellation_Craft.description>御夫座在天空闪耀。这燃起了艺术家们的激情。具有这一特性的人感受到了力量涌动。</Constellation_Craft.description>
 
   <Constellation_Mining.label>山案座</Constellation_Mining.label>
   <Constellation_Mining.description>山案座在天空闪耀。这照亮了矿工们的世界。具有这一特性的人感受到了力量涌动。</Constellation_Mining.description>
-
-  <Constellation_Craft.label>御夫座</Constellation_Craft.label>
-  <Constellation_Craft.description>御夫座在天空闪耀。这燃起了艺术家们的激情。具有这一特性的人感受到了力量涌动。</Constellation_Craft.description>
 
   <Constellation_Cooking.label>巨爵座</Constellation_Cooking.label>
   <Constellation_Cooking.description>巨爵座在天空闪耀。这为厨师们打开了烹饪秘籍。具有这一特性的人感受到了力量涌动。</Constellation_Cooking.description>

@@ -11,7 +11,9 @@
   <CarryItemToCokeFurnace.reportString>搬运物品到焦煤熔炉</CarryItemToCokeFurnace.reportString>
   <SwitchCokeFurnace.reportString>开关焦炭炉</SwitchCokeFurnace.reportString>
   <TakeResultFromCokeFurnace.reportString>从焦煤熔炉中取出物品</TakeResultFromCokeFurnace.reportString>
-  <FillUpHole.reportString>将地道填满土</FillUpHole.reportString>
+  <FillUpHole.reportString>填充掩埋地道</FillUpHole.reportString>
+  <UseLaboratoryConsole.reportString>used laboratory console</UseLaboratoryConsole.reportString>
+  <UseUsableItem.reportString>使用物品</UseUsableItem.reportString>
 
 
   <!--<LoadArmorIntoStation.reportString>将动力甲拿到基站</LoadArmorIntoStation.reportString>-->

@@ -5,22 +5,21 @@
   <CaveSpelopede.description>星球上为数不多的洞穴生物之一。体型小，全身覆盖着相当致密的几丁质盔甲。利爪使他在近战中成为危险的敌人。</CaveSpelopede.description>
   <CaveSpelopede.tools.0.label>头爪</CaveSpelopede.tools.0.label>
   <CaveSpelopede.tools.1.label>头</CaveSpelopede.tools.1.label>
-  <!-- Leather Amount: 0 -->
-  <!-- Use Meat From: Megaspider -->
-  <CaveSpelopede_Corpse.label>洞穴漫步者尸体</CaveSpelopede_Corpse.label>
-  <CaveSpelopede_Corpse.description>洞穴漫步者尸体</CaveSpelopede_Corpse.description>
 
   <CaveBeetleKing.label>洞穴甲虫王</CaveBeetleKing.label>
   <CaveBeetleKing.description>巨大可怕的洞穴虫之王。盔甲上有两层甲壳，有着难以置信的生命力。一瞬间，巨大的链刃就可以切断任何活着的生物。</CaveBeetleKing.description>
   <CaveBeetleKing.tools.0.label>头爪</CaveBeetleKing.tools.0.label>
   <CaveBeetleKing.tools.1.label>头</CaveBeetleKing.tools.1.label>
+
+
   <!-- Leather Amount: 0 -->
-  <CaveBeetleKing_Meat.label>虫肉</CaveBeetleKing_Meat.label>
-  <CaveBeetleKing_Meat.description>虫肉</CaveBeetleKing_Meat.description>
-  <CaveBeetleKing_Corpse.label>洞穴王虫尸体</CaveBeetleKing_Corpse.label>
-  <CaveBeetleKing_Corpse.description>洞穴王虫尸体</CaveBeetleKing_Corpse.description>
-
-
+  <!-- Use Meat From: Megaspider -->
+  <!--<CaveSpelopede_Corpse.label>洞穴漫步者尸体</CaveSpelopede_Corpse.label>-->
+  <!--<CaveSpelopede_Corpse.description>洞穴漫步者尸体</CaveSpelopede_Corpse.description>-->
+  <!--<CaveBeetleKing_Meat.label>虫肉</CaveBeetleKing_Meat.label>-->
+  <!--<CaveBeetleKing_Meat.description>虫肉</CaveBeetleKing_Meat.description>-->
+  <!--<CaveBeetleKing_Corpse.label>洞穴王虫尸体</CaveBeetleKing_Corpse.label>-->
+  <!--<CaveBeetleKing_Corpse.description>洞穴王虫尸体</CaveBeetleKing_Corpse.description>-->
   <!--<CaveBeetleKing.labelPlural>Cave Beetle King</CaveBeetleKing.labelPlural>-->
   <!--<CaveSpelopede.labelPlural>cave beetle</CaveSpelopede.labelPlural>-->
 

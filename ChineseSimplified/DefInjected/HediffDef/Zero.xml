@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZeroTolerance.label>Zero tolerance</ZeroTolerance.label>
+  <ZeroTolerance.description>It is one of the most expensive drugs on the black market, due to the sharp increasing the soldier’s combat effectiveness and survival. Time slows down, which allows you to predict hits and shots. It causes severe forms of addiction. During withdrawal, a person has a strong the mood will fall, and time will practically stop. If you do not take the substance on time, the drug will cause severe intoxication and damage the brain. Not many people who survived after that, and if they survived, then did not represent further benefit.</ZeroTolerance.description>
+
+  <ZeroHediff.label>Time dilation</ZeroHediff.label>
+  <ZeroHediff.description>It is one of the most expensive drugs on the black market, due to the sharp increasing the soldier’s combat effectiveness and survival. Time slows down, which allows you to predict hits and shots. It causes severe forms of addiction. During withdrawal, a person has a strong the mood will fall, and time will practically stop. If you do not take the substance on time, the drug will cause severe intoxication and damage the brain. Not many people who survived after that, and if they survived, then did not represent further benefit.</ZeroHediff.description>
+  <ZeroHediff.labelNoun>I see their actions, they are so slow ... But I'm faster!</ZeroHediff.labelNoun>
+
+  <ZeroAddiction.label>Zero addiction</ZeroAddiction.label>
+  <ZeroAddiction.description>It is one of the most expensive drugs on the black market, due to the sharp increasing the soldier’s combat effectiveness and survival. Time slows down, which allows you to predict hits and shots. It causes severe forms of addiction. During withdrawal, a person has a strong the mood will fall, and time will practically stop. If you do not take the substance on time, the drug will cause severe intoxication and damage the brain. Not many people who survived after that, and if they survived, then did not represent further benefit.</ZeroAddiction.description>
+  <ZeroAddiction.stages.1.label>withdrawal</ZeroAddiction.stages.1.label>
+
+  <ZeroBrainDamage.label>Severe damage to the brain lobes</ZeroBrainDamage.label>
+  <ZeroBrainDamage.description>It is one of the most expensive drugs on the black market, due to the sharp increasing the soldier’s combat effectiveness and survival. Time slows down, which allows you to predict hits and shots. It causes severe forms of addiction. During withdrawal, a person has a strong the mood will fall, and time will practically stop. If you do not take the substance on time, the drug will cause severe intoxication and damage the brain. Not many people who survived after that, and if they survived, then did not represent further benefit.</ZeroBrainDamage.description>
+  <ZeroBrainDamage.labelNoun>Parietal and occipital lobe severely damaged</ZeroBrainDamage.labelNoun>
+
+
+  <!--<ZeroTolerance.stages.0.label>small</ZeroTolerance.stages.0.label>-->
+  <!--<ZeroTolerance.stages.1.label>small</ZeroTolerance.stages.1.label>-->
+  <!--<ZeroTolerance.stages.2.label>large</ZeroTolerance.stages.2.label>-->
+  <!--<ZeroTolerance.stages.3.label>massive</ZeroTolerance.stages.3.label>-->
+
+</LanguageData>

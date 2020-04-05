@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DextromitaineTolerance.label>Dextromitaine tolerance</DextromitaineTolerance.label>
+  <DextromitaineTolerance.description>Psychostimulant used to increase concentration. Due to its composition, it is able to repeatedly increase the speed of manipulation. However, it has several disadvantages. So, after the action of the drug, Subjects observed mental lethargy and increased drowsiness. Perfect for lightning attacks, but does not last long. Quickly addictive and painful breaking.</DextromitaineTolerance.description>
+
+  <DextromitaineHediff.label>Occipital lobe stimulation</DextromitaineHediff.label>
+  <DextromitaineHediff.description>Psychostimulant used to increase concentration. Due to its composition, it is able to repeatedly increase the speed of manipulation. However, it has several disadvantages. So, after the action of the drug, Subjects observed mental lethargy and increased drowsiness. Perfect for lightning attacks, but does not last long. Quickly addictive and painful breaking.</DextromitaineHediff.description>
+  <DextromitaineHediff.labelNoun>Occipital lobe stimulation</DextromitaineHediff.labelNoun>
+
+  <DextromitainePostfactor.label>Exhausted organism</DextromitainePostfactor.label>
+  <DextromitainePostfactor.description>Psychostimulant used to increase concentration. Due to its composition, it is able to repeatedly increase the speed of manipulation. However, it has several disadvantages. So, after the action of the drug, Subjects observed mental lethargy and increased drowsiness. Perfect for lightning attacks, but does not last long. Quickly addictive and painful breaking.</DextromitainePostfactor.description>
+  <DextromitainePostfactor.labelNoun>Exhausted organism</DextromitainePostfactor.labelNoun>
+
+  <DextromitaineAddiction.label>Dextromitaine addiction</DextromitaineAddiction.label>
+  <DextromitaineAddiction.description>Psychostimulant used to increase concentration. Due to its composition, it is able to repeatedly increase the speed of manipulation. However, it has several disadvantages. So, after the action of the drug, Subjects observed mental lethargy and increased drowsiness. Perfect for lightning attacks, but does not last long. Quickly addictive and painful breaking.</DextromitaineAddiction.description>
+  <DextromitaineAddiction.stages.1.label>withdrawal</DextromitaineAddiction.stages.1.label>
+
+
+  <!--<DextromitaineTolerance.stages.0.label>small</DextromitaineTolerance.stages.0.label>-->
+  <!--<DextromitaineTolerance.stages.1.label>small</DextromitaineTolerance.stages.1.label>-->
+  <!--<DextromitaineTolerance.stages.2.label>large</DextromitaineTolerance.stages.2.label>-->
+  <!--<DextromitaineTolerance.stages.3.label>massive</DextromitaineTolerance.stages.3.label>-->
+
+</LanguageData>

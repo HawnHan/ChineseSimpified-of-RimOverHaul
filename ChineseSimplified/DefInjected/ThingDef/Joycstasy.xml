@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Joycstasy.label>Joycstasy</Joycstasy.label>
+  <Joycstasy.description>Homemade merchant drug made from ambrosia and Devil's mushroom extracts. It improves mood and mental stability, but is addictive and negative effects when breaking.</Joycstasy.description>
+  <Joycstasy.ingestible.ingestCommandString>Take {0}</Joycstasy.ingestible.ingestCommandString>
+  <Joycstasy.ingestible.ingestReportString>Taking {0}.</Joycstasy.ingestible.ingestReportString>
+
+
+</LanguageData>

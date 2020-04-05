@@ -9,5 +9,9 @@
   <GetLeqGasCycl.description>制造瓶子并将其注满液化天然气</GetLeqGasCycl.description>
   <GetLeqGasCycl.jobString>制造液化天然气瓶</GetLeqGasCycl.jobString>
 
+  <GetFuelfromCoal.label>Synthesize Chemical Fuel</GetFuelfromCoal.label>
+  <GetFuelfromCoal.description>Synthesize Chemical Fuel</GetFuelfromCoal.description>
+  <GetFuelfromCoal.jobString>Receives chemical fuel</GetFuelfromCoal.jobString>
+
 
 </LanguageData>

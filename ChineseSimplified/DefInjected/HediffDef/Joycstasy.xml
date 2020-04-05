@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <JoycstasyTolerance.label>Joycstasy tolerance</JoycstasyTolerance.label>
+  <JoycstasyTolerance.description>Homemade merchant drug made from ambrosia and Devil's mushroom extracts. It improves mood and mental stability, but is addictive and negative effects when breaking.</JoycstasyTolerance.description>
+
+  <JoycstasyHediff.label>Mental blockade</JoycstasyHediff.label>
+  <JoycstasyHediff.description>Homemade merchant drug made from ambrosia and Devil's mushroom extracts. It improves mood and mental stability, but is addictive and negative effects when breaking.</JoycstasyHediff.description>
+  <JoycstasyHediff.labelNoun>Mental blockade</JoycstasyHediff.labelNoun>
+
+  <JoycstasyAddiction.label>Joycstasy addiction</JoycstasyAddiction.label>
+  <JoycstasyAddiction.description>Homemade merchant drug made from ambrosia and Devil's mushroom extracts. It improves mood and mental stability, but is addictive and negative effects when breaking.</JoycstasyAddiction.description>
+  <JoycstasyAddiction.stages.1.label>withdrawal</JoycstasyAddiction.stages.1.label>
+
+
+  <!--<JoycstasyTolerance.stages.0.label>small</JoycstasyTolerance.stages.0.label>-->
+  <!--<JoycstasyTolerance.stages.1.label>small</JoycstasyTolerance.stages.1.label>-->
+  <!--<JoycstasyTolerance.stages.2.label>large</JoycstasyTolerance.stages.2.label>-->
+  <!--<JoycstasyTolerance.stages.3.label>massive</JoycstasyTolerance.stages.3.label>-->
+
+</LanguageData>

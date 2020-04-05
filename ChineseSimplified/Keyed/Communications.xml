@@ -7,7 +7,7 @@
   <QuestTimeout>任务 {0} 的完成时间已过</QuestTimeout>
   <UnlimitedTime>剩余时间：无限制</UnlimitedTime>
   <QuestTimer>剩余时间：{0} 天</QuestTimer>
-  <!--[Core] <JumpToLocation>Jump to location</JumpToLocation>-->
+  <JumpToLocation>跳转任务地点 ({0})</JumpToLocation>
   <QuestRewards>报酬</QuestRewards>
   <AdditionalQuestContent>额外</AdditionalQuestContent>
 
@@ -55,13 +55,13 @@
   <ClimateBombDesc>我们发现了一个气候炸弹。我的思维很混乱。是谁，又为什么将其留在这个星球上，还不得而知。但如果我们不希望下几个季节的气候发生什么状况，就需要去解决它。\n\n我们需要组建一支精锐部队，那里极有可能存在敌方派系，很可能卷入战斗。</ClimateBombDesc>
 
   <Comm_MassiveFireTitle>熊熊烈火</Comm_MassiveFireTitle>
-  <Comm_MassiveFireDesc>我们定居点附近爆发了一场火灾，可能是由天气引起的。在每一分钟里，火势都愈演愈烈。令人担忧的是，火势会蔓延到附近，这也包括我们。\n我们可以寄望于雨或者自己将其扑灭。</Comm_MassiveFireDesc>
+  <Comm_MassiveFireDesc>我们定居点附近爆发了一场火灾，可能是由天气引起的。在每一分钟里，火势都愈演愈烈。令人担忧的是，火势会蔓延到附近，这也包括我们。\n我们可以寄望于雨将其熄灭，或自己去扑灭烈火。</Comm_MassiveFireDesc>
 
   <Comm_ShipCrashTitle>飞船失事</Comm_ShipCrashTitle>
   <Comm_ShipCrashDesc>我们看到一艘飞船失事了——外观像通用飞船。它坠落时，四分五裂，残骸有大有小。残骸可能是货物或居住舱。\n飞船残骸散落在全球各地。飞船外层由玻璃钢制成，因此绝大部分的资源极有可能得以存留。你可以组建远征队搜寻残余的船舱，并将其带走。当然了，这极其容易吸引不速之客。</Comm_ShipCrashDesc>
 
   <Comm_SiegeCampTitle>围攻者基地</Comm_SiegeCampTitle>
-  <Comm_SiegeCampDesc>匪徒营地建立在我们的不远处。他们拥有迫击炮，并有着摧毁我们的想法。他们会频繁的袭击我们，与此同时会升级他们的基地与增加自身的军事力量。我们要尽快的摧毁它，在它变成真正的难题前。</Comm_SiegeCampDesc>
+  <Comm_SiegeCampDesc>匪徒营地建立在我们的不远处。他们拥有迫击炮，并时刻想着摧毁我们。他们会频繁的袭击我们，与此同时会升级他们的基地与增加自身的军事力量。我们要尽快的摧毁它，在它变成真正的难题前。</Comm_SiegeCampDesc>
 
   <EmailMessage_From>寄件人: {0}</EmailMessage_From>
   <EmailMessage_To>收件人: {0}</EmailMessage_To>
@@ -98,7 +98,7 @@
 
   <PawnInfo>{PAWN_gender ? 他 : 她},是 {PAWN_kind}. {PAWN_possessive}昵称是 {PAWN_nameDef},并且{PAWN_pronoun} 的职业是 {PAWN_title}。</PawnInfo>
 
-  <CommOption_DeclineQuest_Label>拒绝</CommOption_DeclineQuest_Label>	
+  <CommOption_DeclineQuest_Label>拒绝</CommOption_DeclineQuest_Label>
   <CommOption_DeclineDialog_Label>拒绝</CommOption_DeclineDialog_Label>
 
   <ActualOnlyThisMap>当该访客加入你时此协议生效了。</ActualOnlyThisMap>
@@ -129,9 +129,168 @@
 
   <CommunicationComponent_CommunicationDialogTimer>通知</CommunicationComponent_CommunicationDialogTimer>
 
-  <!--<JumpToLocation>Jump to location ({0})</JumpToLocation>-->
+  <NoFactionComm_D>派系:未知</NoFactionComm_D>
+  <CokeFurnace_MultiplierLabel>Multiplier: </CokeFurnace_MultiplierLabel>
+
+  <DrawAllianceMainPage_AllianceTitle>Alliances</DrawAllianceMainPage_AllianceTitle>
+  <DrawAllianceMainPage_CoalitionTitle>Coalitions</DrawAllianceMainPage_CoalitionTitle>
+  <DrawAllianceMainPage_AllianceCreateButton>Create an Alliance</DrawAllianceMainPage_AllianceCreateButton>
+  <DrawAllianceMainPage_CoalitioneCreateButton>Create a coalition</DrawAllianceMainPage_CoalitioneCreateButton>
+  <DrawAllianceCard_OwnerInfo>Founder: {0}
+goal: {1}
+Fractions: {2}</DrawAllianceCard_OwnerInfo>
+  <Alliance_PlayerAlreadyHaveOne>You already have an alliance; you can’t establish a few.</Alliance_PlayerAlreadyHaveOne>
+  <DrawAllianceCard_Manage>control</DrawAllianceCard_Manage>
+  <GlobalFactionManager_NewAllianceTitle>New Alliance Founded</GlobalFactionManager_NewAllianceTitle>
+  <GlobalFactionManager_NewAllianceDesc>Fraction {0} founded an alliance whose goal {1}</GlobalFactionManager_NewAllianceDesc>
+  <AllianceNameAllias>Alliance: {0}</AllianceNameAllias>
+  <AllianceManager_KickButton>exclude</AllianceManager_KickButton>
+  <AllianceManager_TrustFactionLevel>The trust: {0}</AllianceManager_TrustFactionLevel>
+  <CommOption_InviteToAlliance_Label>Invite to Alliance</CommOption_InviteToAlliance_Label>
+  <CommOption_InviteToAlliance_NoAlliance>You do not have an active alliance</CommOption_InviteToAlliance_NoAlliance>
+  <CommOption_InviteToAlliance_AlreadyInAlliance>Already an Alliance Member</CommOption_InviteToAlliance_AlreadyInAlliance>
+  <AllianceManager_DrawRightBlock_Title>Information</AllianceManager_DrawRightBlock_Title>
+  <AllianceManager_Goal>{0} - {1}</AllianceManager_Goal>
+  <CommOption_InviteToAlliance_Wait>The faction is not ready for negotiations. Wait more {0} days.</CommOption_InviteToAlliance_Wait>
+  <CommOption_InviteToAlliance_NeedAAlly>Friendship or Neutrality Required to Invite a Faction to the Alliance</CommOption_InviteToAlliance_NeedAAlly>
+  <CommOption_InviteToAlliance_NeedTrust>The faction’s confidence level is too low for them to join your alliance. (minimum required {0})</CommOption_InviteToAlliance_NeedTrust>
+  <TrustFactionInformation>The level of trust shows how much the faction trusts you. Confidence can be enhanced by successfully completing fractions.</TrustFactionInformation>
+  <CommOption_InviteToAlliance_AnyHostileInAlliance>Your alliance has a faction (s) that are at odds with this.</CommOption_InviteToAlliance_AnyHostileInAlliance>
+  <Alliance_AddFactionTitle>{0} joins the alliance</Alliance_AddFactionTitle>
+  <Alliance_AddFactionDesc>After negotiations, the faction {0} joins your alliance.</Alliance_AddFactionDesc>
+  <AllianceRemoveFactionTitle>{0} leaves the alliance</AllianceRemoveFactionTitle>
+  <Alliance_RemoveFactionDesc>Fraction {0} leaves the alliance for a reason: {1}
+All current agreements were broken.</Alliance_RemoveFactionDesc>
+  <AllianceRemoveReason_Kick>agreement break</AllianceRemoveReason_Kick>
+  <AllianceRemoveReason_LowTrust>low confidence</AllianceRemoveReason_LowTrust>
+  <AllianceRemoveReason_None>not indicated</AllianceRemoveReason_None>
+  <AllianceManager_AvaliableQuests>Assignments from Alliance Members</AllianceManager_AvaliableQuests>
+  <AllianceManager_QuestLabel>{0} ({1})</AllianceManager_QuestLabel>
+  <AllianceInformation>Alliance: {0}</AllianceInformation>
+  <NoAllianceAlias>not</NoAllianceAlias>
+
+  <Alliance_Quest_ResearchSharing_StartedTitle>You arrived at the place</Alliance_Quest_ResearchSharing_StartedTitle>
+  <Alliance_Quest_ResearchSharing_StartedDesc>You have arrived at your destination. Exchange of experience will take 2 days, after which you will receive research points and your colonist.</Alliance_Quest_ResearchSharing_StartedDesc>
+  <CaravanArrivalAction_StartResearchSharing_Already>already started</CaravanArrivalAction_StartResearchSharing_Already>
+  <AllianceManager_ActiveAgreements>Agreement</AllianceManager_ActiveAgreements>
+
+  <TradeSchedulingAgreementWindow_SelectFactionLabel>Select the faction with which the agreement will be concluded.</TradeSchedulingAgreementWindow_SelectFactionLabel>
+  <TradeSchedulingAgreementWindow_SelectSettlementLabel>Select settlements for supplies</TradeSchedulingAgreementWindow_SelectSettlementLabel>
+  <TradeSchedulingAgreementWindow_SelectedSettlement>Settlement: {0}, travel time {1} (days)</TradeSchedulingAgreementWindow_SelectedSettlement>
+  <TradeSchedulingAgreementWindow_DaysLabelHolder>days on the road</TradeSchedulingAgreementWindow_DaysLabelHolder>
+
+  <Alliance_CanSignAgreement_NoTargetGoal>Unable to enter into alliance current goal</Alliance_CanSignAgreement_NoTargetGoal>
+  <Alliance_CanSignAgreement_NoSlots>Active agreement limit reached ({0})</Alliance_CanSignAgreement_NoSlots>
+  <Alliance_AddAgreement_False>Unable to sign agreement, reason: {0}</Alliance_AddAgreement_False>
+  <Alliance_CanSignAgreement_AlreadyActive>This agreement is already active.</Alliance_CanSignAgreement_AlreadyActive>
+
+  <TradeSchedulingAgreementWindow_SelectItems>Select items for agreement. When concluding an agreement, a standard discount of 20% is used (the price is already formatted).
+	You can increase the discount by up to 50% by investing in trust.</TradeSchedulingAgreementWindow_SelectItems>
+  <TradeSchedulingAgreementWindow_DrawGood_Good>{0} ({1}$ a piece)</TradeSchedulingAgreementWindow_DrawGood_Good>
+  <TradeSchedulingAgreementWindow_TrustAdditionalLabel>Extra trust (max {0}): </TradeSchedulingAgreementWindow_TrustAdditionalLabel>
+  <TradeSchedulingAgreementWindow_TrustAdditionaRecalculate>Recalculation of prices</TradeSchedulingAgreementWindow_TrustAdditionaRecalculate>
+  <TradeSchedulingAgreementWindow_ResultInfo>Final transaction price: {0}$
+{1}
+	
+Collecting items will take time, and in the end they will be delivered via {2} days.
+
+Cost of agreement (in trust): {3} (extra {4} for discount)</TradeSchedulingAgreementWindow_ResultInfo>
+  <TradeSchedulingAgreementWindow_CaravanDelivery>Delivery method: caravan. Travel time of the caravan from the settlement to you takes {0} days.</TradeSchedulingAgreementWindow_CaravanDelivery>
+  <TradeSchedulingAgreementWindow_CapsuleDelivery>Delivery method: capsules. No extra time required.</TradeSchedulingAgreementWindow_CapsuleDelivery>
+
+  <TradeSchedulingAgreementWindow_CreateAgreement>To sign an agreement</TradeSchedulingAgreementWindow_CreateAgreement>
+  <TradeSchedulingAgreementWindow_NotEnoughSilver>not enough silver ({0})</TradeSchedulingAgreementWindow_NotEnoughSilver>
+  <TradeSchedulingAgreementWindow_NotEnoughTrust>not enough trust (имеется {0}, required {1})</TradeSchedulingAgreementWindow_NotEnoughTrust>
+  <TradeSchedulingAgreementWindow_CantSignRightNow>Unable to sign agreement. Cause: {0}</TradeSchedulingAgreementWindow_CantSignRightNow>
+  <TradeSchedulingAgreementWindow_ZeroCost>no products selected</TradeSchedulingAgreementWindow_ZeroCost>
+
+  <TradeSchedulingAgreement_CreateSucessTitle>Agreement signed</TradeSchedulingAgreement_CreateSucessTitle>
+  <TradeSchedulingAgreement_CreateSucessDesc>You have signed an agreement with the faction {0}. Goods worth {1} silver will be delivered from {2} via {3} days.</TradeSchedulingAgreement_CreateSucessDesc>
+  <DeliveryItems_Title>Items delivered</DeliveryItems_Title>
+  <DeliveryItems_Desc>Trade agreement items delivered</DeliveryItems_Desc>
+
+  <Alliance_CanSignAgreement_MinMembersRequired>not enough members in the alliance ({0} required)</Alliance_CanSignAgreement_MinMembersRequired>
+  <TradeSchedulingAgreementCompProperties_SkilLDisabled>current negotiator cannot make an agreement, choose another</TradeSchedulingAgreementCompProperties_SkilLDisabled>
+
+  <TradeSchedulingAgreementComp_CaravanFormedTitle>Allied caravan formed</TradeSchedulingAgreementComp_CaravanFormedTitle>
+  <TradeSchedulingAgreementComp_CaravanFormedDesc>An allied caravan is formed and sent to you.</TradeSchedulingAgreementComp_CaravanFormedDesc>
+
+  <AllianceManager_WarManagerButton>War management</AllianceManager_WarManagerButton>
+  <WarManager_Factions>goal: {0}
+Attack: {1} ({2})
+Defend: {3} ({4})</WarManager_Factions>
+  <WarManager_NoAlliance>no alliance</WarManager_NoAlliance>
+  <CommOption_MakeWar_Label>Declare war or armistice</CommOption_MakeWar_Label>
+  <MakeWarWindow_DrawWarModeTitle>Declare war faction {0}</MakeWarWindow_DrawWarModeTitle>
+  <MakeWarWindow_DrawWarMode_SelectWarGoal>goal: {0}</MakeWarWindow_DrawWarMode_SelectWarGoal>
+  <MakeWarWindow_DrawWarMode_MakeWar>To declare a war {0}</MakeWarWindow_DrawWarMode_MakeWar>
+  <MakeWarWindow_WarNameLabel>War name</MakeWarWindow_WarNameLabel>
+  <MakeWarWindow_EmptyName>The name of the war is required</MakeWarWindow_EmptyName>
+
+  <War_WarIsStartedTitle>War has begun: {0}</War_WarIsStartedTitle>
+  <War_WarIsStartedDesc>The faction {0} ({1}) started the war with {2} ({3}) called {4}. Her goal is {5}</War_WarIsStartedDesc>
+
+  <CommOption_InviteToAlliance_InWar>You are at war with this faction</CommOption_InviteToAlliance_InWar>
+
+  <MakeWarWindow_DrawDefendModeTitle>{0} with fraction {1}</MakeWarWindow_DrawDefendModeTitle>
+  <MakeWarWindow_DrawDefendModeDesc>goal: {0}
+-------------------
+{1}
+</MakeWarWindow_DrawDefendModeDesc>
+  <WarManager_DrawWarInfo_WarMembers>Defenders ({0})
+----------------</WarManager_DrawWarInfo_WarMembers>
+  <MakeWarWindow_DrawDefendModeTruce>Conclude a truce</MakeWarWindow_DrawDefendModeTruce>
+  <MakeWarWindow_DrawDefendModeCantTruce>It is impossible to conclude a peace treaty now. Wait a while.</MakeWarWindow_DrawDefendModeCantTruce>
+  <War_EndWarTitle>{0} over</War_EndWarTitle>
+  <War_EndWarDesc>{0}, which {1} announced {2} is over.</War_EndWarDesc>
+  <CommOption_MakeWar_InAlliance>You cannot declare war on a member of your alliance</CommOption_MakeWar_InAlliance>
+  <CommOption_SubscribeScout_CantSub>You cannot sign an agreement because you are at war with a faction</CommOption_SubscribeScout_CantSub>
+  <CommOption_NonAgressionPact_CantSign>You cannot sign an agreement because you are at war with a faction</CommOption_NonAgressionPact_CantSign>
+
+  <Winner_Assaulters>attackers</Winner_Assaulters>
+  <Winner_Defenders>defending</Winner_Defenders>
+  <Winner_Draw>draw</Winner_Draw>
+  <Winner_None>unknown</Winner_None>
+
+  <WarGoalWorker_Destruction_YouWinTitle>Victory in the war</WarGoalWorker_Destruction_YouWinTitle>
+  <WarGoalWorker_Destruction_YouWinDesc>You won the war {0}, destroying all the enemy settlements, which earned additional trust in the eyes of your allies.</WarGoalWorker_Destruction_YouWinDesc>
+  <WarGoalWorker_Destruction_YouLoseTitle>Defeat in war</WarGoalWorker_Destruction_YouLoseTitle>
+  <WarGoalWorker_Destruction_YouLoseDesc>You lost the war {0} because you lost absolutely all your settlements. The game is over.</WarGoalWorker_Destruction_YouLoseDesc>
+
+  <War_LongEventStarting>Starting a war ...</War_LongEventStarting>
+
+  <CaravanArrivalAction_AIBackToHome_Label>Coming back home</CaravanArrivalAction_AIBackToHome_Label>
+  <CaravanArrivalAction_AIAttackSettlement_EnemyArmyTitle>The enemy is advancing</CaravanArrivalAction_AIAttackSettlement_EnemyArmyTitle>
+  <CaravanArrivalAction_AIAttackSettlement_EnemyArmyDesc>The enemy army {0} is advancing, take a position!</CaravanArrivalAction_AIAttackSettlement_EnemyArmyDesc>
+
+  <DefenseContractCompProperties_FactionTechLevelLack>The fraction level {0} is too low ({1}) to use transport capsules. (minimum of {2} required)</DefenseContractCompProperties_FactionTechLevelLack>
+  <DefenseContractCompWindow_ContractDuration>Duration of contract (days)</DefenseContractCompWindow_ContractDuration>
+  <DefenseContractCompWindow_CostRangeSlider>Type of support</DefenseContractCompWindow_CostRangeSlider>
+  <DefenseContractCompWindow_ShowExamplePawns>Show sample fighters</DefenseContractCompWindow_ShowExamplePawns>
+
+  <FightersLevel_RegularFighers>Regular fighters</FightersLevel_RegularFighers>
+  <FightersLevel_EliteFighters>Elite fighters</FightersLevel_EliteFighters>
+  <FightersLevel_Officiers>Officers</FightersLevel_Officiers>
+
+  <DefenseContractCompWindow_SelectFaction>Fraction: {0}</DefenseContractCompWindow_SelectFaction>
+  <DefenseContractCompWindow_LowTechLevel>(the level of development of the fraction is insufficient)</DefenseContractCompWindow_LowTechLevel>
+  <DefenseContractCompWindow_ResultInfo>Trust cost for {0} days: {1}
+Support Type {2}: {3}
+Total: {4} trust</DefenseContractCompWindow_ResultInfo>
+  <DefenseContractCompWindow_CreateAgreement_NoTrust>Lack of trust</DefenseContractCompWindow_CreateAgreement_NoTrust>
+  <DefenseContractCompWindow_CreateAgreement>To sign an agreement</DefenseContractCompWindow_CreateAgreement>
+  <DefenseContractCompWindow_CreatedTitle>Defense contract signed</DefenseContractCompWindow_CreatedTitle>
+  <DefenseContractCompWindow_CreatedDesc>Within {0} days, if you are attacked, faction {1} will send reinforcements to you.</DefenseContractCompWindow_CreatedDesc>
+  <DefenseContractComp_HelpTitle>Leg-up!</DefenseContractComp_HelpTitle>
+  <DefenseContractComp_HelpDesc>{0} send help! They will leave in 1 day</DefenseContractComp_HelpDesc>
+
+  <DefenseContractComp_EndTitle>Defensive contract completed</DefenseContractComp_EndTitle>
+  <DefenseContractComp_EndDesc>The duration of the defensive contract with {0} has come to an end. They will no longer send help in case of an attack on you</DefenseContractComp_EndDesc>
+
 
   <!--[Core] <JumpToLocation>转至事件发生地点</JumpToLocation>-->
+  <!--[Core] <JumpToLocation>Jump to location</JumpToLocation>-->
+  <!--<JumpToLocation>Jump to location ({0})</JumpToLocation>-->
   <!--<JumpToLOcation>跳转到事件位置</JumpToLOcation>-->
 
 </LanguageData>

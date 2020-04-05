@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- норм пацаны -->
+
+  <Pawn_Infantryman.label>步兵</Pawn_Infantryman.label>
+  <Pawn_Infantryman.labelPlural>步兵</Pawn_Infantryman.labelPlural>
+
+
+  <!-- элитка -->
+
+  <Pawn_Infantryman_Elite.label>精英步兵</Pawn_Infantryman_Elite.label>
+  <Pawn_Infantryman_Elite.labelPlural>精英步兵</Pawn_Infantryman_Elite.labelPlural>
+
+
+  <!-- уникальные какие-то баклажаны -->
+
+  <Pawn_FrontGrenadier.label>冲锋掷弹兵</Pawn_FrontGrenadier.label>
+  <Pawn_FrontGrenadier.labelPlural>冲锋掷弹兵</Pawn_FrontGrenadier.labelPlural>
+
+  <Pawn_EliteGrenadier.label>精英掷弹兵</Pawn_EliteGrenadier.label>
+  <Pawn_EliteGrenadier.labelPlural>精英掷弹兵</Pawn_EliteGrenadier.labelPlural>
+
+  <Pawn_EliteShotgun.label>散弹兵</Pawn_EliteShotgun.label>
+  <Pawn_EliteShotgun.labelPlural>散弹兵</Pawn_EliteShotgun.labelPlural>
+
+  <Pawn_LightShooter.label>轻机枪手</Pawn_LightShooter.label>
+  <Pawn_LightShooter.labelPlural>轻机枪手</Pawn_LightShooter.labelPlural>
+
+  <Pawn_HeavyShooter.label>重火力兵</Pawn_HeavyShooter.label>
+  <Pawn_HeavyShooter.labelPlural>重火力兵</Pawn_HeavyShooter.labelPlural>
+
+  <Pawn_HeavyArcher.label>重弓手</Pawn_HeavyArcher.label>
+  <Pawn_HeavyArcher.labelPlural>重弓手</Pawn_HeavyArcher.labelPlural>
+
+
+</LanguageData>

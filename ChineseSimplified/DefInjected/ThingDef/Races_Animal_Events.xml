@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BattleRam.label>Battle ram</BattleRam.label>
+  <BattleRam.description>A hypertrophied version of a common rhinoceros beetle, which is difficult to recognize under the layers of pulsating tissue and armor plates. It is extremely resistant to wounds, but its vitality is not infinite. Presumably the first copy was obtained as a result of mutagenic overdoses and injections of Likombinat, and later multiply multiplied, however, not all copies were viable. He is extremely aggressive and rushes to anyone who gets in the way.</BattleRam.description>
+  <BattleRam.tools.0.label>head claw</BattleRam.tools.0.label>
+
+  <Goliath.label>Goliath</Goliath.label>
+  <Goliath.description>Is one of the most dangerous creatures
+which we can find here. It has a lightning reaction, which
+makes the object unreachable in close combat. However, this is leveled by its weak
+armor that can easily be destroyed with firearms.
+The creature moves at great speed and has good eyesight. Capable of
+do not sleep until several months, after which it may fall into suspended animation, which however does not
+It was noticed due to the death of observers.</Goliath.description>
+  <Goliath.tools.0.label>left claw</Goliath.tools.0.label>
+  <Goliath.tools.1.label>right claw</Goliath.tools.1.label>
+
+  <Bombardier.label>Bombardier</Bombardier.label>
+  <Bombardier.description>Outwardly resembles its natural counterpart, but has a huge size.
+However, thanks to the reinforced sub-armored chitin plates, the creature is almost not
+can move efficiently. Early objects had the ability to attack from far away,
+which, however, is not seen in modern ones. It is dangerous in close combat.</Bombardier.description>
+  <Bombardier.tools.0.label>claw</Bombardier.tools.0.label>
+
+  <Termitnator.label>Termitnator</Termitnator.label>
+  <Termitnator.description>Not a large but aggressive insect that leaves deep cuts
+and chemical burns when hit by the victim. Attacks melee but no different
+speed and reaction from ordinary arthropods. Covered with titanium plates,
+which makes it pretty durable. The creature is capable of slow regeneration of its
+organism, concentrating.</Termitnator.description>
+  <Termitnator.tools.0.label>left claw</Termitnator.tools.0.label>
+  <Termitnator.tools.1.label>right claw</Termitnator.tools.1.label>
+
+
+  <!--<BattleRam_Leather.label>Battle ram leather</BattleRam_Leather.label>-->
+  <!--<BattleRam_Leather.description>Battle ram leather</BattleRam_Leather.description>-->
+  <!--<BattleRam_Leather.stuffProps.stuffAdjective>Battle ram leather</BattleRam_Leather.stuffProps.stuffAdjective>-->
+  <!--<BattleRam_Meat.label>Battle ram meat</BattleRam_Meat.label>-->
+  <!--<BattleRam_Meat.description>Battle ram meat</BattleRam_Meat.description>-->
+  <!--<BattleRam_Corpse.label>Battle ram corpse</BattleRam_Corpse.label>-->
+  <!--<BattleRam_Corpse.description>Battle ram corpse</BattleRam_Corpse.description>-->
+  <!--<Goliath_Leather.label>Goliath leather</Goliath_Leather.label>-->
+  <!--<Goliath_Leather.description>Goliath leather</Goliath_Leather.description>-->
+  <!--<Goliath_Leather.stuffProps.stuffAdjective>Goliath leather</Goliath_Leather.stuffProps.stuffAdjective>-->
+  <!--<Goliath_Meat.label>Goliath meat</Goliath_Meat.label>-->
+  <!--<Goliath_Meat.description>Goliath meat</Goliath_Meat.description>-->
+  <!--<Goliath_Corpse.label>Goliath corpse</Goliath_Corpse.label>-->
+  <!--<Goliath_Corpse.description>Goliath corpse</Goliath_Corpse.description>-->
+  <!--<Bombardier_Leather.label>Bombardier leather</Bombardier_Leather.label>-->
+  <!--<Bombardier_Leather.description>Bombardier leather</Bombardier_Leather.description>-->
+  <!--<Bombardier_Leather.stuffProps.stuffAdjective>Bombardier leather</Bombardier_Leather.stuffProps.stuffAdjective>-->
+  <!--<Bombardier_Meat.label>Bombardier meat</Bombardier_Meat.label>-->
+  <!--<Bombardier_Meat.description>Bombardier meat</Bombardier_Meat.description>-->
+  <!--<Bombardier_Corpse.label>Bombardier corpse</Bombardier_Corpse.label>-->
+  <!--<Bombardier_Corpse.description>Bombardier corpse</Bombardier_Corpse.description>-->
+  <!--<Termitnator_Leather.label>Termitnator leather</Termitnator_Leather.label>-->
+  <!--<Termitnator_Leather.description>Termitnator leather</Termitnator_Leather.description>-->
+  <!--<Termitnator_Leather.stuffProps.stuffAdjective>Termitnator leather</Termitnator_Leather.stuffProps.stuffAdjective>-->
+  <!--<Termitnator_Meat.label>Termitnator meat</Termitnator_Meat.label>-->
+  <!--<Termitnator_Meat.description>Termitnator meat</Termitnator_Meat.description>-->
+  <!--<Termitnator_Corpse.label>Termitnator corpse</Termitnator_Corpse.label>-->
+  <!--<Termitnator_Corpse.description>Termitnator corpse</Termitnator_Corpse.description>-->
+
+</LanguageData>

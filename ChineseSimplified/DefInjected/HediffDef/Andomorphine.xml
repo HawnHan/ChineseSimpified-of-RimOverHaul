@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AndomorphineHigh.label>Andomorphine</AndomorphineHigh.label>
+  <AndomorphineHigh.description>A potent drug from the opium group, obtained synthetically, causing large-scale changes in brain functions in the consumer. When used, it blocks pain receptors and covers the body of the spruce with a noticeable layer of mechanites, which serve to protect against injuries and rapid regeneration. The drug cannot be removed from the body and it must be used throughout the rest of life to prevent irreversible changes in the body.</AndomorphineHigh.description>
+
+  <AndomorphineAddiction.label>andomorphine need</AndomorphineAddiction.label>
+  <AndomorphineAddiction.description>A potent drug from the opium group, obtained synthetically, causing large-scale changes in brain functions in the consumer. When used, it blocks pain receptors and covers the body of the spruce with a noticeable layer of mechanites, which serve to protect against injuries and rapid regeneration. The drug cannot be removed from the body and it must be used throughout the rest of life to prevent irreversible changes in the body.</AndomorphineAddiction.description>
+  <AndomorphineAddiction.stages.1.label>withdrawal</AndomorphineAddiction.stages.1.label>
+
+
+</LanguageData>

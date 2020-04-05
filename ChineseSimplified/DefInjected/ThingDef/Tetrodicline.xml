@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tetrodicline.label>Tetrodicline</Tetrodicline.label>
+  <Tetrodicline.description>A drug that affects the brain activity of neurons, allowing you to double the speed of learning and remembering new knowledge. It is worth remembering that the consumption of body resources is comparable to its work, which is also reflected in the action of the drug. It is highly addictive.</Tetrodicline.description>
+  <Tetrodicline.ingestible.ingestCommandString>Take {0}</Tetrodicline.ingestible.ingestCommandString>
+  <Tetrodicline.ingestible.ingestReportString>Taking {0}.</Tetrodicline.ingestible.ingestReportString>
+
+
+</LanguageData>

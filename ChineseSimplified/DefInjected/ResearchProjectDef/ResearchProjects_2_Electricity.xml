@@ -22,5 +22,11 @@
   <GasToHeat.label>天然气供暖</GasToHeat.label>
   <GasToHeat.description>建造比电力加热器更有效的天然气加热器。</GasToHeat.description>
 
+  <ChemicalSynthesis.label>Chemical synthesis</ChemicalSynthesis.label>
+  <ChemicalSynthesis.description>Improve the processing system that allows you to use chemical synthesis.</ChemicalSynthesis.description>
+
+  <GasWeapon.label>Gas weapon</GasWeapon.label>
+  <GasWeapon.description>The destructive force of combustion of gaseous substances allows them to be used to create protective equipment.</GasWeapon.description>
+
 
 </LanguageData>

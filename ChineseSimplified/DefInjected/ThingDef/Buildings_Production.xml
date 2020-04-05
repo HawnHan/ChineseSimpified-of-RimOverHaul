@@ -3,24 +3,25 @@
 
   <SimpleFurnace.label>简易熔炉</SimpleFurnace.label>
   <SimpleFurnace.description>用于冶炼简单矿物例如铁和铜的简易锻造熔炉。</SimpleFurnace.description>
-  <SimpleFurnace_Blueprint.label>简易熔炉(蓝图)</SimpleFurnace_Blueprint.label>
-  <SimpleFurnace_Blueprint_Install.label>简易熔炉(蓝图)</SimpleFurnace_Blueprint_Install.label>
-  <SimpleFurnace_Frame.label>简易熔炉(建造中)</SimpleFurnace_Frame.label>
-  <SimpleFurnace_Frame.description>用于冶炼简单矿物例如铁和铜的简易锻造熔炉。</SimpleFurnace_Frame.description>
 
   <CokeFurnace.label>焦煤熔炉</CokeFurnace.label>
   <CokeFurnace.description>用于冶炼煤球和铁产物的密闭熔炉。</CokeFurnace.description>
-  <CokeFurnace_Blueprint.label>焦煤熔炉(蓝图)</CokeFurnace_Blueprint.label>
-  <CokeFurnace_Blueprint_Install.label>焦煤熔炉(蓝图)</CokeFurnace_Blueprint_Install.label>
-  <CokeFurnace_Frame.label>焦煤熔炉(建造中)</CokeFurnace_Frame.label>
-  <CokeFurnace_Frame.description>用于冶炼煤球和铁产物的密闭熔炉。</CokeFurnace_Frame.description>
 
   <ArcFurnace.label>电弧熔炉</ArcFurnace.label>
   <ArcFurnace.description>被设计用于加工高级原矿和冶炼高级合金的电弧熔炉。</ArcFurnace.description>
-  <ArcFurnace_Blueprint.label>电弧熔炉(蓝图)</ArcFurnace_Blueprint.label>
-  <ArcFurnace_Blueprint_Install.label>电弧熔炉(蓝图)</ArcFurnace_Blueprint_Install.label>
-  <ArcFurnace_Frame.label>电弧熔炉(建造中)</ArcFurnace_Frame.label>
-  <ArcFurnace_Frame.description>被设计用于加工高级原矿和冶炼高级合金的电弧熔炉。</ArcFurnace_Frame.description>
 
+
+  <!--<SimpleFurnace_Blueprint.label>简易熔炉(蓝图)</SimpleFurnace_Blueprint.label>-->
+  <!--<SimpleFurnace_Blueprint_Install.label>简易熔炉(蓝图)</SimpleFurnace_Blueprint_Install.label>-->
+  <!--<SimpleFurnace_Frame.label>简易熔炉(建造中)</SimpleFurnace_Frame.label>-->
+  <!--<SimpleFurnace_Frame.description>用于冶炼简单矿物例如铁和铜的简易锻造熔炉。</SimpleFurnace_Frame.description>-->
+  <!--<CokeFurnace_Blueprint.label>焦煤熔炉(蓝图)</CokeFurnace_Blueprint.label>-->
+  <!--<CokeFurnace_Blueprint_Install.label>焦煤熔炉(蓝图)</CokeFurnace_Blueprint_Install.label>-->
+  <!--<CokeFurnace_Frame.label>焦煤熔炉(建造中)</CokeFurnace_Frame.label>-->
+  <!--<CokeFurnace_Frame.description>用于冶炼煤球和铁产物的密闭熔炉。</CokeFurnace_Frame.description>-->
+  <!--<ArcFurnace_Blueprint.label>电弧熔炉(蓝图)</ArcFurnace_Blueprint.label>-->
+  <!--<ArcFurnace_Blueprint_Install.label>电弧熔炉(蓝图)</ArcFurnace_Blueprint_Install.label>-->
+  <!--<ArcFurnace_Frame.label>电弧熔炉(建造中)</ArcFurnace_Frame.label>-->
+  <!--<ArcFurnace_Frame.description>被设计用于加工高级原矿和冶炼高级合金的电弧熔炉。</ArcFurnace_Frame.description>-->
 
 </LanguageData>

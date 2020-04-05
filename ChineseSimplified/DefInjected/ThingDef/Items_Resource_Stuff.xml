@@ -1,19 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- <ThingDef ParentName="ResourceBase">
+		<defName>TestStuff</defName>
+		<label>TestStuff</label>
+		<description>TestStuff</description>
+		<graphicData>
+			<texPath>Things/Resources/IronIngot</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Metal_Drop</soundInteract>
+		<soundDrop>Metal_Drop</soundDrop>
+		<tickerType>Normal</tickerType>
+		<statBases>
+			<MarketValue>3.6</MarketValue>
+			<Mass>0.5</Mass>
+			<StuffPower_Armor_Sharp>0.8</StuffPower_Armor_Sharp>
+			<StuffPower_Armor_Blunt>0.34</StuffPower_Armor_Blunt>
+			<StuffPower_Armor_Heat>0.5</StuffPower_Armor_Heat>
+			<StuffPower_Insulation_Cold>5</StuffPower_Insulation_Cold>
+			<StuffPower_Insulation_Heat>5</StuffPower_Insulation_Heat>
+			<SharpDamageMultiplier>1</SharpDamageMultiplier>
+			<BluntDamageMultiplier>1</BluntDamageMultiplier>
+		</statBases>
+		<useHitPoints>false</useHitPoints>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+		<comps>
+			<li Class="RimOverhaul.Things.CompProperties_Test"/>
+		</comps>
+		<stuffProps>
+			<categories>
+				<li>Metallic</li>
+			</categories>
+			<commonality>1.00</commonality>
+			<constructEffect>ConstructMetal</constructEffect>
+			<color>(130,130,130)</color>
+			<soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
+			<soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+			<soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+			<statFactors>
+				<MaxHitPoints>1.8</MaxHitPoints>
+				<Beauty>0.6</Beauty>
+				<Flammability>0.1</Flammability>
+				<WorkToMake>1.2</WorkToMake>
+			</statFactors>
+			<smeltable>true</smeltable>
+		</stuffProps>
+	</ThingDef> -->
+
   <IronOre.label>铁矿</IronOre.label>
   <IronOre.description>地球上是占比最多的元素，为地球外核和内地核的主要成分。它也是地壳中含量第四多的元素。\n平滑的纯铁表面为如镜般的银灰色。但铁容易与氧和水反应，产生棕色或黑色的水合铁离子，就是俗称的铁锈。不同于其他金属会产生钝化层的氧化物，铁锈拥有的体积大于原本的金属，因而容易剥落，露出新的表面继续锈蚀。\n可在简易熔炉中冶炼铁。</IronOre.description>
 
   <IronIngot.label>铁</IronIngot.label>
   <IronIngot.description>从铁矿中提炼得到。可被用于其他清单或直接作为建造原材。\n地球上是占比最多的元素，为地球外核和内地核的主要成分。它也是地壳中含量第四多的元素。\n平滑的纯铁表面为如镜般的银灰色。但铁容易与氧和水反应，产生棕色或黑色的水合铁离子，就是俗称的铁锈。不同于其他金属会产生钝化层的氧化物，铁锈拥有的体积大于原本的金属，因而容易剥落，露出新的表面继续锈蚀。</IronIngot.description>
-  <IronIngot.stuffProps.stuffAdjective>铁</IronIngot.stuffProps.stuffAdjective>
 
   <CopperOre.label>铜矿</CopperOre.label>
   <CopperOre.description>纯铜是柔软的金属，表面刚切开时为红橙色带金属光泽、延展性好、导热性和导电性高，因此在电缆和电气、电子元件是最常用的材料，也可用作建筑材料，以及组成众多种合金，例如用于珠宝的纹银，用于制作船用五金和硬币的白铜以及用于温度计的应变片和热电偶的康铜 。\n可在简易熔炉中冶炼铜。</CopperOre.description>
 
   <CopperIngot.label>铜</CopperIngot.label>
   <CopperIngot.description>从铜矿中提炼得到。可被用于其他清单或直接作为建造原材。\n纯铜是柔软的金属，表面刚切开时为红橙色带金属光泽、延展性好、导热性和导电性高，因此在电缆和电气、电子元件是最常用的材料，也可用作建筑材料，以及组成众多种合金，例如用于珠宝的纹银，用于制作船用五金和硬币的白铜以及用于温度计的应变片和热电偶的康铜 。</CopperIngot.description>
-  <CopperIngot.stuffProps.stuffAdjective>铜</CopperIngot.stuffProps.stuffAdjective>
 
   <Coal.label>煤</Coal.label>
   <Coal.description>煤是一种可燃的黑色或棕黑色沉积岩，其形成的岩层称为煤层。</Coal.description>
@@ -26,21 +73,18 @@
 
   <CobaltIngot.label>钴</CobaltIngot.label>
   <CobaltIngot.description>从镍矿中提炼得到。可被用于其他清单或直接作为建造原材。\n钴和镍一样，在地壳中只能有化合物形式，以少量沉淀于陨铁的方式储存。用还原方法冶炼出的纯元素，是一种坚硬、具有光泽的银灰色金属。</CobaltIngot.description>
-  <CobaltIngot.stuffProps.stuffAdjective>钴</CobaltIngot.stuffProps.stuffAdjective>
 
   <IlmeniteOre.label>钛铁矿</IlmeniteOre.label>
   <IlmeniteOre.description>钛具有良好的抗腐蚀能力（包括海水、王水及氯气）。\n钛的矿石主要有钛铁矿及金红石，广布于地壳及岩石圈之中。钛亦同时存在于几乎所有生物、岩石、水体及土壤中。\n可在简易熔炉中冶炼钛。</IlmeniteOre.description>
 
   <IlmeniteIngot.label>钛</IlmeniteIngot.label>
   <IlmeniteIngot.description>从钛铁矿中提炼得到。可被用于其他清单或直接作为建造原材。</IlmeniteIngot.description>
-  <IlmeniteIngot.stuffProps.stuffAdjective>钛</IlmeniteIngot.stuffProps.stuffAdjective>
 
   <PalladiumIngot.label>钯</PalladiumIngot.label>
   <PalladiumIngot.description>钯也常被使用在电子工业、牙医学、医学、氢气纯化、化学应用、地下水处理以及珠宝业。钯能催化氢气及氧气反应产生水及热，是燃料电池中关键的成分。</PalladiumIngot.description>
 
   <Chromium.label>铬</Chromium.label>
   <Chromium.description>铬金属的价值在于其具有高度耐腐蚀性和硬度。钢铁生产中的一个重大发展是发现借由添加金属铬形成不锈钢，可使钢材具有高度耐腐蚀和褪色的特性。</Chromium.description>
-  <Chromium.stuffProps.stuffAdjective>铬</Chromium.stuffProps.stuffAdjective>
 
   <Tillium.label>缇利姆合金</Tillium.label>
   <Tillium.description>缇利姆是一种性能与钯和铀相近的金属，但不同的是它毒性更小，效率更高。外观为带着黑色颗粒的白色金属。在高压下用铀富集钯，便可以得到一种新的放射性金属。若不加入玻璃钢作为原料，它会变得不稳定。</Tillium.description>
@@ -54,5 +98,74 @@
   <TungstenIngot.label>钨</TungstenIngot.label>
   <TungstenIngot.description>钨元素的稳定性是非常出色的，在所有已知元素中拥有最高的熔点3422°C(6192°F,3695K)以及最高的沸点5930°C(10706°F,6203K)。密度是水的19.25倍，与铀与金的密度相当，比铅的密度还高1.7倍。</TungstenIngot.description>
 
+  <Vibranium.label>Vibranium</Vibranium.label>
+  <Vibranium.description>White material with gray reflections. A special molecular structure absorbs directed kinetic energy, the speed of which is higher than a certain threshold, so objects and buildings made from it are practically irreducible to explosions and bullet shots, but at the same time are vulnerable to close attacks.</Vibranium.description>
+
+  <Adamantium.label>Adamantium</Adamantium.label>
+  <Adamantium.description>In its solid form, it is described as a dark, shiny gray metal, similar to high-grade steel or titanium. The molecular structure is very stable, which is why it is incredibly strong and practically does not melt.</Adamantium.description>
+
+  <MetalFB.label>Metal FB-15</MetalFB.label>
+  <MetalFB.description>This mysterious metal (if, of course, you can call it that at all) does not have a stable shape in the usual state, which is why it is also usually called a liquid metal. In a standard form without electrical processing, it has an unstable structure and looks more like a dense liquid. When several million volts pass through it, it acquires a stable form. The main feature of the material is the ability to regenerate itself over time.</MetalFB.description>
+
+  <Computerium.label>Computerium</Computerium.label>
+  <Computerium.description>Material with a very mysterious story. It is not known exactly where it came from, although, judging by its properties, the material is of artificial origin. The main feature is its structure, consisting of unknown nanoparticles that can be programmed to obtain the required parameters.
+
+(Programming takes place on a fabrication bench)</Computerium.description>
+
+  <Computerium_DenceMolStruct.label>Computerium (dense molecular structure)</Computerium_DenceMolStruct.label>
+  <Computerium_DenceMolStruct.description>Dense molecular structure
+
+Material with a very mysterious story. It is not known exactly where it came from, although, judging by its properties, the material is of artificial origin. The main feature is its structure, consisting of unknown nanoparticles that can be programmed to obtain the required parameters.</Computerium_DenceMolStruct.description>
+
+  <Computerium_SupereMolStruct.label>Computerium (superdense molecular structure)</Computerium_SupereMolStruct.label>
+  <Computerium_SupereMolStruct.description>Superdense molecular structure
+
+Material with a very mysterious story. It is not known exactly where it came from, although, judging by its properties, the material is of artificial origin. The main feature is its structure, consisting of unknown nanoparticles that can be programmed to obtain the required parameters.</Computerium_SupereMolStruct.description>
+
+  <Computerium_DynamicMolStruct.label>Computerium (dynamic molecular structure)</Computerium_DynamicMolStruct.label>
+  <Computerium_DynamicMolStruct.description>Dynamic molecular structure
+
+Material with a very mysterious story. It is not known exactly where it came from, although, judging by its properties, the material is of artificial origin. The main feature is its structure, consisting of unknown nanoparticles that can be programmed to obtain the required parameters.</Computerium_DynamicMolStruct.description>
+
+  <Transparisteel.label>Transparisteel</Transparisteel.label>
+  <Transparisteel.description>Material similar to steel except its transparency. Externally, transparistal products distinguished by their beauty, which makes the substance quite valuable.</Transparisteel.description>
+
+  <Neutronium.label>Neutronium</Neutronium.label>
+  <Neutronium.description>The substance obtained by the fusion of the matter of a neutron star and some other material, it seems, is at an incredibly huge pressure. Adopting the positive aspects of neutron matter - this material is incredibly valuable.</Neutronium.description>
+
+  <ShockCrystals.label>Shock crystals</ShockCrystals.label>
+  <ShockCrystals.description>Crystals that generate a charge within themselves. They can be very effective against electronics. When trying to destructively affect structures, substance generates a force wave, electronics in a small radius.</ShockCrystals.description>
+
+  <Ferotium.label>Ferotium</Ferotium.label>
+  <Ferotium.description>Brittle metal that is capable of generating various forms of vegetation within its radius actions equal to several meters. Although material properties can count beneficial, ferotium has an extremely low durability and susceptibility to self-destruction over time.</Ferotium.description>
+
+  <Corrosium.label>Corrosium</Corrosium.label>
+  <Corrosium.description>Outwardly resembles an iron alloy, but has interesting properties. Over time, the material oxidizes in air, becoming covered with a thick oxide film. Having a small margin of safety, significantly increases it. However, it is impossible to disassemble structures from it at the time of complete transformation without destroying the metal.</Corrosium.description>
+
+  <Pyrotium.label>Pyrotium</Pyrotium.label>
+  <Pyrotium.description>This is a material that combines fragility and collateral damage. It was obtained from the same gas, by compressing it under high pressure, which allowed the new material to take shape. Substance evaporates on contact with air. Pirotium is extremely explosive, and whole structures from it cause damage all items nearby when damaged.</Pyrotium.description>
+
+  <Cryotium.label>Cryotium</Cryotium.label>
+  <Cryotium.description>This material is formed by compression of the same name gas under high pressure. The substance exudes cold and is quite brittle and the melting point is 10 degrees. In a sealed room, the properties of cryotium reveal in full force. The material is able to bring temperature in its environment to absolute zero, gradually getting damaged.</Cryotium.description>
+
+
+  <!--<IronIngot.stuffProps.stuffAdjective>铁</IronIngot.stuffProps.stuffAdjective>-->
+  <!--<CopperIngot.stuffProps.stuffAdjective>铜</CopperIngot.stuffProps.stuffAdjective>-->
+  <!--<CobaltIngot.stuffProps.stuffAdjective>钴</CobaltIngot.stuffProps.stuffAdjective>-->
+  <!--<IlmeniteIngot.stuffProps.stuffAdjective>钛</IlmeniteIngot.stuffProps.stuffAdjective>-->
+  <!--<Chromium.stuffProps.stuffAdjective>铬</Chromium.stuffProps.stuffAdjective>-->
+  <!--<Vibranium.stuffProps.stuffAdjective>Vibranium</Vibranium.stuffProps.stuffAdjective>-->
+  <!--<Adamantium.stuffProps.stuffAdjective>Adamantium</Adamantium.stuffProps.stuffAdjective>-->
+  <!--<MetalFB.stuffProps.stuffAdjective>Metal FB-15</MetalFB.stuffProps.stuffAdjective>-->
+  <!--<Computerium_DenceMolStruct.stuffProps.stuffAdjective>Computerium (dense molecular structure)</Computerium_DenceMolStruct.stuffProps.stuffAdjective>-->
+  <!--<Computerium_SupereMolStruct.stuffProps.stuffAdjective>Computerium (superdense molecular structure)</Computerium_SupereMolStruct.stuffProps.stuffAdjective>-->
+  <!--<Computerium_DynamicMolStruct.stuffProps.stuffAdjective>Computerium (dynamic molecular structure)</Computerium_DynamicMolStruct.stuffProps.stuffAdjective>-->
+  <!--<Transparisteel.stuffProps.stuffAdjective>Transparisteel</Transparisteel.stuffProps.stuffAdjective>-->
+  <!--<Neutronium.stuffProps.stuffAdjective>Neutronium</Neutronium.stuffProps.stuffAdjective>-->
+  <!--<ShockCrystals.stuffProps.stuffAdjective>Shock crystals</ShockCrystals.stuffProps.stuffAdjective>-->
+  <!--<Ferotium.stuffProps.stuffAdjective>Ferotium</Ferotium.stuffProps.stuffAdjective>-->
+  <!--<Corrosium.stuffProps.stuffAdjective>Corrosium</Corrosium.stuffProps.stuffAdjective>-->
+  <!--<Pyrotium.stuffProps.stuffAdjective>Pyrotium</Pyrotium.stuffProps.stuffAdjective>-->
+  <!--<Cryotium.stuffProps.stuffAdjective>Cryotium</Cryotium.stuffProps.stuffAdjective>-->
 
 </LanguageData>

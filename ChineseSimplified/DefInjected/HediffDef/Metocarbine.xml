@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MetocarbineTolerance.label>Metocarbine tolerance</MetocarbineTolerance.label>
+  <MetocarbineTolerance.description>Easy combat stimulator, almost non-addictive. Slightly increases combat performance, but does not have serious side effects. Within a few hours, subjects experienced an increased reaction and speed of decision-making.</MetocarbineTolerance.description>
+
+  <MetocarbineHediff.label>Concentration</MetocarbineHediff.label>
+  <MetocarbineHediff.description>Easy combat stimulator, almost non-addictive. Slightly increases combat performance, but does not have serious side effects. Within a few hours, subjects experienced an increased reaction and speed of decision-making.</MetocarbineHediff.description>
+  <MetocarbineHediff.labelNoun>Concentration</MetocarbineHediff.labelNoun>
+
+  <MetocarbineAddiction.label>Metocarbine addiction</MetocarbineAddiction.label>
+  <MetocarbineAddiction.description>Easy combat stimulator, almost non-addictive. Slightly increases combat performance, but does not have serious side effects. Within a few hours, subjects experienced an increased reaction and speed of decision-making.</MetocarbineAddiction.description>
+  <MetocarbineAddiction.stages.1.label>withdrawal</MetocarbineAddiction.stages.1.label>
+
+
+  <!--<MetocarbineTolerance.stages.0.label>small</MetocarbineTolerance.stages.0.label>-->
+  <!--<MetocarbineTolerance.stages.1.label>small</MetocarbineTolerance.stages.1.label>-->
+  <!--<MetocarbineTolerance.stages.2.label>large</MetocarbineTolerance.stages.2.label>-->
+  <!--<MetocarbineTolerance.stages.3.label>massive</MetocarbineTolerance.stages.3.label>-->
+
+</LanguageData>

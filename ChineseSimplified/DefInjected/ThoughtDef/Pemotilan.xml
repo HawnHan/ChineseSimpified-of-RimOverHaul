@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PemotilanWithdrawal.stages.1.label>Pemotilan withdrawal</PemotilanWithdrawal.stages.1.label>
+  <PemotilanWithdrawal.stages.1.description>I'm all fuzzy and can't think straight. My limbs feel heavy. And why won't my eyes focus properly?</PemotilanWithdrawal.stages.1.description>
+
+  <PemotilanAddition.stages.0.label>Pemotilan effect</PemotilanAddition.stages.0.label>
+  <PemotilanAddition.stages.0.description>I don’t feel very good after consuming Pemotilan, I hope it doesn’t last long</PemotilanAddition.stages.0.description>
+  <PemotilanAddition.stages.1.label>Pemotilan effect</PemotilanAddition.stages.1.label>
+  <PemotilanAddition.stages.1.description>I don’t feel very good after consuming Pemotilan, I hope it doesn’t last long</PemotilanAddition.stages.1.description>
+
+
+</LanguageData>

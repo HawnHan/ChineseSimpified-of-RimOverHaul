@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <CaravanAI.label>caravan</CaravanAI.label>
+  <CaravanAI.description>A group of traveling people.</CaravanAI.description>
+
   <ClimateBombSite.label>气候炸弹位置</ClimateBombSite.label>
   <ClimateBombSite.description>气候炸弹位置</ClimateBombSite.description>
 
@@ -18,6 +21,21 @@
 
   <ConcantrationCamp.label>集中营</ConcantrationCamp.label>
   <ConcantrationCamp.description>集中营\n被海盗控制的人质极可能在此处</ConcantrationCamp.description>
+
+  <FairPlace.label>Fair</FairPlace.label>
+  <FairPlace.description>You were invited to a fair where there will be a lot of traders (from factions whose relations are either neutral or friendly).</FairPlace.description>
+
+  <CompetitionsPlace.label>Competitions</CompetitionsPlace.label>
+  <CompetitionsPlace.description>Competition Venue on {0} (required level {1})</CompetitionsPlace.description>
+
+  <MassBurialPlace.label>Mass burial</MassBurialPlace.label>
+  <MassBurialPlace.description>Mass burial {0}</MassBurialPlace.description>
+
+  <PlaceBattle.label>Place of battle</PlaceBattle.label>
+  <PlaceBattle.description>Place of battle</PlaceBattle.description>
+
+  <CaravanBattlePlace.label>Place of battle</CaravanBattlePlace.label>
+  <CaravanBattlePlace.description>Place of battle with {0}</CaravanBattlePlace.description>
 
 
   <!--<MassiveFireSite.label>火灾中心点</MassiveFireSite.label>-->

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtratisinumTolerance.label>Extratisinum tolerance</ExtratisinumTolerance.label>
+  <ExtratisinumTolerance.description>Resin-like viscous substance. After use, it greatly increases visual acuity and hearing, giving vigor. It causes a strong dependence, requiring constant consumption to maintain the effect.</ExtratisinumTolerance.description>
+
+  <ExtratisinumHediff.label>Extratisinum</ExtratisinumHediff.label>
+  <ExtratisinumHediff.description>Resin-like viscous substance. After use, it greatly increases visual acuity and hearing, giving vigor. It causes a strong dependence, requiring constant consumption to maintain the effect.</ExtratisinumHediff.description>
+  <ExtratisinumHediff.labelNoun>Extratisinum</ExtratisinumHediff.labelNoun>
+
+  <ExtratisinumAddiction.label>Extratisinum addiction</ExtratisinumAddiction.label>
+  <ExtratisinumAddiction.description>Resin-like viscous substance. After use, it greatly increases visual acuity and hearing, giving vigor. It causes a strong dependence, requiring constant consumption to maintain the effect.</ExtratisinumAddiction.description>
+  <ExtratisinumAddiction.stages.1.label>withdrawal</ExtratisinumAddiction.stages.1.label>
+
+
+  <!--<ExtratisinumTolerance.stages.0.label>small</ExtratisinumTolerance.stages.0.label>-->
+  <!--<ExtratisinumTolerance.stages.1.label>small</ExtratisinumTolerance.stages.1.label>-->
+  <!--<ExtratisinumTolerance.stages.2.label>large</ExtratisinumTolerance.stages.2.label>-->
+  <!--<ExtratisinumTolerance.stages.3.label>massive</ExtratisinumTolerance.stages.3.label>-->
+
+</LanguageData>

@@ -4,20 +4,19 @@
   <Mech_BigAvtomaton.label>大型自行械体</Mech_BigAvtomaton.label>
   <Mech_BigAvtomaton.description>一个大型的，缓慢移动的自动装置。从设计来看，视觉元素是眼腔。移动是由几条机械足驱动。装甲由几种合金制成，强度足以承受强大的爆炸和冲击。</Mech_BigAvtomaton.description>
   <Mech_BigAvtomaton.tools.0.label>眼动摄像机</Mech_BigAvtomaton.tools.0.label>
-  <!-- Flesh Type: Mechanoid -->
-  <Mech_BigAvtomaton_Corpse.label>大型自行械体尸体</Mech_BigAvtomaton_Corpse.label>
-  <Mech_BigAvtomaton_Corpse.description>大型自行械体尸体</Mech_BigAvtomaton_Corpse.description>
 
   <Mech_SmallAvtomaton.label>小型自行械体</Mech_SmallAvtomaton.label>
   <Mech_SmallAvtomaton.description>中型自动机，高于一般人。筒形身体，有小突起。虽然是虫类足，但还是足够快速和灵活。它们使用类似于大型自动机的装甲合金，但由于尺寸，装甲本身的厚度要小得多。</Mech_SmallAvtomaton.description>
   <Mech_SmallAvtomaton.tools.0.label>左肋</Mech_SmallAvtomaton.tools.0.label>
   <Mech_SmallAvtomaton.tools.1.label>右肋</Mech_SmallAvtomaton.tools.1.label>
   <Mech_SmallAvtomaton.tools.2.label>头</Mech_SmallAvtomaton.tools.2.label>
+
+
   <!-- Flesh Type: Mechanoid -->
-  <Mech_SmallAvtomaton_Corpse.label>小型自行械体尸体</Mech_SmallAvtomaton_Corpse.label>
-  <Mech_SmallAvtomaton_Corpse.description>小型自行械体尸体</Mech_SmallAvtomaton_Corpse.description>
-
-
+  <!--<Mech_BigAvtomaton_Corpse.label>大型自行械体尸体</Mech_BigAvtomaton_Corpse.label>-->
+  <!--<Mech_BigAvtomaton_Corpse.description>大型自行械体尸体</Mech_BigAvtomaton_Corpse.description>-->
+  <!--<Mech_SmallAvtomaton_Corpse.label>小型自行械体尸体</Mech_SmallAvtomaton_Corpse.label>-->
+  <!--<Mech_SmallAvtomaton_Corpse.description>小型自行械体尸体</Mech_SmallAvtomaton_Corpse.description>-->
   <!--<Mech_BigAvtomaton.tools.head.label>Eye camera</Mech_BigAvtomaton.tools.head.label>-->
   <!--<Mech_SmallAvtomaton.tools.left_blade.label>left kob</Mech_SmallAvtomaton.tools.left_blade.label>-->
   <!--<Mech_SmallAvtomaton.tools.right_blade.label>right kob</Mech_SmallAvtomaton.tools.right_blade.label>-->

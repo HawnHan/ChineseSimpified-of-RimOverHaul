@@ -3,23 +3,42 @@
 
   <Catapult.label>投石车</Catapult.label>
   <Catapult.description>一种可重复发射石球的重型武器。石球砸中地面后散裂可以造成刺伤的效果。</Catapult.description>
-  <Catapult_Blueprint.label>投石车 (蓝图)</Catapult_Blueprint.label>
-  <Catapult_Blueprint_Install.label>投石车 (蓝图)</Catapult_Blueprint_Install.label>
-  <Catapult_Frame.label>投石车 (建造中)</Catapult_Frame.label>
-  <Catapult_Frame.description>一种可重复发射石球的重型武器。石球砸中地面后散裂可以造成刺伤的效果。</Catapult_Frame.description>
 
   <Artillery_Catapult.label>投石车</Artillery_Catapult.label>
   <Artillery_Catapult.description>一种可重复发射石球的重型武器。石球砸中地面后散裂可以造成刺伤的效果。</Artillery_Catapult.description>
 
   <Ballista.label>弩炮</Ballista.label>
   <Ballista.description>一种以巨型箭为弹药的重型武器。发射周期长，但箭穿透物体时造成的洞口令人惊讶！</Ballista.description>
-  <Ballista_Blueprint.label>弩炮 (蓝图)</Ballista_Blueprint.label>
-  <Ballista_Blueprint_Install.label>弩炮 (蓝图)</Ballista_Blueprint_Install.label>
-  <Ballista_Frame.label>弩炮 (建造中)</Ballista_Frame.label>
-  <Ballista_Frame.description>一种以巨型箭为弹药的重型武器。发射周期长，但箭穿透物体时造成的洞口令人惊讶！</Ballista_Frame.description>
 
   <Artillery_Ballista.label>弩炮</Artillery_Ballista.label>
   <Artillery_Ballista.description>一种以巨型箭为弹药的重型武器。慢，但它离开物体时造成的洞口多可怕！</Artillery_Ballista.description>
 
+  <Turret_KineticArtillery.label>Kinetic artillery</Turret_KineticArtillery.label>
+  <Turret_KineticArtillery.description>A gun with an accelerator of elementary particles. Forms a directed energy charge of high power.</Turret_KineticArtillery.description>
+
+  <Bullet_KineticArtillery.label>Ball of kinetic energy</Bullet_KineticArtillery.label>
+
+  <Gun_KineticArtillery.label>Kinetic artillery</Gun_KineticArtillery.label>
+  <Gun_KineticArtillery.description>A gun with an accelerator of elementary particles. Forms a directed energy charge of high power.</Gun_KineticArtillery.description>
+
+  <Turret_MicrosingularCannon.label>Microsingular cannon</Turret_MicrosingularCannon.label>
+  <Turret_MicrosingularCannon.description>It shoots destabilizing balls that create a short-term singularity at the point of impact.</Turret_MicrosingularCannon.description>
+
+  <Bullet_MicrosingularCannon.label>Destabilizing energy ball</Bullet_MicrosingularCannon.label>
+
+  <Gun_MicrosingularCannon.label>Microsingular cannon</Gun_MicrosingularCannon.label>
+  <Gun_MicrosingularCannon.description>It shoots destabilizing balls that create a short-term singularity at the point of impact.</Gun_MicrosingularCannon.description>
+
+
+  <!--<Catapult_Blueprint.label>投石车 (蓝图)</Catapult_Blueprint.label>-->
+  <!--<Catapult_Blueprint_Install.label>投石车 (蓝图)</Catapult_Blueprint_Install.label>-->
+  <!--<Catapult_Frame.label>投石车 (建造中)</Catapult_Frame.label>-->
+  <!--<Catapult_Frame.description>一种可重复发射石球的重型武器。石球砸中地面后散裂可以造成刺伤的效果。</Catapult_Frame.description>-->
+  <!--<Ballista_Blueprint.label>弩炮 (蓝图)</Ballista_Blueprint.label>-->
+  <!--<Ballista_Blueprint_Install.label>弩炮 (蓝图)</Ballista_Blueprint_Install.label>-->
+  <!--<Ballista_Frame.label>弩炮 (建造中)</Ballista_Frame.label>-->
+  <!--<Ballista_Frame.description>一种以巨型箭为弹药的重型武器。发射周期长，但箭穿透物体时造成的洞口令人惊讶！</Ballista_Frame.description>-->
+  <!--<Turret_KineticArtillery_Blueprint_Install.label>Kinetic artillery (blueprint)</Turret_KineticArtillery_Blueprint_Install.label>-->
+  <!--<Turret_MicrosingularCannon_Blueprint_Install.label>Microsingular cannon (blueprint)</Turret_MicrosingularCannon_Blueprint_Install.label>-->
 
 </LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MirotofinilTolerance.label>Mirotofinil tolerance</MirotofinilTolerance.label>
+  <MirotofinilTolerance.description>Analeptic, used to treat drowsiness associated with narcolepsy. Used for a long time in medicine. Significantly reduces sleep time, which, however, is not without consequences. It is highly addictive.</MirotofinilTolerance.description>
+
+  <MirotofinilHediff.label>psychosuppression</MirotofinilHediff.label>
+  <MirotofinilHediff.description>Analeptic, used to treat drowsiness associated with narcolepsy. Used for a long time in medicine. Significantly reduces sleep time, which, however, is not without consequences. It is highly addictive.</MirotofinilHediff.description>
+  <MirotofinilHediff.labelNoun>psychosuppression</MirotofinilHediff.labelNoun>
+
+  <MirotofinilAddiction.label>Mirotofinil addiction</MirotofinilAddiction.label>
+  <MirotofinilAddiction.description>Analeptic, used to treat drowsiness associated with narcolepsy. Used for a long time in medicine. Significantly reduces sleep time, which, however, is not without consequences. It is highly addictive.</MirotofinilAddiction.description>
+  <MirotofinilAddiction.stages.1.label>withdrawal</MirotofinilAddiction.stages.1.label>
+
+
+  <!--<MirotofinilTolerance.stages.0.label>small</MirotofinilTolerance.stages.0.label>-->
+  <!--<MirotofinilTolerance.stages.1.label>small</MirotofinilTolerance.stages.1.label>-->
+  <!--<MirotofinilTolerance.stages.2.label>large</MirotofinilTolerance.stages.2.label>-->
+  <!--<MirotofinilTolerance.stages.3.label>massive</MirotofinilTolerance.stages.3.label>-->
+
+</LanguageData>

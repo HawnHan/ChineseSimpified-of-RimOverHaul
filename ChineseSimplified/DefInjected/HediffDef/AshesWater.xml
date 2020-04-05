@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AshesWaterTolerance.label>Ashes water tolerance</AshesWaterTolerance.label>
+  <AshesWaterTolerance.description>The special herbs and ashes from the nuclear bombardment jungle dissolved in Go-juice cause a short-term effect of superhigh regeneration with powerful side effects, but if your colonist is about to die in a couple of hours, this is the only way.</AshesWaterTolerance.description>
+
+  <AshesWaterHediff.label>Super regeneration</AshesWaterHediff.label>
+  <AshesWaterHediff.description>The special herbs and ashes from the nuclear bombardment jungle dissolved in Go-juice cause a short-term effect of superhigh regeneration with powerful side effects, but if your colonist is about to die in a couple of hours, this is the only way.</AshesWaterHediff.description>
+  <AshesWaterHediff.labelNoun>Super regeneration</AshesWaterHediff.labelNoun>
+
+  <AshesWaterAddiction.label>Ashes water addiction</AshesWaterAddiction.label>
+  <AshesWaterAddiction.description>The special herbs and ashes from the nuclear bombardment jungle dissolved in Go-juice cause a short-term effect of superhigh regeneration with powerful side effects, but if your colonist is about to die in a couple of hours, this is the only way.</AshesWaterAddiction.description>
+  <AshesWaterAddiction.stages.1.label>withdrawal</AshesWaterAddiction.stages.1.label>
+
+
+  <!--<AshesWaterTolerance.stages.0.label>small</AshesWaterTolerance.stages.0.label>-->
+  <!--<AshesWaterTolerance.stages.1.label>small</AshesWaterTolerance.stages.1.label>-->
+  <!--<AshesWaterTolerance.stages.2.label>large</AshesWaterTolerance.stages.2.label>-->
+  <!--<AshesWaterTolerance.stages.3.label>massive</AshesWaterTolerance.stages.3.label>-->
+
+</LanguageData>

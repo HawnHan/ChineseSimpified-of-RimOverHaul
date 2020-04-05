@@ -3,6 +3,9 @@
 
   <MedievalShells.label>中世纪炮弹</MedievalShells.label>
   <RimOverhaulSpecial.label>特殊</RimOverhaulSpecial.label>
+  <RimOverhaulSpecialMetalls.label>Metalls</RimOverhaulSpecialMetalls.label>
+  <DarkNetItems.label>DarkNET</DarkNetItems.label>
+  <DarkNetItems_Drugs.label>DarkNET Drugs</DarkNetItems_Drugs.label>
 
 
 </LanguageData>

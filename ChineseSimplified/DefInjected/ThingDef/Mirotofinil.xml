@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mirotofinil.label>Mirotofinil</Mirotofinil.label>
+  <Mirotofinil.description>Analeptic, used to treat drowsiness associated with narcolepsy. Used for a long time in medicine. Significantly reduces sleep time, which, however, is not without consequences. It is highly addictive.</Mirotofinil.description>
+  <Mirotofinil.ingestible.ingestCommandString>Take {0}</Mirotofinil.ingestible.ingestCommandString>
+  <Mirotofinil.ingestible.ingestReportString>Taking {0}.</Mirotofinil.ingestible.ingestReportString>
+
+
+</LanguageData>

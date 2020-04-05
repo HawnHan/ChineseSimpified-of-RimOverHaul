@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Venenum.label>Venom Blade "Venemum"</MeleeWeapon_Venenum.label>
+  <MeleeWeapon_Venenum.description>A special type of melee weapon that slows down time for target, weakening his perception and slowing thought processes. The victim feels that cannot respond to blows as quickly as before, feeling a decline of vitality.</MeleeWeapon_Venenum.description>
+  <MeleeWeapon_Venenum.tools.0.label>handle</MeleeWeapon_Venenum.tools.0.label>
+  <MeleeWeapon_Venenum.tools.1.label>point</MeleeWeapon_Venenum.tools.1.label>
+  <MeleeWeapon_Venenum.tools.2.label>edge</MeleeWeapon_Venenum.tools.2.label>
+
+  <MeleeWeapon_Venenum_Axe.label>Mechanical axe "Venenum"</MeleeWeapon_Venenum_Axe.label>
+  <MeleeWeapon_Venenum_Axe.description>A large heavy weapon that can destroy the perception of time for a specific goal, poisoning it and weakening it. However, it has extremely low accuracy due to its size and huge weight. Molecular analysis showed that it consists of titanium and duralumin, as well as material, emitting poison, destroying itself.</MeleeWeapon_Venenum_Axe.description>
+  <MeleeWeapon_Venenum_Axe.tools.0.label>handle</MeleeWeapon_Venenum_Axe.tools.0.label>
+  <MeleeWeapon_Venenum_Axe.tools.1.label>point</MeleeWeapon_Venenum_Axe.tools.1.label>
+  <MeleeWeapon_Venenum_Axe.tools.2.label>edge</MeleeWeapon_Venenum_Axe.tools.2.label>
+
+  <MeleeWeapon_Kinetic.label>Short sword with kinetic buffer</MeleeWeapon_Kinetic.label>
+  <MeleeWeapon_Kinetic.description>A tag with a titanium core capable of accumulating a charge inside itself, releasing it at the target. Each new strike inflicts additional damage to the target, which, together with High attack speed gives additional benefits.</MeleeWeapon_Kinetic.description>
+  <MeleeWeapon_Kinetic.tools.0.label>handle</MeleeWeapon_Kinetic.tools.0.label>
+  <MeleeWeapon_Kinetic.tools.1.label>point</MeleeWeapon_Kinetic.tools.1.label>
+  <MeleeWeapon_Kinetic.tools.2.label>edge</MeleeWeapon_Kinetic.tools.2.label>
+
+  <MeleeWeapon_HighFrequencyBlade.label>High Frequency Blade</MeleeWeapon_HighFrequencyBlade.label>
+  <MeleeWeapon_HighFrequencyBlade.description>Sword, allegedly made from vibranium and under high frequency effect. When the sword reaches its goal, the connection between molecules are destroyed, which practically negates any armor. However, the sword cannot work at full strength on objects of organic world, violating the integrity of body tissues.</MeleeWeapon_HighFrequencyBlade.description>
+  <MeleeWeapon_HighFrequencyBlade.tools.0.label>point</MeleeWeapon_HighFrequencyBlade.tools.0.label>
+  <MeleeWeapon_HighFrequencyBlade.tools.1.label>edge</MeleeWeapon_HighFrequencyBlade.tools.1.label>
+
+
+</LanguageData>

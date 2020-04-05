@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Metolidocaine.label>Metolidocaine</Metolidocaine.label>
+  <Metolidocaine.description>It belongs to the group of stimulants, although it causes a calming effect. After use, it causes a slight mood lift and slight drowsiness. Slightly inhibits the reaction. It does not cause addiction, due to which it gained wide popularity in pharmacology.</Metolidocaine.description>
+  <Metolidocaine.ingestible.ingestCommandString>Take {0}</Metolidocaine.ingestible.ingestCommandString>
+  <Metolidocaine.ingestible.ingestReportString>Taking {0}.</Metolidocaine.ingestible.ingestReportString>
+
+
+</LanguageData>

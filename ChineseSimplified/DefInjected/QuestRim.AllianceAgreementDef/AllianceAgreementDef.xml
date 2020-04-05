@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DefenseContractAgreement.label>Defense contract</DefenseContractAgreement.label>
+  <DefenseContractAgreement.description>A defense contract is a contract in which, in the event of an attack on your settlements, immediate fire support will be sent from the settlement of the signatory.
+
+The strength of support is based on the technological level of the faction and usually is 3-5 well-armed fighters who will be transferred to your submission for 1 day.</DefenseContractAgreement.description>
+
+  <TradeSchedulingAgreement.label>Trade Scheduling Agreement</TradeSchedulingAgreement.label>
+  <TradeSchedulingAgreement.description>Trade agreement - an agreement on the supply of goods to your settlement at a bargain price</TradeSchedulingAgreement.description>
+
+
+</LanguageData>

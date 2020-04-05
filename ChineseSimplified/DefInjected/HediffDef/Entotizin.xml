@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EntotizinTolerance.label>Entotizin tolerance</EntotizinTolerance.label>
+  <EntotizinTolerance.description>Resin-like viscous substance used mainly by snipers. The drug significantly increases the shooter's potential, increasing visual acuity and vigor. There is a chance of addiction, which is offset by its beneficial properties.</EntotizinTolerance.description>
+
+  <EntotizinHediff.label>Entotizin</EntotizinHediff.label>
+  <EntotizinHediff.description>Resin-like viscous substance used mainly by snipers. The drug significantly increases the shooter's potential, increasing visual acuity and vigor. There is a chance of addiction, which is offset by its beneficial properties.</EntotizinHediff.description>
+  <EntotizinHediff.labelNoun>Entotizin</EntotizinHediff.labelNoun>
+
+  <EntotizinAddiction.label>Entotizin addiction</EntotizinAddiction.label>
+  <EntotizinAddiction.description>Resin-like viscous substance used mainly by snipers. The drug significantly increases the shooter's potential, increasing visual acuity and vigor. There is a chance of addiction, which is offset by its beneficial properties.</EntotizinAddiction.description>
+  <EntotizinAddiction.stages.1.label>withdrawal</EntotizinAddiction.stages.1.label>
+
+
+  <!--<EntotizinTolerance.stages.0.label>small</EntotizinTolerance.stages.0.label>-->
+  <!--<EntotizinTolerance.stages.1.label>small</EntotizinTolerance.stages.1.label>-->
+  <!--<EntotizinTolerance.stages.2.label>large</EntotizinTolerance.stages.2.label>-->
+  <!--<EntotizinTolerance.stages.3.label>massive</EntotizinTolerance.stages.3.label>-->
+
+</LanguageData>

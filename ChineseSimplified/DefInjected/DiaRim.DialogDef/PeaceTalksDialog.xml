@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PeaceTalk.label>Мирные переговоры</PeaceTalk.label>
+  <PeaceTalk.Pages.0.Title>"Ищет кнопку отключения питания"</PeaceTalk.Pages.0.Title>
+  <PeaceTalk.Pages.0.Text>- Советую вам навсегда забыть этот канал связи.</PeaceTalk.Pages.0.Text>
+  <PeaceTalk.Pages.0.Options.0.Label>Truce</PeaceTalk.Pages.0.Options.0.Label>
+  <PeaceTalk.Pages.0.Options.1.Label>EndCooms</PeaceTalk.Pages.0.Options.1.Label>
+  <PeaceTalk.Pages.1.Title>Да как вы смеете?!</PeaceTalk.Pages.1.Title>
+  <PeaceTalk.Pages.1.Text>- Ты действуешь мне на нервы.</PeaceTalk.Pages.1.Text>
+  <PeaceTalk.Pages.1.Options.0.Label>Silver</PeaceTalk.Pages.1.Options.0.Label>
+  <PeaceTalk.Pages.1.Options.1.Label>PeaceTalk</PeaceTalk.Pages.1.Options.1.Label>
+  <PeaceTalk.Pages.1.Options.2.Label>DiplomaticAttack</PeaceTalk.Pages.1.Options.2.Label>
+  <PeaceTalk.Pages.1.Options.3.Label>Push</PeaceTalk.Pages.1.Options.3.Label>
+  <PeaceTalk.Pages.1.Options.4.Label>EndCooms</PeaceTalk.Pages.1.Options.4.Label>
+  <PeaceTalk.Pages.2.Title>"Заинтересованно наблюдает за вами"</PeaceTalk.Pages.2.Title>
+  <PeaceTalk.Pages.2.Text>- Ну и сколько вы сможете нам предложить?.</PeaceTalk.Pages.2.Text>
+  <PeaceTalk.Pages.2.Options.0.Label>1000</PeaceTalk.Pages.2.Options.0.Label>
+  <PeaceTalk.Pages.2.Options.1.Label>3000</PeaceTalk.Pages.2.Options.1.Label>
+  <PeaceTalk.Pages.2.Options.2.Label>5000</PeaceTalk.Pages.2.Options.2.Label>
+  <PeaceTalk.Pages.2.Options.3.Label>10000</PeaceTalk.Pages.2.Options.3.Label>
+  <PeaceTalk.Pages.2.Options.4.Label>15000</PeaceTalk.Pages.2.Options.4.Label>
+  <PeaceTalk.Pages.2.Options.5.Label>EndCooms</PeaceTalk.Pages.2.Options.5.Label>
+  <PeaceTalk.Pages.3.Title>"Совещается с неизвестными вам людьми"</PeaceTalk.Pages.3.Title>
+  <PeaceTalk.Pages.3.Text>- На что вы готовы пойти ради мира между нами?</PeaceTalk.Pages.3.Text>
+  <PeaceTalk.Pages.3.Options.0.Label>Talk</PeaceTalk.Pages.3.Options.0.Label>
+  <PeaceTalk.Pages.3.Options.1.Label>Defeat</PeaceTalk.Pages.3.Options.1.Label>
+  <PeaceTalk.Pages.3.Options.2.Label>Whisper</PeaceTalk.Pages.3.Options.2.Label>
+  <PeaceTalk.Pages.3.Options.3.Label>EndCooms</PeaceTalk.Pages.3.Options.3.Label>
+  <PeaceTalk.Pages.4.Title>Да как ты можешь говорить такое?!</PeaceTalk.Pages.4.Title>
+  <PeaceTalk.Pages.4.Text>- Я даю вам последний шанс уйти с гордо поднятой головой.</PeaceTalk.Pages.4.Text>
+  <PeaceTalk.Pages.4.Options.0.Label>Bluff</PeaceTalk.Pages.4.Options.0.Label>
+  <PeaceTalk.Pages.4.Options.1.Label>KeepPressure</PeaceTalk.Pages.4.Options.1.Label>
+  <PeaceTalk.Pages.4.Options.2.Label>Monologue</PeaceTalk.Pages.4.Options.2.Label>
+  <PeaceTalk.Pages.4.Options.3.Label>EndCooms</PeaceTalk.Pages.4.Options.3.Label>
+  <PeaceTalk.Pages.5.Title>"Зло нахмурился"</PeaceTalk.Pages.5.Title>
+  <PeaceTalk.Pages.5.Text>- Жалкий блеф!</PeaceTalk.Pages.5.Text>
+  <PeaceTalk.Pages.5.Options.0.Label>Coalition</PeaceTalk.Pages.5.Options.0.Label>
+  <PeaceTalk.Pages.5.Options.1.Label>Require</PeaceTalk.Pages.5.Options.1.Label>
+  <PeaceTalk.Pages.5.Options.2.Label>Intimidate</PeaceTalk.Pages.5.Options.2.Label>
+  <PeaceTalk.Pages.5.Options.3.Label>EndCooms</PeaceTalk.Pages.5.Options.3.Label>
+  <PeaceTalk.Pages.6.Title>"Опешив, долгое время бродит по комнате, обдумывая свой ответ."</PeaceTalk.Pages.6.Title>
+  <PeaceTalk.Pages.6.Text>- Мы готовы заключить перемирие с вами.</PeaceTalk.Pages.6.Text>
+  <PeaceTalk.Pages.6.Options.0.Label>EndCooms</PeaceTalk.Pages.6.Options.0.Label>
+  <PeaceTalk.Pages.7.Title>"Связь обрывается..."</PeaceTalk.Pages.7.Title>
+  <PeaceTalk.Pages.7.Text>Попытавшись связаться с ними вновь, вы наблюдаете лишь помехи.</PeaceTalk.Pages.7.Text>
+  <PeaceTalk.Pages.7.Options.0.Label>EndCooms</PeaceTalk.Pages.7.Options.0.Label>
+
+
+</LanguageData>

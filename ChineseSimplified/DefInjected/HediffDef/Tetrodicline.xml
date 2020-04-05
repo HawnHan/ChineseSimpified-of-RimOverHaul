@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TetrodiclineTolerance.label>Tetrodicline tolerance</TetrodiclineTolerance.label>
+  <TetrodiclineTolerance.description>A drug that affects the brain activity of neurons, allowing you to double the speed of learning and remembering new knowledge. It is worth remembering that the consumption of body resources is comparable to its work, which is also reflected in the action of the drug. It is highly addictive.</TetrodiclineTolerance.description>
+
+  <TetrodiclineHediff.label>Tetrodicline</TetrodiclineHediff.label>
+  <TetrodiclineHediff.description>A drug that affects the brain activity of neurons, allowing you to double the speed of learning and remembering new knowledge. It is worth remembering that the consumption of body resources is comparable to its work, which is also reflected in the action of the drug. It is highly addictive.</TetrodiclineHediff.description>
+  <TetrodiclineHediff.stages.0.label>Easy</TetrodiclineHediff.stages.0.label>
+  <TetrodiclineHediff.stages.1.label>Hard</TetrodiclineHediff.stages.1.label>
+  <TetrodiclineHediff.stages.2.label>Extreme</TetrodiclineHediff.stages.2.label>
+  <TetrodiclineHediff.labelNoun>Tetrodicline</TetrodiclineHediff.labelNoun>
+
+  <TetrodiclineAddiction.label>Tetrodicline addiction</TetrodiclineAddiction.label>
+  <TetrodiclineAddiction.description>A drug that affects the brain activity of neurons, allowing you to double the speed of learning and remembering new knowledge. It is worth remembering that the consumption of body resources is comparable to its work, which is also reflected in the action of the drug. It is highly addictive.</TetrodiclineAddiction.description>
+  <TetrodiclineAddiction.stages.1.label>withdrawal</TetrodiclineAddiction.stages.1.label>
+
+
+  <!--<TetrodiclineTolerance.stages.0.label>small</TetrodiclineTolerance.stages.0.label>-->
+  <!--<TetrodiclineTolerance.stages.1.label>small</TetrodiclineTolerance.stages.1.label>-->
+  <!--<TetrodiclineTolerance.stages.2.label>large</TetrodiclineTolerance.stages.2.label>-->
+  <!--<TetrodiclineTolerance.stages.3.label>massive</TetrodiclineTolerance.stages.3.label>-->
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Narkoata.label>Narkoata</Narkoata.label>
+  <Narkoata.description>This drug was created in the tropics from tea leaves, which cause hallucinations when set on fire. They were found by space scientists on the planet Zeme 1444-B, where tribes using this drug were discovered. Residents said that when setting fire to normcoats, the spirits of the forest endow him with speed, agility, fearlessness and the ability to see in the dark. At the beginning of the production of the drug, the manager liked the design and he decided to leave it. If the drug is taken only once, the person has good visibility in the dark, uplifting and increased vigor. The only side effect is the constant smell of fresh plants, which is pleasant and relaxing. If you abuse the substance, then a strong drug intoxication appears. There is an increase in mood, a tendency to communicate. A high chance of getting addiction, the possibility of loss of consciousness from an overdose.</Narkoata.description>
+  <Narkoata.ingestible.ingestCommandString>Smoke {0}</Narkoata.ingestible.ingestCommandString>
+  <Narkoata.ingestible.ingestReportString>Smokes {0}.</Narkoata.ingestible.ingestReportString>
+
+
+</LanguageData>

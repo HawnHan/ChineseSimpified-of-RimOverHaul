@@ -18,36 +18,36 @@
   <!-- Событие: Метеоритный дождь -->
 
   <BoulderMassHit.label>流星雨</BoulderMassHit.label>
-  <BoulderMassHit.letterText>流星雨！有一段时间，陨石会随机掉到地面。</BoulderMassHit.letterText>
+  <BoulderMassHit.letterText>流星雨！持续时间内，陨石会砸落到地面。</BoulderMassHit.letterText>
   <BoulderMassHit.letterLabel>流星雨</BoulderMassHit.letterLabel>
 
 
   <!-- Событие: Длительный день -->
 
   <Endlessday.label>无尽白昼</Endlessday.label>
-  <Endlessday.letterText>因为行星附近一颗恒星的强烈闪光，从现在开始都是白昼，并且再也不会有变化。</Endlessday.letterText>
+  <Endlessday.letterText>因为行星附近一颗恒星的强烈闪光，所以从现在开始只余白昼，不再交替。</Endlessday.letterText>
   <Endlessday.letterLabel>无尽白昼</Endlessday.letterLabel>
 
 
   <!-- Событие: Обедненная атмосфера -->
 
   <LeanAtmosphere.label>贫瘠大气</LeanAtmosphere.label>
-  <LeanAtmosphere.letterText>由于恒星爆炸释放出大量能量，地球大气层的一部分被烧毁。它将改变地球上所有的气候条件。预期恒温下降</LeanAtmosphere.letterText>
+  <LeanAtmosphere.letterText>由于恒星爆炸释放出大量能量，星球大气层的一部分被烧毁。这将改变星球上所有的气候环境。预期气温将下降</LeanAtmosphere.letterText>
   <LeanAtmosphere.letterLabel>贫瘠大气</LeanAtmosphere.letterLabel>
 
 
   <!-- Событие: Повышенный радиационный фон -->
 
   <RadiationFon.label>辐射增强</RadiationFon.label>
-  <RadiationFon.letterText>由于缺少一部分大气保护，宇宙辐射很容易地泄漏到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon.letterText>
+  <RadiationFon.letterText>由于缺少一部分大气保护，宇宙辐射很容易地泄漏到行星上。不建议在没有屋顶的地方活动。</RadiationFon.letterText>
   <RadiationFon.letterLabel>辐射增强</RadiationFon.letterLabel>
 
 
   <!-- Событие: Нет солнца -->
 
-  <NoSun.label>没有太阳</NoSun.label>
-  <NoSun.letterText>没有太阳</NoSun.letterText>
-  <NoSun.letterLabel>没有太阳</NoSun.letterLabel>
+  <NoSun.label>日陨</NoSun.label>
+  <NoSun.letterText>日陨</NoSun.letterText>
+  <NoSun.letterLabel>日陨</NoSun.letterLabel>
 
 
   <!-- Событие: Плотная атмосфера -->
@@ -116,7 +116,7 @@
   <!-- Событие: Климатический хаос -->
 
   <ClimateChaos.label>混乱气候</ClimateChaos.label>
-  <ClimateChaos.letterText>因受一股强大的能量影响，气候已发生彼岸花。天气和天气灾害将不断变化。</ClimateChaos.letterText>
+  <ClimateChaos.letterText>因受一股强大的能量影响，气候已紊乱。天气和天气灾害随机演变。</ClimateChaos.letterText>
   <ClimateChaos.letterLabel>混乱气候</ClimateChaos.letterLabel>
 
 
@@ -129,9 +129,9 @@
 
   <!-- Событие: Землетрясение -->
 
-  <Earthquake.label>地震</Earthquake.label>
-  <Earthquake.letterText>一场地震开始了，所有人都需要到避难所！</Earthquake.letterText>
-  <Earthquake.letterLabel>地震!</Earthquake.letterLabel>
+  <RimOverhaul_Earthquake.label>地震</RimOverhaul_Earthquake.label>
+  <RimOverhaul_Earthquake.letterText>发生地震，寻找安全之处躲藏！</RimOverhaul_Earthquake.letterText>
+  <RimOverhaul_Earthquake.letterLabel>地震!</RimOverhaul_Earthquake.letterLabel>
 
 
   <!-- Событие: Осадный лагерь -->
@@ -158,7 +158,7 @@
   <!-- Событие: Ресурсный метеорит -->
 
   <MineralMeteorite.label>矿陨石</MineralMeteorite.label>
-  <MineralMeteorite.letterText>一块巨大的矿物质陨石进入了大气层。</MineralMeteorite.letterText>
+  <MineralMeteorite.letterText>一块巨大的矿物质陨石穿过大气层，砸落地面。</MineralMeteorite.letterText>
   <MineralMeteorite.letterLabel>矿陨石</MineralMeteorite.letterLabel>
 
 
@@ -172,14 +172,14 @@
   <!-- Событие: Нападение голодных каннибалов -->
 
   <HungryCannibalRaid.label>饥饿食人族袭击</HungryCannibalRaid.label>
-  <HungryCannibalRaid.letterText>食人族部落从四面八方袭击你的殖民地！他们不会留俘虏，他们要的是人肉</HungryCannibalRaid.letterText>
+  <HungryCannibalRaid.letterText>食人族部落从四面八方袭击你的殖民地！他们不会留俘虏，只图肉，人肉</HungryCannibalRaid.letterText>
   <HungryCannibalRaid.letterLabel>饥饿食人族！</HungryCannibalRaid.letterLabel>
 
 
   <!-- Событие: Ультиматум судного дня -->
 
   <DoomsdayUltimatum.label>末日通牒</DoomsdayUltimatum.label>
-  <DoomsdayUltimatum.letterText>敌对派系给你发来通牒：我们拥有足以毁灭这个星球的武器。并开出条件：50000白银。\n你可以与其他派系一起收集白银或者组织一次进攻。</DoomsdayUltimatum.letterText>
+  <DoomsdayUltimatum.letterText>敌对派系给你发来通牒：我们拥有足以毁灭这个星球的武器。停手条件：50000白银。\n你可以与其他派系一起收集白银或者组织一次进攻。</DoomsdayUltimatum.letterText>
   <DoomsdayUltimatum.letterLabel>末日通牒</DoomsdayUltimatum.letterLabel>
 
 
@@ -233,7 +233,6 @@
   <!-- Событие: Нулевые механиты -->
 
   <Disease_ZeroMechanites.label>零点机械感染</Disease_ZeroMechanites.label>
-  <Disease_ZeroMechanites.letterText>{0}{1}患上了{2}。\n\n确保有病床和医生，使他们得到适当的治疗并尽可能卧床休息。\n\n以下{1}生病了：\n\n{3}</Disease_ZeroMechanites.letterText>
   <Disease_ZeroMechanites.letterLabel>疾病(零点机械感染)</Disease_ZeroMechanites.letterLabel>
 
 
@@ -268,15 +267,15 @@
   <!-- Событие: Перестрелка двух фракций -->
 
   <AmbushTwoFactions.label>两派交火</AmbushTwoFactions.label>
-  <AmbushTwoFactions.letterText>{0}，{1} 和 {2} 两个派系正在交火</AmbushTwoFactions.letterText>
+  <AmbushTwoFactions.letterText>在{0}，{1} 和 {2} 两个派系正在交火</AmbushTwoFactions.letterText>
   <AmbushTwoFactions.letterLabel>两派交火</AmbushTwoFactions.letterLabel>
 
 
   <!-- Задание: Заказ на убийство вражеского лидера -->
 
-  <Quest_KillLeader.label>杀死敌方首领的任务</Quest_KillLeader.label>
+  <Quest_KillLeader.label>刺杀首领</Quest_KillLeader.label>
   <Quest_KillLeader.letterText>{0} 与你谈论来自 {2} 派系的首领 {1}，说他可能会威胁到他们的定居点，要求你将其消灭。他在世界地图上标记了该首领所在的地方。\n暗杀他的消息可能早已泄露到世界各地，因此有必要尽快采取行动。\n\n你可以通过全息星球仪联系他们。</Quest_KillLeader.letterText>
-  <Quest_KillLeader.letterLabel>杀死敌方首领的任务</Quest_KillLeader.letterLabel>
+  <Quest_KillLeader.letterLabel>刺杀首领</Quest_KillLeader.letterLabel>
 
 
   <!-- Задание: Подавление мятежа -->
@@ -288,16 +287,16 @@
 
   <!-- Событие: Космическая битва -->
 
-  <SpaceBattle.label>太空战役</SpaceBattle.label>
-  <SpaceBattle.letterText>你星球附近两个未知的派系上演了一场太空战。在此持续期间，除了可能装有某些让你感兴趣东西的太空飞船坠落在星球意外，还可能会有一些流弹砸下来。</SpaceBattle.letterText>
-  <SpaceBattle.letterLabel>太空战役</SpaceBattle.letterLabel>
+  <RimOverhaul_SpaceBattle.label>太空战役</RimOverhaul_SpaceBattle.label>
+  <RimOverhaul_SpaceBattle.letterText>距你所在星球不远处，两个未知的派系上演了一场太空战。战争持续期间，飞船与流弹可能会砸到你所在的星球。</RimOverhaul_SpaceBattle.letterText>
+  <RimOverhaul_SpaceBattle.letterLabel>太空战役</RimOverhaul_SpaceBattle.letterLabel>
 
 
   <!-- Задание: Заказ на убийство вражеского лидера -->
 
-  <Quest_KillOrder.label>击杀任务</Quest_KillOrder.label>
+  <Quest_KillOrder.label>佣兵：击杀</Quest_KillOrder.label>
   <Quest_KillOrder.letterText>{0} 以白银为酬金请求你消灭来自 {2} 派系的 {1}。他在世界地图上标记了此人所在的地方。\n\n你可以通过全息星球仪联系他们。</Quest_KillOrder.letterText>
-  <Quest_KillOrder.letterLabel>击杀任务</Quest_KillOrder.letterLabel>
+  <Quest_KillOrder.letterLabel>佣兵：击杀</Quest_KillOrder.letterLabel>
 
 
   <!-- Событие: Концлагерь -->
@@ -310,16 +309,73 @@
   <!-- Задание: Туннельные крысы -->
 
   <TunnelRats.label>地道战</TunnelRats.label>
-  <TunnelRats.letterText>原住民派系挖了一条直通你基地的地道。他们会不断的从中爬出来，直到你将其掩盖。\n（要掩盖地道，需要选择带有手榴弹的角色，右键地道口并做出你的选择）</TunnelRats.letterText>
+  <TunnelRats.letterText>原住民派系挖了一条直通你基地的地道。他们会源源不断的从此处袭击，直到你将其掩盖。\n（要掩盖地道，需要选择带有手榴弹的角色，右键地道口并做出你的选择）</TunnelRats.letterText>
   <TunnelRats.letterLabel>地道战</TunnelRats.letterLabel>
 
 
-  <!-- Событие: Массовый пожар -->
-  <!--<MassiveFire.label>熊熊烈火</MassiveFire.label>-->
-  <!--<MassiveFire.letterText>邻近地区开始发生大火。如果它没有被熄灭，它将摧毁附近所有森林！</MassiveFire.letterText>-->
-  <!--<MassiveFire.letterLabel>熊熊烈火</MassiveFire.letterLabel>-->
-  <!--<WetAir.label>Wet air</WetAir.label>-->
-  <!--<WetAir.letterLabel>Wet air</WetAir.letterLabel>-->
-  <!--<WetAir.letterText>Air has come filled with particles of water. Being on the open area will immediately freeze the lungs, and buildings will start to deteriorate</WetAir.letterText>-->
+  <!-- Событие: Высокая популяция мтуантов -->
+
+  <HighMutantPopulation.label>突变种激增</HighMutantPopulation.label>
+  <HighMutantPopulation.letterText>星球上突变人的数量急剧增长以至泛滥。这些突变种从不留活口，杀戮至上。\n在他们的人口减少前，出现突变种的袭击概率大幅增加。</HighMutantPopulation.letterText>
+  <HighMutantPopulation.letterLabel>突变种激增</HighMutantPopulation.letterLabel>
+
+
+  <!-- Событие: Ярмарка -->
+
+  <Fair.label>展览会!</Fair.label>
+  <Fair.letterText>你被邀请参加一场展览会，许多商人也会到场(商人们来自中立或盟友的派系)。\n你可以通过全息星球仪查看此事件。</Fair.letterText>
+  <Fair.letterLabel>展览会!</Fair.letterLabel>
+
+
+  <!-- Событие: Взрывная лихорадка -->
+
+  <ExplosiveFever.label>迸症!</ExplosiveFever.label>
+  <ExplosiveFever.letterText>一种特殊的迸症正在你的殖民地肆虐。若不能及时治愈，受感染的部位可能会爆炸！</ExplosiveFever.letterText>
+  <ExplosiveFever.letterLabel>迸症!</ExplosiveFever.letterLabel>
+
+
+  <!-- Событие: Ледниковый период -->
+
+  <GlacialPeriod.label>冰河时期</GlacialPeriod.label>
+  <GlacialPeriod.letterText>进入冰河时期。气温每隔几天就会下降，直至整个星球进入冰河时代</GlacialPeriod.letterText>
+  <GlacialPeriod.letterLabel>冰河时期</GlacialPeriod.letterLabel>
+
+
+  <!-- Событие: Активная звезда -->
+
+  <ActiveStar.label>活跃恒星</ActiveStar.label>
+  <ActiveStar.letterText>The main star in your system is very active, it throws out powerful bursts of energy that cause fever and burns to everyone who is in the open during a burst.</ActiveStar.letterText>
+  <ActiveStar.letterLabel>活跃恒星</ActiveStar.letterLabel>
+
+
+  <!-- Событие: Состязания -->
+
+  <Competitions.label>竞赛</Competitions.label>
+  <Competitions.letterText>竞赛举办于 {0}。优胜者会得到 {1} 数量的奖励。\n想要参加这场竞赛，你需要拥有一个 {0} 技能不低于 {2} 级的殖民者，并组建远征队抵达竞赛场地。\n当然，你也可以选择贿赂评审员，此举能让你获得额外的分数(使用全息星球仪进行贿赂)。当心，被发现的后果是降低你与参赛派系的关系。</Competitions.letterText>
+  <Competitions.letterLabel>竞赛</Competitions.letterLabel>
+
+
+  <!-- Событие: Массовое захоронение -->
+
+  <MassBurial.label>Mass burial</MassBurial.label>
+  <MassBurial.letterText>Your caravan has discovered an mass grave. According to the patch of one of the corpses, it is clear that this is the burial of the fraction {0}.
+
+If you enter it, then your relationship with the faction will be reduced, and they will most likely send a group.</MassBurial.letterText>
+  <MassBurial.letterLabel>Mass burial</MassBurial.letterLabel>
+
+
+  <!-- Событие: Место битвы -->
+
+  <PlaceBattle.label>战场</PlaceBattle.label>
+  <PlaceBattle.letterText>离你殖民地的不远处浓烟滚滚。那里近期似乎爆发了战争。\n你可以选择到战场查看情况，还能从残留的尸体上拾荒，但最好小心点，没准敌人还在现场。</PlaceBattle.letterText>
+  <PlaceBattle.letterLabel>战场</PlaceBattle.letterLabel>
+
+
+  <!-- Событие: Авария на тюремном корабле -->
+
+  <Quest_PrisonShipAccident.label>囚犯飞船失事</Quest_PrisonShipAccident.label>
+  <Quest_PrisonShipAccident.letterText>银河安保队运输囚犯的飞船失事了，关押囚犯的太空舱坠落到了此星球。\n你可以选择搜寻并抓捕这些囚犯，然后将他们塞进太空舱以获得酬金，或者试图招募他们。可惜的是，囚犯们往往带有许多不好的特性，比如食人者、心理变态等等。\n你能通过全息星球仪联系银河安保队。</Quest_PrisonShipAccident.letterText>
+  <Quest_PrisonShipAccident.letterLabel>囚犯飞船失事</Quest_PrisonShipAccident.letterLabel>
+
 
 </LanguageData>

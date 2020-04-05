@@ -2,29 +2,76 @@
 <LanguageData>
 
   <Sagittarius_Effect.label>射手座之光</Sagittarius_Effect.label>
+  <Sagittarius_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Sagittarius_Effect.description>
+
   <Hercules_Effect.label>武仙座之光</Hercules_Effect.label>
+  <Hercules_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Hercules_Effect.description>
+
   <Build_Effect.label>矩尺座之光</Build_Effect.label>
+  <Build_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Build_Effect.description>
+
   <Art_Effect.label>绘架座之光</Art_Effect.label>
+  <Art_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Art_Effect.description>
+
   <Animals_Effect.label>大犬座之光</Animals_Effect.label>
+  <Animals_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Animals_Effect.description>
+
   <Plant_Effect.label>牧夫座之光</Plant_Effect.label>
+  <Plant_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Plant_Effect.description>
+
   <Social_Effect.label>海豚座之光</Social_Effect.label>
+  <Social_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Social_Effect.description>
+
   <Craft_Effect.label>御夫座之光</Craft_Effect.label>
+  <Craft_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Craft_Effect.description>
+
   <Mining_Effect.label>山案座之光</Mining_Effect.label>
+  <Mining_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Mining_Effect.description>
+
   <Cooking_Effect.label>巨爵座之光</Cooking_Effect.label>
+  <Cooking_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Cooking_Effect.description>
+
   <Medicine_Effect.label>蛇夫座之光</Medicine_Effect.label>
+  <Medicine_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Medicine_Effect.description>
+
   <Intellectual_Effect.label>天鹰座之光</Intellectual_Effect.label>
+  <Intellectual_Effect.description>Свет далеких звезд вселяет в вас уверенность.</Intellectual_Effect.description>
+
   <Shield_Effect.label>盾牌座之咒</Shield_Effect.label>
+  <Shield_Effect.description>Свет далеких звезд рассеевает внимание.</Shield_Effect.description>
+
   <Lynx_Effect.label>天猫座之咒</Lynx_Effect.label>
+  <Lynx_Effect.description>Свет далеких звезд рассеевает внимание.</Lynx_Effect.description>
+
   <Triangle_Effect.label>三角座之咒</Triangle_Effect.label>
+  <Triangle_Effect.description>Свет далеких звезд рассеевает внимание.</Triangle_Effect.description>
+
   <Clock_Effect.label>时钟座之咒</Clock_Effect.label>
+  <Clock_Effect.description>Свет далеких звезд рассеевает внимание.</Clock_Effect.description>
+
   <Hydra_Effect.label>长蛇座之咒</Hydra_Effect.label>
+  <Hydra_Effect.description>Свет далеких звезд рассеевает внимание.</Hydra_Effect.description>
+
   <Corvus_Effect.label>乌鸦座之咒</Corvus_Effect.label>
+  <Corvus_Effect.description>Свет далеких звезд рассеевает внимание.</Corvus_Effect.description>
+
   <Indian_Effect.label>印第安座之咒</Indian_Effect.label>
+  <Indian_Effect.description>Свет далеких звезд рассеевает внимание.</Indian_Effect.description>
+
   <Eridan_Effect.label>波江座之咒</Eridan_Effect.label>
+  <Eridan_Effect.description>Свет далеких звезд рассеевает внимание.</Eridan_Effect.description>
+
   <Taurus_Effect.label>金牛座之咒</Taurus_Effect.label>
+  <Taurus_Effect.description>Свет далеких звезд рассеевает внимание.</Taurus_Effect.description>
+
   <Coma_Effect.label>处女座之咒</Coma_Effect.label>
+  <Coma_Effect.description>Свет далеких звезд рассеевает внимание.</Coma_Effect.description>
+
   <Snake_Effect.label>水蛇座之咒</Snake_Effect.label>
+  <Snake_Effect.description>Свет далеких звезд рассеевает внимание.</Snake_Effect.description>
+
   <Octans_Effect.label>南极座之咒</Octans_Effect.label>
+  <Octans_Effect.description>Свет далеких звезд рассеевает внимание.</Octans_Effect.description>
 
 
 </LanguageData>

@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Gun_FEL_Light.label>FEL Light</Gun_FEL_Light.label>
+  <Gun_FEL_Light.description>A free electron laser that was previously used only for scientific purposes. However, due to the need to significantly reduce the size, for the possibility of combat use, it was rebuilt. The resulting as a result, weapons capable of causing severe microtrauma causing numerous bleeding and disturbing heart function.</Gun_FEL_Light.description>
+  <Gun_FEL_Light.tools.0.label>grip</Gun_FEL_Light.tools.0.label>
+
+  <Bullet_FEL_Light.label>FEL Light bullet</Bullet_FEL_Light.label>
+
+  <Gun_FEL_Heavy.label>FEL Heavy</Gun_FEL_Heavy.label>
+  <Gun_FEL_Heavy.description>Free electron laser, significantly increased in size, which significantly increases the damage done. Thanks to overclocked Electrons, FEL Severe ability to generate small charged polar particles. Upon reaching the goal, the field disrupts the heart and causes explosive injuries to the victim.</Gun_FEL_Heavy.description>
+  <Gun_FEL_Heavy.tools.0.label>grip</Gun_FEL_Heavy.tools.0.label>
+
+  <Bullet_FEL_Heavy.label>FEL Heavy bullet</Bullet_FEL_Heavy.label>
+
+  <Gun_AR.label>AR-31</Gun_AR.label>
+  <Gun_AR.description>A small pistol whose combat effectiveness is to disperse shells using an energy beam. However, the gun does not require recharging, using ammunition energy. The technology is not remarkable, but thanks limitations of guns, due to the loss of drawings, the gun is valuable a godsend for rarities.</Gun_AR.description>
+  <Gun_AR.tools.0.label>grip</Gun_AR.tools.0.label>
+
+  <Bullet_AR.label>AR-31 bullet</Bullet_AR.label>
+
+  <Gun_PG.label>PG-18</Gun_PG.label>
+  <Gun_PG.description>Compact blaster with energy ammunition. Possesses high accuracy thanks to the guidance system. However, weapons take time for ionization of plasma charges, which significantly reduces the rate of recharge. PG-18 shells have high speed and temperature, causing severe burns when hit.</Gun_PG.description>
+  <Gun_PG.tools.0.label>grip</Gun_PG.tools.0.label>
+
+  <Bullet_PG.label>PG-18 bullet</Bullet_PG.label>
+
+  <Gun_PG_Heavy.label>PG-21 Heavy</Gun_PG_Heavy.label>
+  <Gun_PG_Heavy.description>Heavy blaster with energy ammunition. Due to increase the size, the weapon received an additional place for ammunition. Plasma, which is the main shock force, upsets the body’s heat balance, which entails serious consequences.</Gun_PG_Heavy.description>
+  <Gun_PG_Heavy.tools.0.label>grip</Gun_PG_Heavy.tools.0.label>
+
+  <Bullet_PG_Heavy.label>PG-21 Heavy bullet</Bullet_PG_Heavy.label>
+
+  <Gun_PG_Spider.label>PG-26 Spider</Gun_PG_Spider.label>
+  <Gun_PG_Spider.description>Heavy blaster with energy ammunition causing rupture of body tissues. With prolonged exposure, the weapon is substantially poisons the body and alters the well-being of the victim, which entails dangerous consequences.</Gun_PG_Spider.description>
+  <Gun_PG_Spider.tools.0.label>grip</Gun_PG_Spider.tools.0.label>
+
+  <Bullet_PG_Spider.label>PG-26 Spider bullet</Bullet_PG_Spider.label>
+
+  <Gun_EMP.label>EMP-41</Gun_EMP.label>
+  <Gun_EMP.description>A heavy submachine gun with a large supply of shells using electromagnetic acceleration. Long preparation and Recharge and well suited for short distances. When hit by targets, EMP-41 shells burst, leading to internal bleeding.</Gun_EMP.description>
+  <Gun_EMP.tools.0.label>grip</Gun_EMP.tools.0.label>
+
+  <Bullet_EMP.label>EMP-41 bullet</Bullet_EMP.label>
+
+  <Gun_RMP.label>RMP-45</Gun_RMP.label>
+  <Gun_RMP.description>Large-caliber double-charged energy rifle. Requires lengthy preparation for firing and reloading, but is much more more accurate than analogues. Most effective at long and medium distances, which is provided by the specifics of shells aimed at the target after some time.</Gun_RMP.description>
+  <Gun_RMP.tools.0.label>grip</Gun_RMP.tools.0.label>
+
+  <Bullet_RMP.label>RMP-45 bullet</Bullet_RMP.label>
+
+  <Gun_EMPS.label>EMP-47</Gun_EMPS.label>
+  <Gun_EMPS.description>Large-caliber medium-range submachine gun shells and precision. Differs in high speed of reloading and preparation to the fire. The greatest combat effectiveness is achieved at medium distances, due to the time required to increase the speed of the bullet. EMP-47 has a destructive acoustic effect, causing short-term damage to the target’s hearing when hit.</Gun_EMPS.description>
+  <Gun_EMPS.tools.0.label>grip</Gun_EMPS.tools.0.label>
+
+  <Bullet_EMPS.label>EMP-47 bullet</Bullet_EMPS.label>
+
+  <Gun_SMP.label>SMP-42 FireStorm</Gun_SMP.label>
+  <Gun_SMP.description>Explosive projectile shotgun which explode on contact with anything. Has a small combat radius and low accuracy. Effective mainly at short distances, causing maximum damage.</Gun_SMP.description>
+  <Gun_SMP.tools.0.label>grip</Gun_SMP.tools.0.label>
+
+  <Bullet_SMP.label>SMP-42 bullet</Bullet_SMP.label>
+
+  <Gun_RMP_Enigma.label>RMP-51 Enigma</Gun_RMP_Enigma.label>
+  <Gun_RMP_Enigma.description>Single-shot energy rifle with a telescopic sight. Deals average damage, and the maximum effect is achieved at small and medium distances. Due to the lack of stock of shells, reloading and preparation for fire occurs faster. RMP-51 drawings were found on a network of abandoned military bases, and the rifle itself consists of foreign materials.</Gun_RMP_Enigma.description>
+  <Gun_RMP_Enigma.tools.0.label>grip</Gun_RMP_Enigma.tools.0.label>
+
+  <Bullet_RMP_Enigma.label>RMP-51 Enigma bullet</Bullet_RMP_Enigma.label>
+
+  <Gun_RMP_Feral.label>RMP-56 Feral</Gun_RMP_Feral.label>
+  <Gun_RMP_Feral.description>Five-shot plasma rifle. The greatest accuracy is achieved at average distances, and misses are minimized. To prepare for shooting some time, which complicates its use in head-on collisions with the enemy. The top layer of RMP-56 is coated with titanium, which reduces its overheating during use.</Gun_RMP_Feral.description>
+  <Gun_RMP_Feral.tools.0.label>grip</Gun_RMP_Feral.tools.0.label>
+
+  <Bullet_RMP_Feral.label>RMP-56 Feral bullet</Bullet_RMP_Feral.label>
+
+  <Gun_ThermoFusion.label>Thermobaric fusion gun</Gun_ThermoFusion.label>
+  <Gun_ThermoFusion.description>It forms a powerful energy ball, which loses stability over time, after which it causes an explosion.</Gun_ThermoFusion.description>
+  <Gun_ThermoFusion.tools.0.label>grip</Gun_ThermoFusion.tools.0.label>
+
+  <Bullet_ThermoFusion.label>Thermo fusion ball</Bullet_ThermoFusion.label>
+
+  <Gun_LTB.label>LTB-4000</Gun_LTB.label>
+  <Gun_LTB.description>Massive heavy weapon with a long barrel, in which the formation of an electric ball similar to ball lightning occurs. When fired, the ball ionizes the air, causing multiple lightning bolts.</Gun_LTB.description>
+  <Gun_LTB.tools.0.label>grip</Gun_LTB.tools.0.label>
+
+  <Bullet_LTB.label>LTB lighting ball</Bullet_LTB.label>
+
+  <Gun_DeathRay.label>Energy weapon 'Death Ray'</Gun_DeathRay.label>
+  <Gun_DeathRay.description>Energy-based weapons. The design is similar to the energy spear of mechanoids. The mechanism has been changed, so that a long-term supply of high-power energy is possible to obtain a stable beam of destructive power.</Gun_DeathRay.description>
+  <Gun_DeathRay.tools.0.label>grip</Gun_DeathRay.tools.0.label>
+
+  <Bullet_DeathRay.label>Death ray</Bullet_DeathRay.label>
+
+  <Gun_ArgentRocketLaucher.label>Argent Rocket Launcher</Gun_ArgentRocketLaucher.label>
+  <Gun_ArgentRocketLaucher.description>It uses rockets with argent energy, which, after the explosion, releases clumps of argent energy.</Gun_ArgentRocketLaucher.description>
+  <Gun_ArgentRocketLaucher.tools.0.label>barrel</Gun_ArgentRocketLaucher.tools.0.label>
+
+  <Bullet_ArgentRocket.label>Argent rocket</Bullet_ArgentRocket.label>
+  <Bullet_ArgentSphere.label>Argent sphere</Bullet_ArgentSphere.label>
+
+  <Gun_EMP_Fox.label>EMP-59 Desert fox</Gun_EMP_Fox.label>
+  <Gun_EMP_Fox.description>Five-shot pistol machine gun with a high rate of fire, which however is limited to modest radius of defeat and damage. When hit on target, the EMP-49 shell explodes inside the victim, inflicting numerous wounds.</Gun_EMP_Fox.description>
+  <Gun_EMP_Fox.tools.0.label>grip</Gun_EMP_Fox.tools.0.label>
+
+  <Bullet_EMP_Fox.label>EMP-59 Desert fox bullet</Bullet_EMP_Fox.label>
+
+  <Gun_LaserBow.label>Laser Bow</Gun_LaserBow.label>
+  <Gun_LaserBow.description>The modern era demanded new weapons. The mechanics excelled in intelligence and quick wits. Using bizarre weapons from ancient eras, they created an electric-powered bow that generates laser arrows every time a user pulls a bow. It has a high rate of fire for its damage, but is useless when the battery runs out.</Gun_LaserBow.description>
+  <Gun_LaserBow.tools.0.label>grip</Gun_LaserBow.tools.0.label>
+
+  <Bullet_LaserBow.label>Laser Bow bullet</Bullet_LaserBow.label>
+
+  <Gun_RMP_Guard.label>RMP-48 Night guard</Gun_RMP_Guard.label>
+  <Gun_RMP_Guard.description>A power rifle with a large stock of shells and, probably created from drawings left over from mechanoids. Low accuracy and damage, which compensates for the rate of fire. Covered with cryotium used as an additional means of dealing damage.</Gun_RMP_Guard.description>
+  <Gun_RMP_Guard.tools.0.label>grip</Gun_RMP_Guard.tools.0.label>
+
+  <Bullet_RMP_Guard.label>RMP-48 Night guard bullet</Bullet_RMP_Guard.label>
+
+  <Gun_WR_Wisp.label>WR Wisp</Gun_WR_Wisp.label>
+  <Gun_WR_Wisp.description>Heavy gun designed for climate change in small area on a world map. When used, causes climatic anomalies affecting air temperature. Shards ice occur in the surrounding area, forming a dangerous tornado.</Gun_WR_Wisp.description>
+  <Gun_WR_Wisp.tools.0.label>grip</Gun_WR_Wisp.tools.0.label>
+
+  <Bullet_WR_Wisp.label>WR Wisp bullet</Bullet_WR_Wisp.label>
+
+  <Gun_WR_EternalFire.label>WR Eternal Fire</Gun_WR_EternalFire.label>
+  <Gun_WR_EternalFire.description>A heavy tool designed for climate change in small area on a world map. When used, causes climatic anomalies affecting air temperature. The smell of napalm and carbon monoxide fills your lungs, and the smoke screen obscures for a long time heaven itself.</Gun_WR_EternalFire.description>
+  <Gun_WR_EternalFire.tools.0.label>grip</Gun_WR_EternalFire.tools.0.label>
+
+  <Bullet_WR_EternalFire.label>WR Eternal Fire bullet</Bullet_WR_EternalFire.label>
+
+  <Gun_RL_SteelRain.label>RL Steel rain</Gun_RL_SteelRain.label>
+  <Gun_RL_SteelRain.description>Reactive installation of tremendous power, capable of pointing shells at the target, chasing it for a while. Killer the effect is achieved thanks to the explosive pyrotium placed inside. Requires a long recharge and preparation for firing, which is offset high damage.</Gun_RL_SteelRain.description>
+  <Gun_RL_SteelRain.tools.0.label>grip</Gun_RL_SteelRain.tools.0.label>
+
+  <Bullet_RL_SteelRain.label>RL Steel Rain bullet</Bullet_RL_SteelRain.label>
+
+
+</LanguageData>

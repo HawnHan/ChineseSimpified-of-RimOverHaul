@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AmitaTolerance.label>Amita tolerance</AmitaTolerance.label>
+  <AmitaTolerance.description>A vigorous mixture of berries boosting vitality.</AmitaTolerance.description>
+
+  <AmitaHediff.label>Unusual vigor</AmitaHediff.label>
+  <AmitaHediff.description>A vigorous mixture of berries boosting vitality.</AmitaHediff.description>
+  <AmitaHediff.labelNoun>A vigorous mixture of berries boosting vitality does its job!</AmitaHediff.labelNoun>
+
+  <AmitaAddiction.label>amita addiction</AmitaAddiction.label>
+  <AmitaAddiction.description>A vigorous mixture of berries boosting vitality.</AmitaAddiction.description>
+  <AmitaAddiction.stages.1.label>withdrawal</AmitaAddiction.stages.1.label>
+
+
+  <!--<AmitaTolerance.stages.0.label>small</AmitaTolerance.stages.0.label>-->
+  <!--<AmitaTolerance.stages.1.label>small</AmitaTolerance.stages.1.label>-->
+  <!--<AmitaTolerance.stages.2.label>large</AmitaTolerance.stages.2.label>-->
+  <!--<AmitaTolerance.stages.3.label>massive</AmitaTolerance.stages.3.label>-->
+
+</LanguageData>

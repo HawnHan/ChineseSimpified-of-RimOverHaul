@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Weapon_GravityGrenades.label>Gravity grenades</Weapon_GravityGrenades.label>
+  <Weapon_GravityGrenades.description>Creates a gravitational funnel in the center of the explosion, attracting living things and then exploding.</Weapon_GravityGrenades.description>
+  <Weapon_GravityGrenades.verbs.0.label>throw gravity grenade</Weapon_GravityGrenades.verbs.0.label>
+
+  <Proj_GrenadeGravity.label>frag grenade</Proj_GrenadeGravity.label>
+
+
+</LanguageData>

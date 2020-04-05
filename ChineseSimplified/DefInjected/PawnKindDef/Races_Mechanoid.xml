@@ -3,9 +3,17 @@
 
   <Mech_BigAvtomaton.label>大型自行械体</Mech_BigAvtomaton.label>
   <Mech_BigAvtomaton.labelPlural>大型自行械体</Mech_BigAvtomaton.labelPlural>
+  <Mech_BigAvtomaton.labelMale>雄性大型自行械体</Mech_BigAvtomaton.labelMale>
+  <Mech_BigAvtomaton.labelMalePlural>雄性大型自行械体</Mech_BigAvtomaton.labelMalePlural>
+  <Mech_BigAvtomaton.labelFemale>雌性大型自行械体</Mech_BigAvtomaton.labelFemale>
+  <Mech_BigAvtomaton.labelFemalePlural>雌性大型自行械体</Mech_BigAvtomaton.labelFemalePlural>
 
   <Mech_SmallAvtomaton.label>小型自行械体</Mech_SmallAvtomaton.label>
   <Mech_SmallAvtomaton.labelPlural>小型自行械体</Mech_SmallAvtomaton.labelPlural>
+  <Mech_SmallAvtomaton.labelMale>雄性小型自行械体</Mech_SmallAvtomaton.labelMale>
+  <Mech_SmallAvtomaton.labelMalePlural>雄性小型自行械体</Mech_SmallAvtomaton.labelMalePlural>
+  <Mech_SmallAvtomaton.labelFemale>雌性小型自行械体</Mech_SmallAvtomaton.labelFemale>
+  <Mech_SmallAvtomaton.labelFemalePlural>雌性小型自行械体</Mech_SmallAvtomaton.labelFemalePlural>
 
 
 </LanguageData>

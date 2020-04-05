@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GalacticSecurityService.label>银河安保队</GalacticSecurityService.label>
+  <GalacticSecurityService.description>Despite the fact that not one of the fractions was able to capture and hold even several planets, there is a rather secretive but influential organization that aims to combat various forms of illegal activity, covering most of the nearest inhabited planets. They call themselves the galactic security service, interfering in the work of various social structures, trying to prevent the unauthorized trade in psychotropic substances and dangerous weapons. Many question the need for the existence of this organization, but do not have the ability to stop its functioning. In this regard, any attempt to interact with the dark side of interplanetary commerce can result in a negative outcome for both sides. Few decide to try their luck in search of the necessary knowledge and objects, understanding the price that they can pay for it. The galactic security service has its own army, which is used as needed.</GalacticSecurityService.description>
+  <GalacticSecurityService.pawnsPlural>银安队</GalacticSecurityService.pawnsPlural>
+  <GalacticSecurityService.leaderTitle>警长</GalacticSecurityService.leaderTitle>
+
+
+</LanguageData>

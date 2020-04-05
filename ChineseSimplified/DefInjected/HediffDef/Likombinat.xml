@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LikombinatTolerance.label>Likombinat tolerance</LikombinatTolerance.label>
+  <LikombinatTolerance.description>An experimental drug that can cause powerful side effects and dependence. Nevertheless, presumably allows you to bring the reaction to an incredible level. However, the effect cannot last for a long time, requiring constant recharge. If you stop taking the drug, dangerous side effects are possible.</LikombinatTolerance.description>
+
+  <LikombinatHediff.label>Unstoppable rage</LikombinatHediff.label>
+  <LikombinatHediff.description>An experimental drug that can cause powerful side effects and dependence. Nevertheless, presumably allows you to bring the reaction to an incredible level. However, the effect cannot last for a long time, requiring constant recharge. If you stop taking the drug, dangerous side effects are possible.</LikombinatHediff.description>
+  <LikombinatHediff.labelNoun>Unstoppable rage</LikombinatHediff.labelNoun>
+
+  <LikombinatAddiction.label>Likombinat addiction</LikombinatAddiction.label>
+  <LikombinatAddiction.description>An experimental drug that can cause powerful side effects and dependence. Nevertheless, presumably allows you to bring the reaction to an incredible level. However, the effect cannot last for a long time, requiring constant recharge. If you stop taking the drug, dangerous side effects are possible.</LikombinatAddiction.description>
+
+
+  <!--<LikombinatTolerance.stages.0.label>small</LikombinatTolerance.stages.0.label>-->
+  <!--<LikombinatTolerance.stages.1.label>small</LikombinatTolerance.stages.1.label>-->
+  <!--<LikombinatTolerance.stages.2.label>large</LikombinatTolerance.stages.2.label>-->
+  <!--<LikombinatTolerance.stages.3.label>massive</LikombinatTolerance.stages.3.label>-->
+
+</LanguageData>

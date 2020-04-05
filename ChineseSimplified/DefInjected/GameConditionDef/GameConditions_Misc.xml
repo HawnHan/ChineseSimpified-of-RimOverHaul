@@ -6,24 +6,24 @@
   <SuperHeatWave.endMessage>难以置信的热浪过去了</SuperHeatWave.endMessage>
 
   <BoulderMassHit.label>流星雨</BoulderMassHit.label>
-  <BoulderMassHit.description>流星雨！有一段时间，陨石会掉到地上。</BoulderMassHit.description>
+  <BoulderMassHit.description>流星雨！持续时间内，陨石会砸落到地面。</BoulderMassHit.description>
   <BoulderMassHit.endMessage>似乎一切…</BoulderMassHit.endMessage>
 
   <Endlessday.label>无尽白昼</Endlessday.label>
   <Endlessday.description>因为行星附近一颗恒星的强烈闪光，所以从现在开始只余白昼，不再交替。</Endlessday.description>
   <Endlessday.endMessage>似乎一切…</Endlessday.endMessage>
 
-  <LeanAtmosphere.label>空气稀薄</LeanAtmosphere.label>
-  <LeanAtmosphere.description>由于恒星爆炸释放出大量能量，星球大气层的一部分被烧毁。它将改变星球上所有的气候条件。预期气温将下降</LeanAtmosphere.description>
+  <LeanAtmosphere.label>贫瘠大气</LeanAtmosphere.label>
+  <LeanAtmosphere.description>由于恒星爆炸释放出大量能量，星球大气层的一部分被烧毁。这将改变星球上所有的气候环境。预期气温将下降</LeanAtmosphere.description>
   <LeanAtmosphere.endMessage></LeanAtmosphere.endMessage>
 
   <RadiationFon.label>辐射增加</RadiationFon.label>
-  <RadiationFon.description>由于部分大气稀薄，宇宙辐射很容易透过大气层直射到行星上。我们不建议在没有屋顶的地方活动。</RadiationFon.description>
+  <RadiationFon.description>由于部分大气稀薄，宇宙辐射很容易透过大气层直射到行星上。不建议在没有屋顶的地方活动。</RadiationFon.description>
   <RadiationFon.endMessage>
   </RadiationFon.endMessage>
 
-  <NoSun.label>没有太阳</NoSun.label>
-  <NoSun.description>在你的星系中没有恒星可以加热行星并发光。将造成永恒的黑夜和寒冷。</NoSun.description>
+  <NoSun.label>日陨</NoSun.label>
+  <NoSun.description>所处星系没有恒星可以加热行星并发光。你面临永恒的黑夜和寒冷。</NoSun.description>
   <NoSun.endMessage></NoSun.endMessage>
 
   <DenseAtmosphere.label>稠密大气</DenseAtmosphere.label>
@@ -51,9 +51,9 @@
   <IonizedAtmosphere.description>电离层比以往任何时候都要厚得多。这种现象增加了雷暴天气的几率。</IonizedAtmosphere.description>
   <IonizedAtmosphere.endMessage>电离层已恢复正常</IonizedAtmosphere.endMessage>
 
-  <Earthquake.label>地震</Earthquake.label>
-  <Earthquake.description>一场地震发生了，所有人都需要到避难所！</Earthquake.description>
-  <Earthquake.endMessage>地震结束了</Earthquake.endMessage>
+  <RimOverhaul_Earthquake.label>地震</RimOverhaul_Earthquake.label>
+  <RimOverhaul_Earthquake.description>发生地震，寻找安全之处躲藏！</RimOverhaul_Earthquake.description>
+  <RimOverhaul_Earthquake.endMessage>地震结束了</RimOverhaul_Earthquake.endMessage>
 
   <Constellations.label>星座之光</Constellations.label>
   <Constellations.description>星座之光</Constellations.description>
@@ -63,9 +63,21 @@
   <Psychogas.description>某人释放了大量的化学致幻物到空气中，因此室外的人将逐渐丧失理智。</Psychogas.description>
   <Psychogas.endMessage>大部分的气体已经挥发。室外又安全了。</Psychogas.endMessage>
 
-  <SpaceBattle.label>太空战役</SpaceBattle.label>
-  <SpaceBattle.description>距你所在星球不远处，两个未知的派系上演了一场太空战。战争持续期间，飞船与流弹可能会砸到你所在的星球。</SpaceBattle.description>
-  <SpaceBattle.endMessage>战争平息了</SpaceBattle.endMessage>
+  <RimOverhaul_SpaceBattle.label>太空战役</RimOverhaul_SpaceBattle.label>
+  <RimOverhaul_SpaceBattle.description>距你所在星球不远处，两个未知的派系上演了一场太空战。战争持续期间，飞船与流弹可能会砸到你所在的星球。</RimOverhaul_SpaceBattle.description>
+  <RimOverhaul_SpaceBattle.endMessage>战争平息了</RimOverhaul_SpaceBattle.endMessage>
+
+  <HighMutantPopulation.label>突变种激增</HighMutantPopulation.label>
+  <HighMutantPopulation.description>星球上突变人的数量已急剧增长。这些突变种从不留活口，杀戮至上。\n在他们的人口减少前，突变种的袭击概率大幅增加。</HighMutantPopulation.description>
+  <HighMutantPopulation.endMessage>突变种的人口降低了</HighMutantPopulation.endMessage>
+
+  <GlacialPeriod.label>冰河时期</GlacialPeriod.label>
+  <GlacialPeriod.description>进入冰河时期。气温每隔几天就会下降，直至整个星球进入冰河时代</GlacialPeriod.description>
+  <GlacialPeriod.endMessage>你以为结束了？(冷笑)</GlacialPeriod.endMessage>
+
+  <ActiveStar.label>活跃恒星</ActiveStar.label>
+  <ActiveStar.description>所处星系中的主恒星过度活跃，其迸发的强力能量波会让The main star in your system is very active, it throws out powerful bursts of energy that cause fever and burns to everyone who is in the open during a burst</ActiveStar.description>
+  <ActiveStar.endMessage>你以为结束了？(冷笑)</ActiveStar.endMessage>
 
 
   <!--<SummerSolstice.label>夏至</SummerSolstice.label>-->

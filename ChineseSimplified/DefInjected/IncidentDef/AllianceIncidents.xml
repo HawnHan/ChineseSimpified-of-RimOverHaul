@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Событие: Обмен опытом исследований -->
+
+  <ResearchSharing.label>Exchange of research experience</ResearchSharing.label>
+  <ResearchSharing.letterText>Fraction {0} offers to exchange experience in research. Send any colonist with a research level above {1} to the nearest settlement {0} (it will be marked on the map).
+The exchange of research will take about two days, at which time your colonist will be unavailable, and when the exchange of experience is completed, you will receive {2} points for the current study.</ResearchSharing.letterText>
+  <ResearchSharing.letterLabel>Exchange of research experience</ResearchSharing.letterLabel>
+
+
+  <!-- Событие: Нападение на поселение -->
+
+  <AttackAlliedSettlement.label>同盟派系基地遇袭</AttackAlliedSettlement.label>
+  <AttackAlliedSettlement.letterText>已结盟派系 {1} 的 {0} 基地遭受了袭击。{0} 请求我们支援。\n不作为将逐渐降低与此派系的同盟关系度。</AttackAlliedSettlement.letterText>
+  <AttackAlliedSettlement.letterLabel>受袭的同盟基地</AttackAlliedSettlement.letterLabel>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpasmonitisTolerance.label>Spasmonitis tolerance</SpasmonitisTolerance.label>
+  <SpasmonitisTolerance.description>This drug belongs to the group of spasmolytics used to treat muscle pain. The main active ingredient is drotaverine hydrochloride. It has a strong effect as an antispasmodic. It affects the contractility of smooth muscles, causing them to relax. It causes an average dependence, when applied, the owner does not feel pain during the duration of the drug. However, blood filtration is reduced. Several doses of the drug can stop the effects of intestinal diseases, such as mechanical worms. To do this, take 5 tablets of the drug, which can cause overdose and death.</SpasmonitisTolerance.description>
+
+  <SpasmonitisHediff.label>Muscle relaxation</SpasmonitisHediff.label>
+  <SpasmonitisHediff.description>This drug belongs to the group of spasmolytics used to treat muscle pain. The main active ingredient is drotaverine hydrochloride. It has a strong effect as an antispasmodic. It affects the contractility of smooth muscles, causing them to relax. It causes an average dependence, when applied, the owner does not feel pain during the duration of the drug. However, blood filtration is reduced. Several doses of the drug can stop the effects of intestinal diseases, such as mechanical worms. To do this, take 5 tablets of the drug, which can cause overdose and death.</SpasmonitisHediff.description>
+  <SpasmonitisHediff.labelNoun>Muscle relaxation</SpasmonitisHediff.labelNoun>
+
+  <SpasmonitisAddiction.label>Spasmonitis addiction</SpasmonitisAddiction.label>
+  <SpasmonitisAddiction.description>This drug belongs to the group of spasmolytics used to treat muscle pain. The main active ingredient is drotaverine hydrochloride. It has a strong effect as an antispasmodic. It affects the contractility of smooth muscles, causing them to relax. It causes an average dependence, when applied, the owner does not feel pain during the duration of the drug. However, blood filtration is reduced. Several doses of the drug can stop the effects of intestinal diseases, such as mechanical worms. To do this, take 5 tablets of the drug, which can cause overdose and death.</SpasmonitisAddiction.description>
+  <SpasmonitisAddiction.stages.1.label>withdrawal</SpasmonitisAddiction.stages.1.label>
+
+
+  <!--<SpasmonitisTolerance.stages.0.label>small</SpasmonitisTolerance.stages.0.label>-->
+  <!--<SpasmonitisTolerance.stages.1.label>small</SpasmonitisTolerance.stages.1.label>-->
+  <!--<SpasmonitisTolerance.stages.2.label>large</SpasmonitisTolerance.stages.2.label>-->
+  <!--<SpasmonitisTolerance.stages.3.label>massive</SpasmonitisTolerance.stages.3.label>-->
+
+</LanguageData>

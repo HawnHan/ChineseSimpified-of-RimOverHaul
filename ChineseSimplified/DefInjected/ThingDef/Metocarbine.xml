@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Metocarbine.label>Metocarbine</Metocarbine.label>
+  <Metocarbine.description>Easy combat stimulator, almost non-addictive. Slightly increases combat performance, but does not have serious side effects. Within a few hours, subjects experienced an increased reaction and speed of decision-making.</Metocarbine.description>
+  <Metocarbine.ingestible.ingestCommandString>Take {0}</Metocarbine.ingestible.ingestCommandString>
+  <Metocarbine.ingestible.ingestReportString>Taking {0}.</Metocarbine.ingestible.ingestReportString>
+
+
+</LanguageData>

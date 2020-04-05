@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Pemotilan.label>Pemotilan</Pemotilan.label>
+  <Pemotilan.description>An experimental mixture of drugs designed to increase the combat parameters of subjects. The drug did not pass the proper studies, but a serious dependence was revealed after consumption. Significantly increases resistance and attack speed for a short time, draining the body.</Pemotilan.description>
+  <Pemotilan.ingestible.ingestCommandString>Take {0}</Pemotilan.ingestible.ingestCommandString>
+  <Pemotilan.ingestible.ingestReportString>Taking {0}.</Pemotilan.ingestible.ingestReportString>
+
+
+</LanguageData>

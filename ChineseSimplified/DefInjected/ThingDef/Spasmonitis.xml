@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Spasmonitis.label>Spasmonitis</Spasmonitis.label>
+  <Spasmonitis.description>This drug belongs to the group of spasmolytics used to treat muscle pain. The main active ingredient is drotaverine hydrochloride. It has a strong effect as an antispasmodic. It affects the contractility of smooth muscles, causing them to relax. It causes an average dependence, when applied, the owner does not feel pain during the duration of the drug. However, blood filtration is reduced. Several doses of the drug can stop the effects of intestinal diseases, such as mechanical worms. To do this, take 5 tablets of the drug, which can cause overdose and death.</Spasmonitis.description>
+  <Spasmonitis.ingestible.ingestCommandString>Take {0}</Spasmonitis.ingestible.ingestCommandString>
+  <Spasmonitis.ingestible.ingestReportString>Taking {0}.</Spasmonitis.ingestible.ingestReportString>
+
+
+</LanguageData>

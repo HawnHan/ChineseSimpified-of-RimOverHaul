@@ -220,4 +220,62 @@ Root (5A8)
   <Building_TribalCrack_DoDestroyAction>用手将洞口掩埋</Building_TribalCrack_DoDestroyAction>
   <Building_TribalCrack_Info>埋盖进度: {0}%</Building_TribalCrack_Info>
 
+  <GameCondition_HighMutantPopulation_AttackTitle>突变种袭击</GameCondition_HighMutantPopulation_AttackTitle>
+  <GameCondition_HighMutantPopulation_AttackDesc>突变种正在突袭你的殖民地</GameCondition_HighMutantPopulation_AttackDesc>
+
+  <Corrosium_InspectString>已受伤害: {0}%</Corrosium_InspectString>
+
+  <RimOverhaul_UseCommand>Use</RimOverhaul_UseCommand>
+
+  <CompChargeableWeapon_ChargeLabel>Charge: {0}%</CompChargeableWeapon_ChargeLabel>
+  <CompChargeableWeapon_ChargeDesc>The charge of the item. When it ends, the item will lose most of its strength.</CompChargeableWeapon_ChargeDesc>
+
+  <FairPlace_GetInspectString>剩余展览时间: {0} 天</FairPlace_GetInspectString>
+  <EnterToMap_Option>进入 {0}</EnterToMap_Option>
+
+  <Fair_EndTitle>展览会结束了</Fair_EndTitle>
+  <Fair_EndDesc>展览会圆满结束，感谢您的参与!</Fair_EndDesc>
+
+  <Competitions_Label>参与竞赛</Competitions_Label>
+  <Competitions_ReportString>参加竞赛中</Competitions_ReportString>
+  <NotEnoughtSkillForComp>远征队内没有满足所需技能等级的殖民者</NotEnoughtSkillForComp>
+  <Competitions_DayResultTitle>{0} day results
+Leadership holds {1} (fraction {2}) \n</Competitions_DayResultTitle>
+  <Competitions_DayResultTitle2>{0} day results</Competitions_DayResultTitle2>
+  <Competitions_WinnerDesc> {0} 派系的选手 {2} 在竞赛中获胜。他以 {3} 的分数胜出。\n奖品为 {4} 白银，且获得参赛所需技能的经验。</Competitions_WinnerDesc>
+  <Competitions_WinnerTitle>Competition Results</Competitions_WinnerTitle>
+  <Competitions_JustEndTitle>竞赛已结束</Competitions_JustEndTitle>
+  <Competitions_JustEndDesc>于 {0} 内举办的竞赛已结束，你未参与其中。</Competitions_JustEndDesc>
+  <EnterToCompetitions>Participate</EnterToCompetitions>
+  <Competitions_EnterToCompetitionsTitle>竞赛开始!</Competitions_EnterToCompetitionsTitle>
+  <Competitions_EnterToCompetitionsDesc>竞赛开始!\n竞赛将持续3天，你每天都能在分数表上看到派出的参赛选手得分情况</Competitions_EnterToCompetitionsDesc>
+  <WorldObject_Competitions_ScorePlaceHolder>(分)</WorldObject_Competitions_ScorePlaceHolder>
+  <WorldObject_Competitions_YouPlaceHolder>你的参赛者</WorldObject_Competitions_YouPlaceHolder>
+  <CommOption_CompetitionsPaid>贿赂评审(600白银)</CommOption_CompetitionsPaid>
+  <Competitions_AlreadyPaid>已经贿赂过评审了</Competitions_AlreadyPaid>
+  <Competitions_JudgPaidTitle>贿赂评审成功</Competitions_JudgPaidTitle>
+  <Competitions_JudgPaidDesc>你成功贿赂了评审。你的参赛者会获得额外的7分。</Competitions_JudgPaidDesc>
+  <Competitions_NeedToStartForPaid>你首先得参加竞赛</Competitions_NeedToStartForPaid>
+  <Competitions_JudgePaidFailTitle>Judge inspection</Competitions_JudgePaidFailTitle>
+  <Competitions_JudgePaidFailDesc>As a result of the inspection of the judges, it turned out that you bribed them. This will worsen relations with participating factions..</Competitions_JudgePaidFailDesc>
+  <Competitions_JudgePaidReason>judging</Competitions_JudgePaidReason>
+
+  <MassBurialPlace_WhyAffect>plunder of graves</MassBurialPlace_WhyAffect>
+
+  <Quest_PrisonShipAccident_PlaceLabel>Escaped prisoners</Quest_PrisonShipAccident_PlaceLabel>
+  <Quest_PrisonShipAccident_PlaceLabel2>Prison place of transfer</Quest_PrisonShipAccident_PlaceLabel2>
+  <TransferPrisoners>Hand prisoners</TransferPrisoners>
+  <CaravanArrivalAction_TransferPrisoners_SuccessTitle>Prisoner transferred</CaravanArrivalAction_TransferPrisoners_SuccessTitle>
+  <CaravanArrivalAction_TransferPrisoners_SuccessDesc>ЗPrisoner {0} successfully transferred. {1} paid you {2} (sent to your base)</CaravanArrivalAction_TransferPrisoners_SuccessDesc>
+  <Quest_PrisonShipAccident_NCTitle>Prisoners are gone</Quest_PrisonShipAccident_NCTitle>
+  <Quest_PrisonShipAccident_NCDesc>You did not capture a single prisoner, they most likely have already scattered across the planet.</Quest_PrisonShipAccident_NCDesc>
+
+  <CaravanBattlePlacePlace_BattleStarted>The battle has begun</CaravanBattlePlacePlace_BattleStarted>
+  <CaravanBattlePlacePlace_BattleDescription>Your caravan {0} has fought with {1}. If you leave the map, you will be considered losers and some of your settlers may be killed when trying to escape. The victory will be considered the complete destruction of the enemy forces.</CaravanBattlePlacePlace_BattleDescription>
+  <CaravanBattlePlacePlace_Battle_WinnerAITitle>You lose</CaravanBattlePlacePlace_Battle_WinnerAITitle>
+  <CaravanBattlePlacePlace_Battle_WinnerAIDesc>The enemy won in this battle</CaravanBattlePlacePlace_Battle_WinnerAIDesc>
+  <CaravanBattlePlacePlace_Battle_WinnerPlayerTitle>You won</CaravanBattlePlacePlace_Battle_WinnerPlayerTitle>
+  <CaravanBattlePlacePlace_Battle_WinnerPlayerDesc>You were able to defeat the enemy and win the battle!</CaravanBattlePlacePlace_Battle_WinnerPlayerDesc>
+  <CaravanBattlePlacePlace_Deserting>{0} was killed while escaping from the battlefield</CaravanBattlePlacePlace_Deserting>
+
 </LanguageData>
