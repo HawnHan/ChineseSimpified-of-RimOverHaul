@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AshesWater.label>Ashes water</AshesWater.label>
-  <AshesWater.description>The special herbs and ashes from the nuclear bombardment jungle dissolved in Go-juice cause a short-term effect of superhigh regeneration with powerful side effects, but if your colonist is about to die in a couple of hours, this is the only way.</AshesWater.description>
-  <AshesWater.ingestible.ingestCommandString>Take {0}</AshesWater.ingestible.ingestCommandString>
-  <AshesWater.ingestible.ingestReportString>Taking {0}.</AshesWater.ingestible.ingestReportString>
+  <AshesWater.label>烬源</AshesWater.label>
+  <AshesWater.description>经历核轰炸丛林中的特殊药草和灰烬，于汽油中溶解制成。服用后短期内再生能力急剧增长，具有极强的副作用，但若你的殖民者濒临死亡，那也别无选择吧。</AshesWater.description>
+  <AshesWater.ingestible.ingestCommandString>服用 {0}</AshesWater.ingestible.ingestCommandString>
+  <AshesWater.ingestible.ingestReportString>正在服用 {0}。</AshesWater.ingestible.ingestReportString>
 
 
 </LanguageData>

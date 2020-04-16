@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Amita.label>amita</Amita.label>
-  <Amita.description>The drink combines the famous berries stimulants, as well as some brought from their distant worlds. It invigorates well, but causes instant dependence.</Amita.description>
-  <Amita.ingestible.ingestCommandString>Drink {0}</Amita.ingestible.ingestCommandString>
-  <Amita.ingestible.ingestReportString>Drinking {0}.</Amita.ingestible.ingestReportString>
+  <Amita.label>阿米它</Amita.label>
+  <Amita.description>该饮品以出名的浆果兴奋剂和一些偏远世界的兴奋成分杂合。具有解乏振奋的效果，但会立即成瘾。</Amita.description>
+  <Amita.ingestible.ingestCommandString>饮用 {0}</Amita.ingestible.ingestCommandString>
+  <Amita.ingestible.ingestReportString>正在饮用 {0}。</Amita.ingestible.ingestReportString>
 
 
 </LanguageData>

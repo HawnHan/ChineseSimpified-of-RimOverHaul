@@ -3,14 +3,14 @@
 
   <!-- Doors -->
 
-  <ElectricUnbreakableDoor.label>door</ElectricUnbreakableDoor.label>
-  <ElectricUnbreakableDoor.description>A door with a special mechanism that locks the door while there is electricity.</ElectricUnbreakableDoor.description>
+  <ElectricUnbreakableDoor.label>固化门</ElectricUnbreakableDoor.label>
+  <ElectricUnbreakableDoor.description>配有特殊装置的门，通电时自动上锁。</ElectricUnbreakableDoor.description>
 
-  <ElectricUnbreakableWall.label>wall</ElectricUnbreakableWall.label>
-  <ElectricUnbreakableWall.description>An electrified wall that prevents it from being hit due to high voltage.</ElectricUnbreakableWall.description>
+  <ElectricUnbreakableWall.label>坚垒</ElectricUnbreakableWall.label>
+  <ElectricUnbreakableWall.description>一堵通电后的墙，表面的高压电能防止任何伤害。</ElectricUnbreakableWall.description>
 
-  <VibraniumWall.label>wall</VibraniumWall.label>
-  <VibraniumWall.description>Wall of vibranium. Absorbs up to 90% of damage from shots and explosions.</VibraniumWall.description>
+  <VibraniumWall.label>振金墙</VibraniumWall.label>
+  <VibraniumWall.description>用振金制成的墙。能吸收90%以上由子弹和爆炸造成的伤害。</VibraniumWall.description>
 
   <CorrosiumWall.label>wall</CorrosiumWall.label>
   <CorrosiumWall.description>Wall of Corrosium. Increases Your Maximum Health Over Time.</CorrosiumWall.description>

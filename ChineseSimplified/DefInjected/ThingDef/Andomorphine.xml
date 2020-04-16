@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Andomorphine.label>Andomorphine</Andomorphine.label>
-  <Andomorphine.description>A potent drug from the opium group, obtained synthetically, causing large-scale changes in brain functions in the consumer. When used, it blocks pain receptors and covers the body of the spruce with a noticeable layer of mechanites, which serve to protect against injuries and rapid regeneration. The drug cannot be removed from the body and it must be used throughout the rest of life to prevent irreversible changes in the body.</Andomorphine.description>
-
-
-  <!--<Andomorphine.ingestible.ingestCommandString>Take {0}</Andomorphine.ingestible.ingestCommandString>-->
-  <!--<Andomorphine.ingestible.ingestReportString>Taking {0}.</Andomorphine.ingestible.ingestReportString>-->
+  <Andomorphine.label>安多吗啡</Andomorphine.label>
+  <Andomorphine.description>一种从贩毒组织流出的人工合成强力药剂，能大幅改变使用者脑部构造。\n服用后，阻碍痛觉受体传递信号并在身体表面覆盖一层整齐显眼的纳米机器人用于伤害防护和肌体快速再生。\n一旦服用，药性无法移除，从今往后只能坚持服用以避免失衡对身体造成不可逆转的损伤。</Andomorphine.description>
 
 </LanguageData>

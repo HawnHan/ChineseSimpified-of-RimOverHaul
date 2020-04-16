@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MaxBrain.label>Drug 'boost your brain'</MaxBrain.label>
-  <MaxBrain.description>A home-made drug made from extracts of psycholist and Devil's mushroom is designed for short-term improvement in brain function and consciousness. When taking the drug for two to three days, it significantly increases the speed of mental work, concentration and mental stability. If consumed more than 1 time per month, addiction to the drug can occur, which is fraught with serious consequences that are difficult to overcome.</MaxBrain.description>
-  <MaxBrain.ingestible.ingestCommandString>Take {0}</MaxBrain.ingestible.ingestCommandString>
-  <MaxBrain.ingestible.ingestReportString>Taking {0}.</MaxBrain.ingestible.ingestReportString>
+  <MaxBrain.label>强脑剂</MaxBrain.label>
+  <MaxBrain.description>一种由精神叶和恶魔菇的提取物制成的常备药剂，主要功效是在短期内增强大脑能力及意识。服下药剂两到三天后，会显著提高有关智力方面的工作速度，专注度及情绪稳定力。\n若每月服用次数多于一次，则容易成瘾，瘾性强，戒断的难度和风险高。</MaxBrain.description>
+  <MaxBrain.ingestible.ingestCommandString>服用 {0}</MaxBrain.ingestible.ingestCommandString>
+  <MaxBrain.ingestible.ingestReportString>正在服用 {0}。</MaxBrain.ingestible.ingestReportString>
 
 
 </LanguageData>

@@ -1,44 +1,80 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <InvitationAlliance.label>Присоединение фракции к альянсу</InvitationAlliance.label>
-  <InvitationAlliance.Pages.0.Title>Приветствую вас.</InvitationAlliance.Pages.0.Title>
-  <InvitationAlliance.Pages.0.Text>- Не стану тратить ваше время зря и перейду к делу. У нас есть деловое предложение к вам.</InvitationAlliance.Pages.0.Text>
-  <InvitationAlliance.Pages.0.Options.0.Label>DiscussСollaboration</InvitationAlliance.Pages.0.Options.0.Label>
-  <InvitationAlliance.Pages.0.Options.1.Label>EndCooms</InvitationAlliance.Pages.0.Options.1.Label>
-  <InvitationAlliance.Pages.1.Title>Что вы можете нам предложить?</InvitationAlliance.Pages.1.Title>
-  <InvitationAlliance.Pages.1.Text>- Расскажите по подробнее, я не хочу тратить время на пустые разговоры.</InvitationAlliance.Pages.1.Text>
-  <InvitationAlliance.Pages.1.Options.0.Label>MilitaryExercises</InvitationAlliance.Pages.1.Options.0.Label>
-  <InvitationAlliance.Pages.1.Options.1.Label>GivePresent</InvitationAlliance.Pages.1.Options.1.Label>
-  <InvitationAlliance.Pages.1.Options.2.Label>OfferHelp</InvitationAlliance.Pages.1.Options.2.Label>
-  <InvitationAlliance.Pages.1.Options.3.Label>CallForUnity</InvitationAlliance.Pages.1.Options.3.Label>
-  <InvitationAlliance.Pages.1.Options.4.Label>EndCooms</InvitationAlliance.Pages.1.Options.4.Label>
-  <InvitationAlliance.Pages.2.Title>Учения?</InvitationAlliance.Pages.2.Title>
-  <InvitationAlliance.Pages.2.Text>- Дело в том что мы не планировали каких либо маневров в ближайшее время. Ни к чему тратить на это силы, хотя помощь не будет лишней.</InvitationAlliance.Pages.2.Text>
-  <InvitationAlliance.Pages.2.Options.0.Label>DiscussHostileGroups</InvitationAlliance.Pages.2.Options.0.Label>
-  <InvitationAlliance.Pages.2.Options.1.Label>MilitaryAssistance</InvitationAlliance.Pages.2.Options.1.Label>
-  <InvitationAlliance.Pages.2.Options.2.Label>EndCooms</InvitationAlliance.Pages.2.Options.2.Label>
-  <InvitationAlliance.Pages.3.Title>Деньги?</InvitationAlliance.Pages.3.Title>
-  <InvitationAlliance.Pages.3.Text>- Мы действительно переживаем не лучшие времена, но разве это может повлиять на нашу независимость?</InvitationAlliance.Pages.3.Text>
-  <InvitationAlliance.Pages.3.Options.0.Label>SeekLoyalty</InvitationAlliance.Pages.3.Options.0.Label>
-  <InvitationAlliance.Pages.3.Options.1.Label>DiscussTrade</InvitationAlliance.Pages.3.Options.1.Label>
-  <InvitationAlliance.Pages.3.Options.2.Label>EndCooms</InvitationAlliance.Pages.3.Options.2.Label>
-  <InvitationAlliance.Pages.4.Title>Помощь? Говорите громче!</InvitationAlliance.Pages.4.Title>
-  <InvitationAlliance.Pages.4.Text>- В последнее время участились атаки враждебных пиратских групп, нарушающих покой всех, кому не посчастливилось оказаться рядом. Мы действительно нуждаемся в некоторой материальной помощи для борьбы с этим.</InvitationAlliance.Pages.4.Text>
-  <InvitationAlliance.Pages.4.Options.0.Label>Aid</InvitationAlliance.Pages.4.Options.0.Label>
-  <InvitationAlliance.Pages.4.Options.1.Label>ConfidentialConversation</InvitationAlliance.Pages.4.Options.1.Label>
-  <InvitationAlliance.Pages.4.Options.2.Label>EndCooms</InvitationAlliance.Pages.4.Options.2.Label>
-  <InvitationAlliance.Pages.5.Title>Воодушевляюще, но...</InvitationAlliance.Pages.5.Title>
-  <InvitationAlliance.Pages.5.Text>- Несмотря на опасности и угрозу со стороны соседей, мы не испытываем нужду в объединении с вами.</InvitationAlliance.Pages.5.Text>
-  <InvitationAlliance.Pages.5.Options.0.Label>FierySpeech</InvitationAlliance.Pages.5.Options.0.Label>
-  <InvitationAlliance.Pages.5.Options.1.Label>MenacingWhispers</InvitationAlliance.Pages.5.Options.1.Label>
-  <InvitationAlliance.Pages.5.Options.2.Label>EndCooms</InvitationAlliance.Pages.5.Options.2.Label>
-  <InvitationAlliance.Pages.6.Title>Занимательно...</InvitationAlliance.Pages.6.Title>
-  <InvitationAlliance.Pages.6.Text>- Судя по всему, вы действительно намерены вести продуктивное сотрудничество, а мы просто не можем ответить вам отказом.</InvitationAlliance.Pages.6.Text>
-  <InvitationAlliance.Pages.6.Options.0.Label>EndCooms</InvitationAlliance.Pages.6.Options.0.Label>
-  <InvitationAlliance.Pages.7.Title>Бессмысленный треп!</InvitationAlliance.Pages.7.Title>
-  <InvitationAlliance.Pages.7.Text>- Хотя вы и зарекомендовали себя, как группа настойчивых людей, мы не можем воспринимать ваши слова в серьез.</InvitationAlliance.Pages.7.Text>
-  <InvitationAlliance.Pages.7.Options.0.Label>EndCooms</InvitationAlliance.Pages.7.Options.0.Label>
+	<InvitationAlliance.Pages.page1.Title>打招呼</InvitationAlliance.Pages.page1.Title>
+	<InvitationAlliance.Pages.page1.Text>- “我不想无谓的浪费你的时间，开门见山吧，我想跟你谈一笔生意。”</InvitationAlliance.Pages.page1.Text>
+	<InvitationAlliance.Pages.page1.Options.DiscussСollaboration.Label>商讨合作</InvitationAlliance.Pages.page1.Options.DiscussСollaboration.Label>
+	<InvitationAlliance.Pages.page1.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page1.Options.EndCooms.Label>
+	<InvitationAlliance.Pages.page1.Options.DiscussСollaboration.Conditions.skillReq1.DisableReason>需8级社交技能</InvitationAlliance.Pages.page1.Options.DiscussСollaboration.Conditions.skillReq1.DisableReason>
+
+	<InvitationAlliance.Pages.page2.Title>你能为我们提供什么帮助？</InvitationAlliance.Pages.page2.Title>
+	<InvitationAlliance.Pages.page2.Text>- 详述一下，我不想把时间浪费在无意义的空谈里。</InvitationAlliance.Pages.page2.Text>
+	<InvitationAlliance.Pages.page2.Options.MilitaryExercises.Label>邀请共进军事演练</InvitationAlliance.Pages.page2.Options.MilitaryExercises.Label>
+	<InvitationAlliance.Pages.page2.Options.GivePresent.Label>赠礼</InvitationAlliance.Pages.page2.Options.GivePresent.Label>
+	<InvitationAlliance.Pages.page2.Options.OfferHelp.Label>许诺援助</InvitationAlliance.Pages.page2.Options.OfferHelp.Label>
+	<InvitationAlliance.Pages.page2.Options.CallForUnity.Label>邀请结盟</InvitationAlliance.Pages.page2.Options.CallForUnity.Label>
+	<InvitationAlliance.Pages.page2.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page2.Options.EndCooms.Label>
+	<InvitationAlliance.Pages.page2.Options.MilitaryExercises.Conditions.skillReq2.DisableReason>需8级社交技能</InvitationAlliance.Pages.page2.Options.MilitaryExercises.Conditions.skillReq2.DisableReason>
+	<InvitationAlliance.Pages.page2.Options.MilitaryExercises.Conditions.traitReq1.DisableReason>需要特性:嗜血</InvitationAlliance.Pages.page2.Options.MilitaryExercises.Conditions.traitReq1.DisableReason>
+	<InvitationAlliance.Pages.page2.Options.GivePresent.Conditions.skillReq3.DisableReason>需10级社交技能</InvitationAlliance.Pages.page2.Options.GivePresent.Conditions.skillReq3.DisableReason>
+	<InvitationAlliance.Pages.page2.Options.GivePresent.Conditions.itemReq1.DisableReason>需1000白银</InvitationAlliance.Pages.page2.Options.GivePresent.Conditions.itemReq1.DisableReason>
+	<InvitationAlliance.Pages.page2.Options.OfferHelp.Conditions.skillReq4.DisableReason>需12级社交技能</InvitationAlliance.Pages.page2.Options.OfferHelp.Conditions.skillReq4.DisableReason>
+	<InvitationAlliance.Pages.page2.Options.OfferHelp.Conditions.traitReq2.DisableReason>需要特性:善良</InvitationAlliance.Pages.page2.Options.OfferHelp.Conditions.traitReq2.DisableReason>
+	<InvitationAlliance.Pages.page2.Options.CallForUnity.Conditions.skillReq5.DisableReason>需15级社交技能</InvitationAlliance.Pages.page2.Options.CallForUnity.Conditions.skillReq5.DisableReason>
+
+	<InvitationAlliance.Pages.page3.Title>军事演练?</InvitationAlliance.Pages.page3.Title>
+	<InvitationAlliance.Pages.page3.Text>- 事实上军事演练不在我们近期的计划内。因此你的好意我心领了，但我不想耗费精力在演练上。</InvitationAlliance.Pages.page3.Text>
+	<InvitationAlliance.Pages.page3.Options.DiscussHostileGroups.Label>共议敌系</InvitationAlliance.Pages.page3.Options.DiscussHostileGroups.Label>
+	<InvitationAlliance.Pages.page3.Options.MilitaryAssistance.Label>许诺军事支援</InvitationAlliance.Pages.page3.Options.MilitaryAssistance.Label>
+	<InvitationAlliance.Pages.page3.Options.OfferHelp.Label>许诺援助</InvitationAlliance.Pages.page3.Options.OfferHelp.Label>
+	<InvitationAlliance.Pages.page3.Options.CallForUnity.Label>邀请结盟</InvitationAlliance.Pages.page3.Options.CallForUnity.Label>
+	<InvitationAlliance.Pages.page3.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page3.Options.EndCooms.Label>
+	<InvitationAlliance.Pages.page3.Options.DiscussHostileGroups.Conditions.skillReq6.DisableReason>需8级格斗技能</InvitationAlliance.Pages.page3.Options.DiscussHostileGroups.Conditions.skillReq6.DisableReason>
+	<InvitationAlliance.Pages.page3.Options.MilitaryAssistance.Conditions.skillReq7.DisableReason>需10级社交技能</InvitationAlliance.Pages.page3.Options.MilitaryAssistance.Conditions.skillReq7.DisableReason>
+	<InvitationAlliance.Pages.page3.Options.MilitaryAssistance.Conditions.itemReq3>需300白银</InvitationAlliance.Pages.page3.Options.MilitaryAssistance.Conditions.itemReq3>
+
+	<InvitationAlliance.Pages.page4.Title>金钱?</InvitationAlliance.Pages.page4.Title>
+	<InvitationAlliance.Pages.page4.Text>- 我们确实处于困难时期，但你这个举动是否有其他意思？比如，想要影响我们的自主权？</InvitationAlliance.Pages.page4.Text>
+	<InvitationAlliance.Pages.page4.Options.SeekLoyalty.Label>要求忠诚誓言</InvitationAlliance.Pages.page4.Options.SeekLoyalty.Label>
+	<InvitationAlliance.Pages.page4.Options.MilitaryAssistance.Label>许诺军事支援</InvitationAlliance.Pages.page4.Options.MilitaryAssistance.Label>
+	<InvitationAlliance.Pages.page4.Options.OfferHelp.Label>许诺援助</InvitationAlliance.Pages.page4.Options.OfferHelp.Label>
+	<InvitationAlliance.Pages.page4.Options.CallForUnity.Label>邀请结盟</InvitationAlliance.Pages.page4.Options.CallForUnity.Label>
+	<InvitationAlliance.Pages.page4.Options.DiscussTrade.Label>贸易请求</InvitationAlliance.Pages.page4.Options.DiscussTrade.Label>
+	<InvitationAlliance.Pages.page4.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page4.Options.EndCooms.Label>
+	<InvitationAlliance.Pages.page4.Options.SeekLoyalty.Conditions.skillReq8.DisableReason>需13级社交技能</InvitationAlliance.Pages.page4.Options.SeekLoyalty.Conditions.skillReq8.DisableReason>
+	<InvitationAlliance.Pages.page4.Options.SeekLoyalty.Conditions.traitReq3.DisableReason>需要特性:意志如钢</InvitationAlliance.Pages.page4.Options.SeekLoyalty.Conditions.traitReq3.DisableReason>
+	<InvitationAlliance.Pages.page4.Options.DiscussTrade.Conditions.skillReq9.DisableReason>需10级社交技能</InvitationAlliance.Pages.page4.Options.DiscussTrade.Conditions.skillReq9.DisableReason>
+	<InvitationAlliance.Pages.page4.Options.DiscussTrade.Conditions.itemReq4>需1000白银</InvitationAlliance.Pages.page4.Options.DiscussTrade.Conditions.itemReq4>
+
+	<InvitationAlliance.Pages.page5.Title>援助?明确一点!</InvitationAlliance.Pages.page5.Title>
+	<InvitationAlliance.Pages.page5.Text>- 最近这段时间，敌对海盗的袭击愈发频繁，打破了事发地那些不幸人民的和平。我们真的紧缺度过难关的物资。</InvitationAlliance.Pages.page5.Text>
+	<InvitationAlliance.Pages.page5.Options.Aid.Label>许诺人道救援</InvitationAlliance.Pages.page5.Options.Aid.Label>
+	<InvitationAlliance.Pages.page5.Options.MilitaryAssistance.Label>许诺军事支援</InvitationAlliance.Pages.page5.Options.MilitaryAssistance.Label>
+	<InvitationAlliance.Pages.page5.Options.ConfidentialConversation.Label>私人性质对话</InvitationAlliance.Pages.page5.Options.ConfidentialConversation.Label>
+	<InvitationAlliance.Pages.page5.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page5.Options.EndCooms.Label>
+	<InvitationAlliance.Pages.page5.Options.Aid.Conditions.skillReq10.DisableReason>需12级社交技能</InvitationAlliance.Pages.page5.Options.Aid.Conditions.skillReq10.DisableReason>
+	<InvitationAlliance.Pages.page5.Options.Aid.Conditions.itemReq5>需10份包装生存食品</InvitationAlliance.Pages.page5.Options.Aid.Conditions.itemReq5>
+	<InvitationAlliance.Pages.page5.Options.Aid.Conditions.itemReq6>需5份医药</InvitationAlliance.Pages.page5.Options.Aid.Conditions.itemReq6>
+	<InvitationAlliance.Pages.page5.Options.ConfidentialConversation.Conditions.skillReq11.DisableReason>需14级社交技能</InvitationAlliance.Pages.page5.Options.ConfidentialConversation.Conditions.skillReq11.DisableReason>
+	<InvitationAlliance.Pages.page5.Options.ConfidentialConversation.Conditions.traitReq4.DisableReason>需要特性:沉鱼落雁</InvitationAlliance.Pages.page5.Options.ConfidentialConversation.Conditions.traitReq4.DisableReason>
+
+	<InvitationAlliance.Pages.page6.Title>Inspiring, but ...</InvitationAlliance.Pages.page6.Title>
+	<InvitationAlliance.Pages.page6.Text>- 尽管危机四伏，但我们觉得不必非要与你结盟。</InvitationAlliance.Pages.page6.Text>
+	<InvitationAlliance.Pages.page6.Options.MenacingWhispers.Label>低声威胁</InvitationAlliance.Pages.page6.Options.MenacingWhispers.Label>
+	<InvitationAlliance.Pages.page6.Options.FierySpeech.Label>Fiery speech</InvitationAlliance.Pages.page6.Options.FierySpeech.Label>
+	<InvitationAlliance.Pages.page6.Options.ConfidentialConversation.Label>私人性质对话</InvitationAlliance.Pages.page6.Options.ConfidentialConversation.Label>
+	<InvitationAlliance.Pages.page6.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page6.Options.EndCooms.Label>
+	<InvitationAlliance.Pages.page6.Options.MenacingWhispers.Conditions.skillReq12.DisableReason>需15级社交技能</InvitationAlliance.Pages.page6.Options.MenacingWhispers.Conditions.skillReq12.DisableReason>
+	<InvitationAlliance.Pages.page6.Options.MenacingWhispers.Conditions.traitReq5.DisableReason>需要特性:神经质</InvitationAlliance.Pages.page6.Options.MenacingWhispers.Conditions.traitReq5.DisableReason>
+	<InvitationAlliance.Pages.page6.Options.FierySpeech.Conditions.skillReq13.DisableReason>需17级社交技能</InvitationAlliance.Pages.page6.Options.FierySpeech.Conditions.skillReq13.DisableReason>
+
+	<InvitationAlliance.Pages.page7.Title>Interesting ...</InvitationAlliance.Pages.page7.Title>
+	<InvitationAlliance.Pages.page7.Text>- Apparently, you really intend to conduct productive cooperation, and we simply cannot refuse you.</InvitationAlliance.Pages.page7.Text>
+	<InvitationAlliance.Pages.page7.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page7.Options.EndCooms.Label>
+	
+	<InvitationAlliance.Pages.page8.Title>Pointless chatter!</InvitationAlliance.Pages.page8.Title>
+	<InvitationAlliance.Pages.page8.Text>- Although you have established yourself as a group of persistent people, we cannot take your words seriously.</InvitationAlliance.Pages.page8.Text>
+	<InvitationAlliance.Pages.page8.Options.EndCooms.Label>结束对话</InvitationAlliance.Pages.page8.Options.EndCooms.Label>
 
 
 </LanguageData>

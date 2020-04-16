@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Apparel_HealShield.label>Asclepius's Belt</Apparel_HealShield.label>
-  <Apparel_HealShield.description>A piece of clothing created from hyper tissue and controlled by pain signals. In case of injury, the mechanites located in the belt are sent to the wound site, stopping the bleeding. However, the belt limit is limited by the number of mechanites that are destroyed after each use.</Apparel_HealShield.description>
-
+  <Apparel_HealShield.label>医神腰带</Apparel_HealShield.label>
+  <Apparel_HealShield.description>用超织物制成的衣物，以疼痛信号开关。一旦受伤，腰带内的纳米机器人就会传至伤口止血。\n可惜，腰带的缺点在于内置的纳米机器人数量有限，且为用后即毁的一次性纳米机器人。</Apparel_HealShield.description>
 
 </LanguageData>

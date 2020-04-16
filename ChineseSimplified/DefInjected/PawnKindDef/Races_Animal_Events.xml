@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BattleRam.label>战争羊</BattleRam.label>
-  <BattleRam.labelPlural>战争羊</BattleRam.labelPlural>
-  <BattleRam.labelMale>雄性战争羊</BattleRam.labelMale>
-  <BattleRam.labelMalePlural>雄性战争羊</BattleRam.labelMalePlural>
-  <BattleRam.labelFemale>雌性战争羊</BattleRam.labelFemale>
-  <BattleRam.labelFemalePlural>雌性战争羊</BattleRam.labelFemalePlural>
+  <BattleRam.label>战争独角仙</BattleRam.label>
+  <BattleRam.labelPlural>战争独角仙</BattleRam.labelPlural>
+  <BattleRam.labelMale>雄性战争独角仙</BattleRam.labelMale>
+  <BattleRam.labelMalePlural>雄性战争独角仙</BattleRam.labelMalePlural>
+  <BattleRam.labelFemale>雌性战争独角仙</BattleRam.labelFemale>
+  <BattleRam.labelFemalePlural>雌性战争独角仙</BattleRam.labelFemalePlural>
 
-  <Goliath.label>巨兽</Goliath.label>
-  <Goliath.labelPlural>巨兽</Goliath.labelPlural>
-  <Goliath.labelMale>雄性巨兽</Goliath.labelMale>
-  <Goliath.labelMalePlural>雄性巨兽</Goliath.labelMalePlural>
-  <Goliath.labelFemale>雌性巨兽</Goliath.labelFemale>
-  <Goliath.labelFemalePlural>雌性巨兽</Goliath.labelFemalePlural>
+  <Goliath.label>哥利亚</Goliath.label>
+  <Goliath.labelPlural>哥利亚</Goliath.labelPlural>
+  <Goliath.labelMale>雄性哥利亚</Goliath.labelMale>
+  <Goliath.labelMalePlural>雄性哥利亚</Goliath.labelMalePlural>
+  <Goliath.labelFemale>雌性哥利亚</Goliath.labelFemale>
+  <Goliath.labelFemalePlural>雌性哥利亚</Goliath.labelFemalePlural>
 
   <Bombardier.label>喷溅兽</Bombardier.label>
   <Bombardier.labelPlural>喷溅兽</Bombardier.labelPlural>

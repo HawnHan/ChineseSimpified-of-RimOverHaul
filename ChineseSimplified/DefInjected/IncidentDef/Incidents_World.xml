@@ -144,7 +144,7 @@
   <!-- Событие: Нападение на дружественное поселение -->
 
   <AttackFriendlySettlement.label>友军基地遇袭</AttackFriendlySettlement.label>
-  <AttackFriendlySettlement.letterText>一名盟友的侦查员报告说，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。</AttackFriendlySettlement.letterText>
+  <AttackFriendlySettlement.letterText>一名盟友的侦查员报告道，其中一个敌对派系准备袭击他们的定居点。他们请求你帮助他们一起进行防御。</AttackFriendlySettlement.letterText>
   <AttackFriendlySettlement.letterLabel>友军基地遇袭</AttackFriendlySettlement.letterLabel>
 
 
@@ -186,7 +186,7 @@
   <!-- Событие: Поджигатели -->
 
   <Arsonists.label>纵火犯</Arsonists.label>
-  <Arsonists.letterText>几名敌方派系的战士已到达并准备烧毁你的森林。</Arsonists.letterText>
+  <Arsonists.letterText>几名敌方派系的战士已抵达，准备纵火焚树。</Arsonists.letterText>
   <Arsonists.letterLabel>纵火犯</Arsonists.letterLabel>
 
 
@@ -344,7 +344,7 @@
   <!-- Событие: Активная звезда -->
 
   <ActiveStar.label>活跃恒星</ActiveStar.label>
-  <ActiveStar.letterText>The main star in your system is very active, it throws out powerful bursts of energy that cause fever and burns to everyone who is in the open during a burst.</ActiveStar.letterText>
+  <ActiveStar.letterText>所处星系的主恒星过度活跃，迸发出极强的热能，处于户外会导致中暑甚至The main star in your system is very active, it throws out powerful bursts of energy that cause fever and burns to everyone who is in the open during a burst.</ActiveStar.letterText>
   <ActiveStar.letterLabel>活跃恒星</ActiveStar.letterLabel>
 
 
@@ -357,11 +357,9 @@
 
   <!-- Событие: Массовое захоронение -->
 
-  <MassBurial.label>Mass burial</MassBurial.label>
-  <MassBurial.letterText>Your caravan has discovered an mass grave. According to the patch of one of the corpses, it is clear that this is the burial of the fraction {0}.
-
-If you enter it, then your relationship with the faction will be reduced, and they will most likely send a group.</MassBurial.letterText>
-  <MassBurial.letterLabel>Mass burial</MassBurial.letterLabel>
+  <MassBurial.label>大型墓地</MassBurial.label>
+  <MassBurial.letterText>你的远征队发现了一处大型墓地。通过辨认一具尸体上的狗牌残片，知晓了此处是 {0} 派系的墓地。\n若你选择进入此地，与该派系的关系会下降，且他们极有可能安排一个小队前来"问候"。</MassBurial.letterText>
+  <MassBurial.letterLabel>大型墓地</MassBurial.letterLabel>
 
 
   <!-- Событие: Место битвы -->

@@ -1,55 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- <ThingDef ParentName="ResourceBase">
-		<defName>TestStuff</defName>
-		<label>TestStuff</label>
-		<description>TestStuff</description>
-		<graphicData>
-			<texPath>Things/Resources/IronIngot</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<soundInteract>Metal_Drop</soundInteract>
-		<soundDrop>Metal_Drop</soundDrop>
-		<tickerType>Normal</tickerType>
-		<statBases>
-			<MarketValue>3.6</MarketValue>
-			<Mass>0.5</Mass>
-			<StuffPower_Armor_Sharp>0.8</StuffPower_Armor_Sharp>
-			<StuffPower_Armor_Blunt>0.34</StuffPower_Armor_Blunt>
-			<StuffPower_Armor_Heat>0.5</StuffPower_Armor_Heat>
-			<StuffPower_Insulation_Cold>5</StuffPower_Insulation_Cold>
-			<StuffPower_Insulation_Heat>5</StuffPower_Insulation_Heat>
-			<SharpDamageMultiplier>1</SharpDamageMultiplier>
-			<BluntDamageMultiplier>1</BluntDamageMultiplier>
-		</statBases>
-		<useHitPoints>false</useHitPoints>
-		<thingCategories>
-			<li>ResourcesRaw</li>
-		</thingCategories>
-		<comps>
-			<li Class="RimOverhaul.Things.CompProperties_Test"/>
-		</comps>
-		<stuffProps>
-			<categories>
-				<li>Metallic</li>
-			</categories>
-			<commonality>1.00</commonality>
-			<constructEffect>ConstructMetal</constructEffect>
-			<color>(130,130,130)</color>
-			<soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
-			<soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
-			<soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
-			<statFactors>
-				<MaxHitPoints>1.8</MaxHitPoints>
-				<Beauty>0.6</Beauty>
-				<Flammability>0.1</Flammability>
-				<WorkToMake>1.2</WorkToMake>
-			</statFactors>
-			<smeltable>true</smeltable>
-		</stuffProps>
-	</ThingDef> -->
-
   <IronOre.label>铁矿</IronOre.label>
   <IronOre.description>地球上是占比最多的元素，为地球外核和内地核的主要成分。它也是地壳中含量第四多的元素。\n平滑的纯铁表面为如镜般的银灰色。但铁容易与氧和水反应，产生棕色或黑色的水合铁离子，就是俗称的铁锈。不同于其他金属会产生钝化层的氧化物，铁锈拥有的体积大于原本的金属，因而容易剥落，露出新的表面继续锈蚀。\n可在简易熔炉中冶炼铁。</IronOre.description>
 
@@ -147,25 +98,5 @@ Material with a very mysterious story. It is not known exactly where it came fro
 
   <Cryotium.label>Cryotium</Cryotium.label>
   <Cryotium.description>This material is formed by compression of the same name gas under high pressure. The substance exudes cold and is quite brittle and the melting point is 10 degrees. In a sealed room, the properties of cryotium reveal in full force. The material is able to bring temperature in its environment to absolute zero, gradually getting damaged.</Cryotium.description>
-
-
-  <!--<IronIngot.stuffProps.stuffAdjective>铁</IronIngot.stuffProps.stuffAdjective>-->
-  <!--<CopperIngot.stuffProps.stuffAdjective>铜</CopperIngot.stuffProps.stuffAdjective>-->
-  <!--<CobaltIngot.stuffProps.stuffAdjective>钴</CobaltIngot.stuffProps.stuffAdjective>-->
-  <!--<IlmeniteIngot.stuffProps.stuffAdjective>钛</IlmeniteIngot.stuffProps.stuffAdjective>-->
-  <!--<Chromium.stuffProps.stuffAdjective>铬</Chromium.stuffProps.stuffAdjective>-->
-  <!--<Vibranium.stuffProps.stuffAdjective>Vibranium</Vibranium.stuffProps.stuffAdjective>-->
-  <!--<Adamantium.stuffProps.stuffAdjective>Adamantium</Adamantium.stuffProps.stuffAdjective>-->
-  <!--<MetalFB.stuffProps.stuffAdjective>Metal FB-15</MetalFB.stuffProps.stuffAdjective>-->
-  <!--<Computerium_DenceMolStruct.stuffProps.stuffAdjective>Computerium (dense molecular structure)</Computerium_DenceMolStruct.stuffProps.stuffAdjective>-->
-  <!--<Computerium_SupereMolStruct.stuffProps.stuffAdjective>Computerium (superdense molecular structure)</Computerium_SupereMolStruct.stuffProps.stuffAdjective>-->
-  <!--<Computerium_DynamicMolStruct.stuffProps.stuffAdjective>Computerium (dynamic molecular structure)</Computerium_DynamicMolStruct.stuffProps.stuffAdjective>-->
-  <!--<Transparisteel.stuffProps.stuffAdjective>Transparisteel</Transparisteel.stuffProps.stuffAdjective>-->
-  <!--<Neutronium.stuffProps.stuffAdjective>Neutronium</Neutronium.stuffProps.stuffAdjective>-->
-  <!--<ShockCrystals.stuffProps.stuffAdjective>Shock crystals</ShockCrystals.stuffProps.stuffAdjective>-->
-  <!--<Ferotium.stuffProps.stuffAdjective>Ferotium</Ferotium.stuffProps.stuffAdjective>-->
-  <!--<Corrosium.stuffProps.stuffAdjective>Corrosium</Corrosium.stuffProps.stuffAdjective>-->
-  <!--<Pyrotium.stuffProps.stuffAdjective>Pyrotium</Pyrotium.stuffProps.stuffAdjective>-->
-  <!--<Cryotium.stuffProps.stuffAdjective>Cryotium</Cryotium.stuffProps.stuffAdjective>-->
 
 </LanguageData>

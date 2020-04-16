@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CaravanAI.label>caravan</CaravanAI.label>
-  <CaravanAI.description>A group of traveling people.</CaravanAI.description>
+  <CaravanAI.label>远征队</CaravanAI.label>
+  <CaravanAI.description>一队远行的人。</CaravanAI.description>
 
-  <ClimateBombSite.label>气候炸弹位置</ClimateBombSite.label>
-  <ClimateBombSite.description>气候炸弹位置</ClimateBombSite.description>
+  <ClimateBombSite.label>气候炸弹</ClimateBombSite.label>
+  <ClimateBombSite.description>气候炸弹所在地</ClimateBombSite.description>
 
   <SiegeCampSite.label>围攻者基地</SiegeCampSite.label>
-  <SiegeCampSite.description>这是敌人营地。他们将轰炸我们的定居点并会发起突袭，直到我们将其摧毁。</SiegeCampSite.description>
+  <SiegeCampSite.description>此处是敌人营地。他们会不断突袭轰炸我们的定居点，直至前线基地被毁。</SiegeCampSite.description>
 
   <FriendlySettlementHelp.label>遇袭友军基地</FriendlySettlementHelp.label>
-  <FriendlySettlementHelp.description>其敌对派系将在不久后袭击该基地，帮忙守住袭击，你会得到荣誉与奖赏。</FriendlySettlementHelp.description>
+  <FriendlySettlementHelp.description>其敌对派系不久后会袭击该基地，帮忙守住袭击，你会得到荣誉与奖赏。</FriendlySettlementHelp.description>
 
   <DoomsdayUltimatumCamp.label>末日武器位置</DoomsdayUltimatumCamp.label>
   <DoomsdayUltimatumCamp.description>这是拥有未知武器的派系所在地。</DoomsdayUltimatumCamp.description>
@@ -22,23 +22,19 @@
   <ConcantrationCamp.label>集中营</ConcantrationCamp.label>
   <ConcantrationCamp.description>集中营\n被海盗控制的人质极可能在此处</ConcantrationCamp.description>
 
-  <FairPlace.label>Fair</FairPlace.label>
-  <FairPlace.description>You were invited to a fair where there will be a lot of traders (from factions whose relations are either neutral or friendly).</FairPlace.description>
+  <FairPlace.label>展览会</FairPlace.label>
+  <FairPlace.description>你受邀参与一场展览会，许多商贩都会到场(商贩来自中立或盟军派系)。</FairPlace.description>
 
-  <CompetitionsPlace.label>Competitions</CompetitionsPlace.label>
-  <CompetitionsPlace.description>Competition Venue on {0} (required level {1})</CompetitionsPlace.description>
+  <CompetitionsPlace.label>竞赛</CompetitionsPlace.label>
+  <CompetitionsPlace.description>竞赛地点位于 {0} (参赛技能等级需在 {1} 上)</CompetitionsPlace.description>
 
-  <MassBurialPlace.label>Mass burial</MassBurialPlace.label>
-  <MassBurialPlace.description>Mass burial {0}</MassBurialPlace.description>
+  <MassBurialPlace.label>大型墓地</MassBurialPlace.label>
+  <MassBurialPlace.description>{0} 的大型墓地</MassBurialPlace.description>
 
-  <PlaceBattle.label>Place of battle</PlaceBattle.label>
-  <PlaceBattle.description>Place of battle</PlaceBattle.description>
+  <PlaceBattle.label>战场</PlaceBattle.label>
+  <PlaceBattle.description>战场所在地</PlaceBattle.description>
 
-  <CaravanBattlePlace.label>Place of battle</CaravanBattlePlace.label>
-  <CaravanBattlePlace.description>Place of battle with {0}</CaravanBattlePlace.description>
-
-
-  <!--<MassiveFireSite.label>火灾中心点</MassiveFireSite.label>-->
-  <!--<MassiveFireSite.description>火灾中心点</MassiveFireSite.description>-->
+  <CaravanBattlePlace.label>战场</CaravanBattlePlace.label>
+  <CaravanBattlePlace.description>{0} 的战场所在地</CaravanBattlePlace.description>
 
 </LanguageData>

@@ -37,37 +37,13 @@
   <GasHeater.label>天然气供暖器</GasHeater.label>
   <GasHeater.description>天然气供暖设备。它可以全自动开关以到达预设的目标温度。</GasHeater.description>
 
-  <GasSunLamp.label>Gas sun lamp</GasSunLamp.label>
-  <GasSunLamp.description>An advanced industrial lamp used to constantly illuminate the space around.</GasSunLamp.description>
+  <GasSunLamp.label>气动太阳灯</GasSunLamp.label>
+  <GasSunLamp.description>一盏能够持续不断照亮周遭的先进工业化灯。</GasSunLamp.description>
 
-  <GasMine.label>Gas mine</GasMine.label>
-  <GasMine.description>Mine of destructive power achieved through gas expansion.</GasMine.description>
+  <GasMine.label>液化气地雷</GasMine.label>
+  <GasMine.description>利用液化气的爆炸特性制成的强力地雷。</GasMine.description>
 
-  <HydrogenGasMine.label>Hydrogen gas mine</HydrogenGasMine.label>
-  <HydrogenGasMine.description>Mine of destructive power achieved through gas expansion.</HydrogenGasMine.description>
-
-
-  <!--<GasProductionPlant_Blueprint.label>采气厂(蓝图)</GasProductionPlant_Blueprint.label>-->
-  <!--<GasProductionPlant_Frame.label>采气厂(建造中)</GasProductionPlant_Frame.label>-->
-  <!--<GasProductionPlant_Frame.description>它可以将天然气从井中抽出，并将其以可燃天然气的形式注入管道。</GasProductionPlant_Frame.description>-->
-  <!--<GasCooler_Blueprint.label>天然气冷却机(蓝图)</GasCooler_Blueprint.label>-->
-  <!--<GasCooler_Frame.label>天然气冷却机(建造中)</GasCooler_Frame.label>-->
-  <!--<GasCooler_Frame.description>该机器可将传入其中的天然气冷却至160度，生成可大量储存的液化天然气。</GasCooler_Frame.description>-->
-  <!--<SmallGasVault_Blueprint.label>小储气罐(蓝图)</SmallGasVault_Blueprint.label>-->
-  <!--<SmallGasVault_Frame.label>小储气罐(建造中)</SmallGasVault_Frame.label>-->
-  <!--<SmallGasVault_Frame.description>小型液化天然气储罐。</SmallGasVault_Frame.description>-->
-  <!--<BigGasVault_Blueprint.label>大储气罐(蓝图)</BigGasVault_Blueprint.label>-->
-  <!--<BigGasVault_Frame.label>大储气罐(建造中)</BigGasVault_Frame.label>-->
-  <!--<BigGasVault_Frame.description>大型液化天然气储罐。</BigGasVault_Frame.description>-->
-  <!--<GasProcessingStation_Blueprint.label>天然气加工站(蓝图)</GasProcessingStation_Blueprint.label>-->
-  <!--<GasProcessingStation_Frame.label>天然气加工站(建造中)</GasProcessingStation_Frame.label>-->
-  <!--<GasProcessingStation_Frame.description>加工液化天然气为其他气体的站点。</GasProcessingStation_Frame.description>-->
-  <!--<GasTurbine_Blueprint.label>气涡轮机(蓝图)</GasTurbine_Blueprint.label>-->
-  <!--<GasTurbine_Frame.label>气涡轮机(建造中)</GasTurbine_Frame.label>-->
-  <!--<GasTurbine_Frame.description>天然气涡轮机，又称燃气轮机，是一种持续燃烧的内燃机。</GasTurbine_Frame.description>-->
-  <!--<GasHeater_Blueprint.label>天然气供暖器(蓝图)</GasHeater_Blueprint.label>-->
-  <!--<GasHeater_Blueprint_Install.label>天然气供暖器(蓝图)</GasHeater_Blueprint_Install.label>-->
-  <!--<GasHeater_Frame.label>天然气供暖器(建造中)</GasHeater_Frame.label>-->
-  <!--<GasHeater_Frame.description>天然气供暖设备。它可以全自动开关以到达预设的目标温度。</GasHeater_Frame.description>-->
+  <HydrogenGasMine.label>氢气地雷</HydrogenGasMine.label>
+  <HydrogenGasMine.description>利用氢气的爆炸特性制成的强力地雷。</HydrogenGasMine.description>
 
 </LanguageData>

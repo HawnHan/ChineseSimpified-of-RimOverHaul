@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <UnbreakablePowerConduit.label>power conduit</UnbreakablePowerConduit.label>
-  <UnbreakablePowerConduit.description>A bundle of electrical cables for moving power around. Can be placed under walls and other buildings.</UnbreakablePowerConduit.description>
+  <UnbreakablePowerConduit.label>固化电缆</UnbreakablePowerConduit.label>
+  <UnbreakablePowerConduit.description>一捆用于传输电力的电缆。可以安装于墙体，打磨的岩壁和其他建筑之下，但不能埋进山体中。</UnbreakablePowerConduit.description>
 
 
 </LanguageData>

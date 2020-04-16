@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <AbsorbentCarbon.label>Absorbent carbon</AbsorbentCarbon.label>
-  <AbsorbentCarbon.description>A mixture of natural coal processed in a chemical laboratory and converted into tablets. Due to its natural cleansing properties, it is able, when used, to stop food poisoning.</AbsorbentCarbon.description>
-  <AbsorbentCarbon.ingestible.ingestCommandString>Take {0}</AbsorbentCarbon.ingestible.ingestCommandString>
-  <AbsorbentCarbon.ingestible.ingestReportString>Taking {0}.</AbsorbentCarbon.ingestible.ingestReportString>
-
+  <AbsorbentCarbon.label>活性炭丸</AbsorbentCarbon.label>
+  <AbsorbentCarbon.description>天然碳的混合物，在药物试验台加工成片。因其独特的物理特性，能用来治疗食物中毒。</AbsorbentCarbon.description>
+  <AbsorbentCarbon.ingestible.ingestCommandString>服用 {0}</AbsorbentCarbon.ingestible.ingestCommandString>
+  <AbsorbentCarbon.ingestible.ingestReportString>正在服用 {0}。</AbsorbentCarbon.ingestible.ingestReportString>
 
 </LanguageData>

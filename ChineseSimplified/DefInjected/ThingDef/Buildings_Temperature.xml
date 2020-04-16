@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ElectricVent.label>vent</ElectricVent.label>
-  <ElectricVent.description>A vent for equalizing the temperature between two rooms without allowing people to walk between them.</ElectricVent.description>
+  <ElectricVent.label>电通风孔</ElectricVent.label>
+  <ElectricVent.description>一个通风孔，在平衡两个房间的温度同时保持墙体无法通过。</ElectricVent.description>
 
 
   <!--<ElectricVent_Blueprint.label>vent (blueprint)</ElectricVent_Blueprint.label>-->

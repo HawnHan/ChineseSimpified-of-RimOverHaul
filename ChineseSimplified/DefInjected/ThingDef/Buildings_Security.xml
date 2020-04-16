@@ -29,16 +29,4 @@
   <Gun_MicrosingularCannon.label>Microsingular cannon</Gun_MicrosingularCannon.label>
   <Gun_MicrosingularCannon.description>It shoots destabilizing balls that create a short-term singularity at the point of impact.</Gun_MicrosingularCannon.description>
 
-
-  <!--<Catapult_Blueprint.label>投石车 (蓝图)</Catapult_Blueprint.label>-->
-  <!--<Catapult_Blueprint_Install.label>投石车 (蓝图)</Catapult_Blueprint_Install.label>-->
-  <!--<Catapult_Frame.label>投石车 (建造中)</Catapult_Frame.label>-->
-  <!--<Catapult_Frame.description>一种可重复发射石球的重型武器。石球砸中地面后散裂可以造成刺伤的效果。</Catapult_Frame.description>-->
-  <!--<Ballista_Blueprint.label>弩炮 (蓝图)</Ballista_Blueprint.label>-->
-  <!--<Ballista_Blueprint_Install.label>弩炮 (蓝图)</Ballista_Blueprint_Install.label>-->
-  <!--<Ballista_Frame.label>弩炮 (建造中)</Ballista_Frame.label>-->
-  <!--<Ballista_Frame.description>一种以巨型箭为弹药的重型武器。发射周期长，但箭穿透物体时造成的洞口令人惊讶！</Ballista_Frame.description>-->
-  <!--<Turret_KineticArtillery_Blueprint_Install.label>Kinetic artillery (blueprint)</Turret_KineticArtillery_Blueprint_Install.label>-->
-  <!--<Turret_MicrosingularCannon_Blueprint_Install.label>Microsingular cannon (blueprint)</Turret_MicrosingularCannon_Blueprint_Install.label>-->
-
 </LanguageData>

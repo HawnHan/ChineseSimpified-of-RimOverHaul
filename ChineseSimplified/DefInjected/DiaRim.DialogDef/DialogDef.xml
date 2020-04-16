@@ -1,88 +1,110 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- пометка 
-backstory: ключ Childhood или AdultHood и если не указан ConditionId, то 1
-Gender: ключ Male, Female и если не указан ConditionId, то 1 (например Male1)
-SkillReq: ключ skillReq и если не указан ConditionId, то 1  (например skillReq1)
-Trait: ключ traitReq  (например traitReq1) -->
+	<DoomsdayHelp.Pages.page1.Title>打招呼。</DoomsdayHelp.Pages.page1.Title>
+	<DoomsdayHelp.Pages.page1.Text>- 或许你早就得到了消息，有个派系试图歼星，是的，我们所在的这颗星球。我们必须立即展开行动。</DoomsdayHelp.Pages.page1.Text>
+	<DoomsdayHelp.Pages.page1.Options.MustUnite.Label>提议结盟</DoomsdayHelp.Pages.page1.Options.MustUnite.Label>
+	<DoomsdayHelp.Pages.page1.Options.EndCooms.Label>结束对话</DoomsdayHelp.Pages.page1.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page1.Options.MustUnite.Conditions.skillReq1.DisableReason>需7级社交技能</DoomsdayHelp.Pages.page1.Options.MustUnite.Conditions.skillReq1.DisableReason>
 
-  <DoomsdayHelp.label>关于末日通牒临驻地的对话</DoomsdayHelp.label>
-  <DoomsdayHelp.Pages.0.Title>我向您表示问候。</DoomsdayHelp.Pages.0.Title>
-  <DoomsdayHelp.Pages.0.Text>-正如你已经知道的，现有一个派系的目的是摧毁星球。我们需要立即采取行动。</DoomsdayHelp.Pages.0.Text>
-  <DoomsdayHelp.Pages.0.Options.0.Label>我们必须团结起来</DoomsdayHelp.Pages.0.Options.0.Label>
-  <DoomsdayHelp.Pages.0.Options.1.Label>结束对话</DoomsdayHelp.Pages.0.Options.1.Label>
-  <DoomsdayHelp.Pages.1.Title>联合吗？</DoomsdayHelp.Pages.1.Title>
-  <DoomsdayHelp.Pages.1.Text>*对方想了想，然后颇有兴趣地回答：* \n- 我们不想主动招惹麻烦，所以你需要告诉我更多信息。</DoomsdayHelp.Pages.1.Text>
-  <DoomsdayHelp.Pages.1.Options.0.Label>寻求援助</DoomsdayHelp.Pages.1.Options.0.Label>
-  <DoomsdayHelp.Pages.1.Options.1.Label>请求支援</DoomsdayHelp.Pages.1.Options.1.Label>
-  <DoomsdayHelp.Pages.1.Options.2.Label>提醒对方注意义务</DoomsdayHelp.Pages.1.Options.2.Label>
-  <DoomsdayHelp.Pages.1.Options.3.Label>威胁对方</DoomsdayHelp.Pages.1.Options.3.Label>
-  <DoomsdayHelp.Pages.1.Options.4.Label>粗鲁大骂</DoomsdayHelp.Pages.1.Options.4.Label>
-  <DoomsdayHelp.Pages.1.Options.5.Label>结束对话</DoomsdayHelp.Pages.1.Options.5.Label>
-  <DoomsdayHelp.Pages.2.Title>救救我们？</DoomsdayHelp.Pages.2.Title>
-  <DoomsdayHelp.Pages.2.Text>- 这么可怕吗？ \n*他的话语中充满了恐惧和绝望，一边哭，一边惊恐的尖叫着* \n- 我们无法援助你，我们的能力不足。打扰了...</DoomsdayHelp.Pages.2.Text>
-  <DoomsdayHelp.Pages.2.Options.0.Label>坚持己见</DoomsdayHelp.Pages.2.Options.0.Label>
-  <DoomsdayHelp.Pages.2.Options.1.Label>强迫援助</DoomsdayHelp.Pages.2.Options.1.Label>
-  <DoomsdayHelp.Pages.2.Options.2.Label>请求援助</DoomsdayHelp.Pages.2.Options.2.Label>
-  <DoomsdayHelp.Pages.3.Title>难以置信...</DoomsdayHelp.Pages.3.Title>
-  <DoomsdayHelp.Pages.3.Text>- 这真是可怕。 \n*他沉默了一会儿，然后发出沉重的叹息，深深的吸了一口气，才继续道：* \n- 我会让我的人做好准备，但我们派系情形现在也不好。我不知道我们能不能按时来帮忙。</DoomsdayHelp.Pages.3.Text>
-  <DoomsdayHelp.Pages.3.Options.0.Label>友好交谈</DoomsdayHelp.Pages.3.Options.0.Label>
-  <DoomsdayHelp.Pages.3.Options.1.Label>恳请援助</DoomsdayHelp.Pages.3.Options.1.Label>
-  <DoomsdayHelp.Pages.3.Options.2.Label>潜藏的威胁</DoomsdayHelp.Pages.3.Options.2.Label>
-  <DoomsdayHelp.Pages.4.Title>你这些话并不能说服我...</DoomsdayHelp.Pages.4.Title>
-  <DoomsdayHelp.Pages.4.Text>- 不，不，我并不觉得这是个大威胁，但我看不出有什么必要用我的人去援助你，我们有能力保护自己，不需要额外的援助。</DoomsdayHelp.Pages.4.Text>
-  <DoomsdayHelp.Pages.4.Options.0.Label>大话连篇</DoomsdayHelp.Pages.4.Options.0.Label>
-  <DoomsdayHelp.Pages.4.Options.1.Label>让步</DoomsdayHelp.Pages.4.Options.1.Label>
-  <DoomsdayHelp.Pages.4.Options.2.Label>武力威胁</DoomsdayHelp.Pages.4.Options.2.Label>
-  <DoomsdayHelp.Pages.5.Title>你的要求简直不可理喻...</DoomsdayHelp.Pages.5.Title>
-  <DoomsdayHelp.Pages.5.Text>- 他们想做什么。 - 可怕，是的肯定的，但是... \n*电话那头沉默了几秒，然后带着悲伤的语调说道：* \n- 对不起，我们无能为力。</DoomsdayHelp.Pages.5.Text>
-  <DoomsdayHelp.Pages.5.Options.0.Label>扩大压力</DoomsdayHelp.Pages.5.Options.0.Label>
-  <DoomsdayHelp.Pages.5.Options.1.Label>继续施压</DoomsdayHelp.Pages.5.Options.1.Label>
-  <DoomsdayHelp.Pages.6.Title>我不会听你的！</DoomsdayHelp.Pages.6.Title>
-  <DoomsdayHelp.Pages.6.Text>*他听了你的话后大笑了一声，然后粗暴地问道：* \n- 听到了吗？我们的军事力量比你强得多。忘记你那愚蠢的想法。</DoomsdayHelp.Pages.6.Text>
-  <DoomsdayHelp.Pages.6.Options.0.Label>最后一次对话</DoomsdayHelp.Pages.6.Options.0.Label>
-  <DoomsdayHelp.Pages.6.Options.1.Label>施加心理压力</DoomsdayHelp.Pages.6.Options.1.Label>
-  <DoomsdayHelp.Pages.7.Title>什么债务？</DoomsdayHelp.Pages.7.Title>
-  <DoomsdayHelp.Pages.7.Text>- 我什么都记不得了。不过，如果是你说的是这样…我会听你的。</DoomsdayHelp.Pages.7.Text>
-  <DoomsdayHelp.Pages.7.Options.0.Label>继续对话</DoomsdayHelp.Pages.7.Options.0.Label>
-  <DoomsdayHelp.Pages.7.Options.1.Label>说清楚</DoomsdayHelp.Pages.7.Options.1.Label>
-  <DoomsdayHelp.Pages.8.Title>你在说什么？</DoomsdayHelp.Pages.8.Title>
-  <DoomsdayHelp.Pages.8.Text>- 我们欠你们钱吗？ \n*他想了一会儿，然后不确定地回答：* \n- 我不记得了，但如果你这么说，我愿意这样做。</DoomsdayHelp.Pages.8.Text>
-  <DoomsdayHelp.Pages.8.Options.0.Label>继续对话</DoomsdayHelp.Pages.8.Options.0.Label>
-  <DoomsdayHelp.Pages.8.Options.1.Label>自信回答</DoomsdayHelp.Pages.8.Options.1.Label>
-  <DoomsdayHelp.Pages.9.Title>不可容忍！</DoomsdayHelp.Pages.9.Title>
-  <DoomsdayHelp.Pages.9.Text>*他不情愿地听着，在你说话期间连打了几好次哈欠，当你说完后，他不屑的轻笑了一下，说：* \n- 我们熟悉你所说的威胁，但要我帮助你？你可真有趣！就连瞎眼的企鹅都是个比你好的盟友。忘了吧，蠢货！</DoomsdayHelp.Pages.9.Text>
-  <DoomsdayHelp.Pages.9.Options.0.Label>结束对话</DoomsdayHelp.Pages.9.Options.0.Label>
-  <DoomsdayHelp.Pages.10.Title>我们同意了...</DoomsdayHelp.Pages.10.Title>
-  <DoomsdayHelp.Pages.10.Text>*你的话说完几秒钟后，他沉默了，而当他试图说出自己的想法时，好像他完全忘了自己想做什么。他急促的喘气，但话却一个字一个字的吐出：* \n- 他们妄图歼灭整个星球？我们会给你提供援助。我们一定会援助的。请告诉我该怎么做，我们最好的战士会完成的。</DoomsdayHelp.Pages.10.Text>
-  <DoomsdayHelp.Pages.10.Options.0.Label>结束对话</DoomsdayHelp.Pages.10.Options.0.Label>
+	<DoomsdayHelp.Pages.page2.Title>结盟?</DoomsdayHelp.Pages.page2.Title>
+	<DoomsdayHelp.Pages.page2.Text>*短暂的停顿后，他们开口了* \n- 或许只能这样了，你的提议是什么？</DoomsdayHelp.Pages.page2.Text>
+	<DoomsdayHelp.Pages.page2.Options.AskHelp.Label>Appeal to good will</DoomsdayHelp.Pages.page2.Options.AskHelp.Label>
+	<DoomsdayHelp.Pages.page2.Options.ReqHelp.Label>Request Support</DoomsdayHelp.Pages.page2.Options.ReqHelp.Label>
+	<DoomsdayHelp.Pages.page2.Options.NapDolg.Label>Remind of Duty</DoomsdayHelp.Pages.page2.Options.NapDolg.Label>
+	<DoomsdayHelp.Pages.page2.Options.Threaten.Label>Threaten</DoomsdayHelp.Pages.page2.Options.Threaten.Label>
+	<DoomsdayHelp.Pages.page2.Options.Rude.Label>Be Rude</DoomsdayHelp.Pages.page2.Options.Rude.Label>
+	<DoomsdayHelp.Pages.page2.Options.EndCooms.Label>结束对话</DoomsdayHelp.Pages.page2.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page2.Options.AskHelp.Conditions.skillReq1.DisableReason>需7级社交技能</DoomsdayHelp.Pages.page2.Options.AskHelp.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.ReqHelp.Conditions.skillReq1.DisableReason>需12级社交技能</DoomsdayHelp.Pages.page2.Options.ReqHelp.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.NapDolg.Conditions.skillReq1.DisableReason>需10级社交技能</DoomsdayHelp.Pages.page2.Options.NapDolg.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.NapDolg.Conditions.traitReq1.DisableReason>需要特性:过目不忘</DoomsdayHelp.Pages.page2.Options.NapDolg.Conditions.traitReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.Threaten.Conditions.skillReq1.DisableReason>需14级社交技能</DoomsdayHelp.Pages.page2.Options.Threaten.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.Threaten.Conditions.traitReq1.DisableReason>需要特性:心理变态</DoomsdayHelp.Pages.page2.Options.Threaten.Conditions.traitReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.Rude.Conditions.skillReq1.DisableReason>需4级社交技能</DoomsdayHelp.Pages.page2.Options.Rude.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page2.Options.Rude.Conditions.traitReq1.DisableReason>需要特性:直来直去</DoomsdayHelp.Pages.page2.Options.Rude.Conditions.traitReq1.DisableReason>
 
-  <CommOptionGetHelp.label>抉择 - 请求帮助</CommOptionGetHelp.label>
-  <CommOptionGetHelp.Pages.0.Title>我们请求援助</CommOptionGetHelp.Pages.0.Title>
-  <CommOptionGetHelp.Pages.0.Text>你给一名友军领袖致电。接通后，他不慌不忙地用粗浊的声音问到：你好吗？</CommOptionGetHelp.Pages.0.Text>
-  <CommOptionGetHelp.Pages.0.Options.0.Label>请求资源</CommOptionGetHelp.Pages.0.Options.0.Label>
-  <CommOptionGetHelp.Pages.0.Options.1.Label>请求人力</CommOptionGetHelp.Pages.0.Options.1.Label>
-  <CommOptionGetHelp.Pages.0.Options.2.Label>结束对话</CommOptionGetHelp.Pages.0.Options.2.Label>
+	<DoomsdayHelp.Pages.page3.Title>Can we..?</DoomsdayHelp.Pages.page3.Title>
+	<DoomsdayHelp.Pages.page3.Text>- Is it that bad? \n*their voice wavers with mingled fear and despair.* \n- We cannot help. We are too weak... I am sorry...</DoomsdayHelp.Pages.page3.Text>
+	<DoomsdayHelp.Pages.page3.Options.Insist.Label> </DoomsdayHelp.Pages.page3.Options.Insist.Label>
+	<DoomsdayHelp.Pages.page3.Options.Manipulir.Label>Manipulate</DoomsdayHelp.Pages.page3.Options.Manipulir.Label>
+	<DoomsdayHelp.Pages.page3.Options.Ask.Label>Beg</DoomsdayHelp.Pages.page3.Options.Ask.Label>
+	<DoomsdayHelp.Pages.page3.Options.EndCooms.Label>结束对话</DoomsdayHelp.Pages.page3.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page3.Options.Insist.Conditions.skillReq1.DisableReason>需10级社交技能</DoomsdayHelp.Pages.page3.Options.Insist.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page3.Options.Manipulir.Conditions.traitReq1.DisableReason>需要特性：沉鱼落雁</DoomsdayHelp.Pages.page3.Options.Manipulir.Conditions.traitReq1.DisableReason>
+	<DoomsdayHelp.Pages.page3.Options.Manipulir.Conditions.skillReq1.DisableReason>需12级社交技能</DoomsdayHelp.Pages.page3.Options.Manipulir.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page3.Options.Ask.Conditions.skillReq1.DisableReason>需7级社交技能</DoomsdayHelp.Pages.page3.Options.Ask.Conditions.skillReq1.DisableReason>
 
+	<DoomsdayHelp.Pages.page9.Title>别无选择。</DoomsdayHelp.Pages.page9.Title>
+	<DoomsdayHelp.Pages.page9.Text>- It's really scary. \n*he takes a deep breath with a long exhale* \n- I will tell my people to prepare, however things have been... difficult lately. I can not promise that we will make enough of a difference.</DoomsdayHelp.Pages.page9.Text>
+	<DoomsdayHelp.Pages.page9.Options.FriendlyConver.Label>Friendly conversation</DoomsdayHelp.Pages.page9.Options.FriendlyConver.Label>
+	<DoomsdayHelp.Pages.page9.Options.SpeakConv.Label>Speak convincingly</DoomsdayHelp.Pages.page9.Options.SpeakConv.Label>
+	<DoomsdayHelp.Pages.page9.Options.HiddenThreat.Label>Disguised threat</DoomsdayHelp.Pages.page9.Options.HiddenThreat.Label>
+	<DoomsdayHelp.Pages.page9.Options.EndCooms.Label>结束对话</DoomsdayHelp.Pages.page9.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page9.Options.FriendlyConver.Conditions.skillReq1.DisableReason>需10级社交技能</DoomsdayHelp.Pages.page9.Options.FriendlyConver.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page9.Options.FriendlyConver.Conditions.traitReq1.DisableReason>需要特性：善良</DoomsdayHelp.Pages.page9.Options.FriendlyConver.Conditions.traitReq1.DisableReason>
+	<DoomsdayHelp.Pages.page9.Options.SpeakConv.Conditions.skillReq1.DisableReason>需10级社交技能</DoomsdayHelp.Pages.page9.Options.SpeakConv.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page9.Options.HiddenThreat.Conditions.skillReq1.DisableReason>需12级社交技能</DoomsdayHelp.Pages.page9.Options.HiddenThreat.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page9.Options.HiddenThreat.Conditions.traitReq1.DisableReason>需要特性：烦人的声音</DoomsdayHelp.Pages.page9.Options.HiddenThreat.Conditions.traitReq1.DisableReason>
 
-  <!--<DoomsdayHelp.Pages.2.Options.3.Label>结束对话</DoomsdayHelp.Pages.2.Options.3.Label>-->
-  <!--<DoomsdayHelp.Pages.3.Options.3.Label>结束对话</DoomsdayHelp.Pages.3.Options.3.Label>-->
-  <!--<DoomsdayHelp.Pages.4.Options.3.Label>结束对话</DoomsdayHelp.Pages.4.Options.3.Label>-->
-  <!--<DoomsdayHelp.Pages.5.Options.2.Label>结束对话</DoomsdayHelp.Pages.5.Options.2.Label>-->
-  <!--<DoomsdayHelp.Pages.6.Options.2.Label>结束对话</DoomsdayHelp.Pages.6.Options.2.Label>-->
-  <!--<DoomsdayHelp.Pages.7.Options.2.Label>结束对话</DoomsdayHelp.Pages.7.Options.2.Label>-->
-  <!--<DoomsdayHelp.Pages.8.Options.2.Label>结束对话</DoomsdayHelp.Pages.8.Options.2.Label>-->
-  <!--<TestDialog.label>会话标签</TestDialog.label>-->
-  <!--<TestDialog.Pages.0.Title>嗨，陌生人！</TestDialog.Pages.0.Title>-->
-  <!--<TestDialog.Pages.0.Text>你想要一些食物吗？</TestDialog.Pages.0.Text>-->
-  <!--<TestDialog.Pages.0.Options.0.Label>当然了！</TestDialog.Pages.0.Options.0.Label>-->
-  <!--<TestDialog.Pages.0.Options.1.Label>不需要！</TestDialog.Pages.0.Options.1.Label>-->
-  <!--<TestDialog.Pages.1.Title>嗨，陌生人！</TestDialog.Pages.1.Title>-->
-  <!--<TestDialog.Pages.1.Text>是的！？</TestDialog.Pages.1.Text>-->
-  <!--<TestDialog.Pages.1.Options.0.Label>确定</TestDialog.Pages.1.Options.0.Label>-->
-  <!--<TestDialog.Pages.2.Title>你说得对！</TestDialog.Pages.2.Title>-->
-  <!--<TestDialog.Pages.2.Text>万岁！？</TestDialog.Pages.2.Text>-->
-  <!--<TestDialog.Pages.2.Options.0.Label>谢谢！</TestDialog.Pages.2.Options.0.Label>-->
+	<DoomsdayHelp.Pages.page11.Title>Your words can't convince me ...</DoomsdayHelp.Pages.page11.Title>
+	<DoomsdayHelp.Pages.page11.Text>- No, no, no... The threat is dangerous, but I see no reason to send my people to help you. We are able to protect ourselves, surely we can survive this as well.</DoomsdayHelp.Pages.page11.Text>
+	<DoomsdayHelp.Pages.page11.Options.TalkBig.Label>Negotiatiate</DoomsdayHelp.Pages.page11.Options.TalkBig.Label>
+	<DoomsdayHelp.Pages.page11.Options.BigYstyp.Label>Offer Concessions</DoomsdayHelp.Pages.page11.Options.BigYstyp.Label>
+	<DoomsdayHelp.Pages.page11.Options.ThreatWarn.Label>Threaten</DoomsdayHelp.Pages.page11.Options.ThreatWarn.Label>
+	<DoomsdayHelp.Pages.page11.Options.EndCooms.Label>End of communication</DoomsdayHelp.Pages.page11.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page11.Options.TalkBig.Conditions.skillReq1.DisableReason>需16级社交技能</DoomsdayHelp.Pages.page11.Options.TalkBig.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page11.Options.BigYstyp.Conditions.skillReq1.DisableReason>需10级社交技能</DoomsdayHelp.Pages.page11.Options.BigYstyp.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page11.Options.ThreatWarn.Conditions.skillReq1.DisableReason>需12级社交技能</DoomsdayHelp.Pages.page11.Options.ThreatWarn.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page11.Options.ThreatWarn.Conditions.traitReq1.DisableReason>需要特性：钢铁意志</DoomsdayHelp.Pages.page11.Options.ThreatWarn.Conditions.traitReq1.DisableReason>
+
+	<DoomsdayHelp.Pages.page4.Title>Your demands are unimaginable ...</DoomsdayHelp.Pages.page4.Title>
+	<DoomsdayHelp.Pages.page4.Text>What they are going to do is certainly terrible, but ... \n*he is silent for a moment, then with a despondent tone he replies:*\n- The risk is too great. We can not help. We must protect ourselves first.</DoomsdayHelp.Pages.page4.Text>
+	<DoomsdayHelp.Pages.page4.Options.NaporUp.Label>Increase Pressure</DoomsdayHelp.Pages.page4.Options.NaporUp.Label>
+	<DoomsdayHelp.Pages.page4.Options.NextDavl.Label>Be Persistent</DoomsdayHelp.Pages.page4.Options.NextDavl.Label>
+	<DoomsdayHelp.Pages.page4.Options.EndCooms.Label>End of communication</DoomsdayHelp.Pages.page4.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page4.Options.NaporUp.Conditions.skillReq1.DisableReason>Social required 6</DoomsdayHelp.Pages.page4.Options.NaporUp.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page4.Options.NaporUp.Conditions.traitReq1.DisableReason>Required trait: Iron-Willed</DoomsdayHelp.Pages.page4.Options.NaporUp.Conditions.traitReq1.DisableReason>
+	<DoomsdayHelp.Pages.page4.Options.NextDavl.Conditions.skillReq1.DisableReason>Social required 14</DoomsdayHelp.Pages.page4.Options.NextDavl.Conditions.skillReq1.DisableReason>
+
+	<DoomsdayHelp.Pages.page17.Title>我们We do not take orders from you!</DoomsdayHelp.Pages.page17.Title>
+	<DoomsdayHelp.Pages.page17.Text>*having listened, he laughs loudly before giving a rude response:*\n- Do you hear yourself? Our military might is greater than any so-called Doomsday weapon. We can withstand any outside threat will not waste our strength to protect the weak.</DoomsdayHelp.Pages.page17.Text>
+	<DoomsdayHelp.Pages.page17.Options.LastWords.Label>Last talk</DoomsdayHelp.Pages.page17.Options.LastWords.Label>
+	<DoomsdayHelp.Pages.page17.Options.PsyhoPress.Label>Psychological pressure</DoomsdayHelp.Pages.page17.Options.PsyhoPress.Label>
+	<DoomsdayHelp.Pages.page17.Options.EndCooms.Label>End of communication</DoomsdayHelp.Pages.page17.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page17.Options.LastWords.Conditions.skillReq1.DisableReason>Social required 12</DoomsdayHelp.Pages.page17.Options.LastWords.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page17.Options.PsyhoPress.Conditions.traitReq1.DisableReason>Required trait: Iron-Willed</DoomsdayHelp.Pages.page17.Options.PsyhoPress.Conditions.traitReq1.DisableReason>
+	<DoomsdayHelp.Pages.page17.Options.PsyhoPress.Conditions.skillReq1.DisableReason>Social required 14</DoomsdayHelp.Pages.page17.Options.PsyhoPress.Conditions.skillReq1.DisableReason>
+
+	<DoomsdayHelp.Pages.page5.Title>What other debt?</DoomsdayHelp.Pages.page5.Title>
+	<DoomsdayHelp.Pages.page5.Text>I don't remember anything like that.” Although, if you insist... I will listen to you.</DoomsdayHelp.Pages.page5.Text>
+	<DoomsdayHelp.Pages.page5.Options.NextDial.Label>Continue the dialogue</DoomsdayHelp.Pages.page5.Options.NextDial.Label>
+	<DoomsdayHelp.Pages.page5.Options.TalkYver.Label>Make up convincing story</DoomsdayHelp.Pages.page5.Options.TalkYver.Label>
+	<DoomsdayHelp.Pages.page5.Options.EndCooms.Label>End of communication</DoomsdayHelp.Pages.page5.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page5.Options.NextDial.Conditions.skillReq1.DisableReason>Social required 14</DoomsdayHelp.Pages.page5.Options.NextDial.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page5.Options.TalkYver.Conditions.skillReq1.DisableReason>Social required 14</DoomsdayHelp.Pages.page5.Options.TalkYver.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page5.Options.TalkYver.Conditions.traitReq1.DisableReason>Required trait: Fast Learner</DoomsdayHelp.Pages.page5.Options.TalkYver.Conditions.traitReq1.DisableReason>
+
+	<DoomsdayHelp.Pages.page6.Title>What other debt?</DoomsdayHelp.Pages.page6.Title>
+	<DoomsdayHelp.Pages.page6.Text>- A money debt..?\n*He is silent for a moment, then hesitantly answers:*\n- I don’t quite recall... but if you say so, then I will at least listen.
+	</DoomsdayHelp.Pages.page6.Text>
+	<DoomsdayHelp.Pages.page6.Options.NextDial.Label>Continue the dialogue</DoomsdayHelp.Pages.page6.Options.NextDial.Label>
+	<DoomsdayHelp.Pages.page6.Options.TalkYver.Label>Speak confidently</DoomsdayHelp.Pages.page6.Options.TalkYver.Label>
+	<DoomsdayHelp.Pages.page6.Options.EndCooms.Label>End of communication</DoomsdayHelp.Pages.page6.Options.EndCooms.Label>
+	<DoomsdayHelp.Pages.page6.Options.NextDial.Conditions.skillReq1.DisableReason>Social required 10</DoomsdayHelp.Pages.page6.Options.NextDial.Conditions.skillReq1.DisableReason>  
+	<DoomsdayHelp.Pages.page6.Options.TalkYver.Conditions.skillReq1.DisableReason>Social required 14</DoomsdayHelp.Pages.page6.Options.TalkYver.Conditions.skillReq1.DisableReason>
+	<DoomsdayHelp.Pages.page6.Options.TalkYver.Conditions.traitReq1.DisableReason>Required trait: Fast Learner</DoomsdayHelp.Pages.page6.Options.TalkYver.Conditions.traitReq1.DisableReason>	 
+
+	<DoomsdayHelp.Pages.page27.Title>Outrageous!</DoomsdayHelp.Pages.page27.Title>
+	<DoomsdayHelp.Pages.page27.Text>*He was clearly losing interest in continuing this conversation:*\n- We are familiar with the threat, but helping you? Blind penguins would make for better allies. Do not contact us again.</DoomsdayHelp.Pages.page27.Text>
+	<DoomsdayHelp.Pages.page27.Options.EndCooms.Label>End of communication</DoomsdayHelp.Pages.page27.Options.EndCooms.Label>
+
+	<DoomsdayHelp.Pages.page28.Title>We agree</DoomsdayHelp.Pages.page28.Title>
+	<DoomsdayHelp.Pages.page28.Text>*听完你After hearing the last of your words, he pauses for a moment before responding:*\n- A weapon capable of destroying... the whole planet? We will help. We have to. We will do everything we can to put an end to this threat, you need only ask and we do whatever we can.</DoomsdayHelp.Pages.page28.Text>
+	<DoomsdayHelp.Pages.page28.Options.EndCooms.Label>结束对话</DoomsdayHelp.Pages.page28.Options.EndCooms.Label>
+
+	<CommOptionGetHelp.Pages.page1.Options.AskForResources.Label>Ask for resources</CommOptionGetHelp.Pages.page1.Options.AskForResources.Label>
+	<CommOptionGetHelp.Pages.page1.Options.AskForPower.Label>Ask for military assistance</CommOptionGetHelp.Pages.page1.Options.AskForPower.Label>
+	<CommOptionGetHelp.Pages.page1.Options.EndCooms.Label>结束对话</CommOptionGetHelp.Pages.page1.Options.EndCooms.Label>
 
 </LanguageData>

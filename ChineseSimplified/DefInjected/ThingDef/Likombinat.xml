@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Likombinat.label>Likombinat</Likombinat.label>
-  <Likombinat.description>An experimental drug that can cause powerful side effects and dependence. Nevertheless, presumably allows you to bring the reaction to an incredible level. However, the effect cannot last for a long time, requiring constant recharge. If you stop taking the drug, dangerous side effects are possible.</Likombinat.description>
-  <Likombinat.ingestible.ingestCommandString>Take {0}</Likombinat.ingestible.ingestCommandString>
-  <Likombinat.ingestible.ingestReportString>Taking {0}.</Likombinat.ingestible.ingestReportString>
+  <Likombinat.label>结生素-堕</Likombinat.label>
+  <Likombinat.description>一种处于试验阶段的药剂，服用后会造成极强的副作用，以及...成瘾。\n尽管如此，根据现有报告，该药剂赋予你无与伦比的反应速度。可惜，药效不长需要经常服用。如若停药，朝不保夕。</Likombinat.description>
+  <Likombinat.ingestible.ingestCommandString>服用 {0}</Likombinat.ingestible.ingestCommandString>
+  <Likombinat.ingestible.ingestReportString>正在服用 {0}。</Likombinat.ingestible.ingestReportString>
 
 
 </LanguageData>
