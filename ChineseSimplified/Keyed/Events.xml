@@ -76,9 +76,9 @@
   <RaidStartDefend>敌人正在突进，做好准备！</RaidStartDefend>
 
   <EnergyChargeCapacity>充能: {0} / {1}</EnergyChargeCapacity>
-  <InactiveNoHelmet>\n未激活，缺少头盔</InactiveNoHelmet>
+  <InactiveNoHelmet>\n套装未激活，缺少头盔</InactiveNoHelmet>
   <InactiveMk1>未激活</InactiveMk1>
-  <EnergyChargeCapacity2>电量</EnergyChargeCapacity2>
+  <EnergyChargeCapacity2>能量</EnergyChargeCapacity2>
   <Station>基站</Station>
   <UnloadArmor>从基站取下动力甲</UnloadArmor>
   <LoadArmor>将动力甲拿到基站</LoadArmor>
@@ -89,7 +89,7 @@
   <ChargeSpeed>充能速度: {0}</ChargeSpeed>
   <EnabledCharging>基站运作：充能中</EnabledCharging>
   <FullCharge>达到核心容量上限</FullCharge>
-  <NoPowerRightNow>没电</NoPowerRightNow>
+  <NoPowerRightNow>缺少电力</NoPowerRightNow>
   <NoCore>缺少核心</NoCore>
   <NoAvaliableCores>未激活任何核心</NoAvaliableCores>
   <ColdFusionCore>微型冷核聚变反应堆</ColdFusionCore>
@@ -103,8 +103,8 @@
   <NotEnoughSilverDoom>支付赎金[ 白银不足 ]</NotEnoughSilverDoom>
   <PaidSuccessDoom>赎金已付</PaidSuccessDoom>
   <RansomCompleteTitle>赎金已付</RansomCompleteTitle>
-  <RansomComplete>敌军首领在无线电中肆意大笑。因为不管如何，他们都不会歼星。笑声逐渐远去，你看到他们如何远远的逃离了临时驻地。但这或许不是结束。</RansomComplete>
-  <PlanetDestroyed>在场所有人的耳朵都因这不合常理的巨大声响竖起来。这种轰鸣像极了炸弹爆炸，闪耀的光芒又像新星的诞生。整颗星球都开始晃动，倒霉的目睹者们陷入了无尽的深渊，周围充满了绝望而疯狂的哭泣声。在每个人的脸上，恐惧的表情如冻结般凝固，眼里反射出来的是满满的星球血液——岩浆。\n\n末日机器发射出夺目光柱，这不仅仅标志着你的殖民地的终结，同时也是这个星球的：毁灭风暴带走了所有的救援希望。太阳辐射波席卷了整个星球表面，于每一处裂缝中炸裂。残存的世界碎片在往后很长一段时间里都在提醒着后代，人类才是最大的毁灭者。\n\n甚至连最杰出的作家也无法用文字描述出你现居地的情况，但如果他着手开始这个注定失败的任务，那么他一定不会使用这个词来形容——“天堂”。</PlanetDestroyed>
+  <RansomComplete>敌军首领在无线电中肆意大笑。因为不管如何，他们都不会选择歼星。笑声逐渐远去，你看到他们如何远远的逃离了临时驻地。但这或许不是最终结局。</RansomComplete>
+  <PlanetDestroyed>在场所有人的耳朵都因这不合常理的巨大声响竖起来。这种轰鸣像极了炸弹爆炸，闪耀的光芒又像新星的诞生。整颗星球都开始晃动，倒霉的目睹者们陷入了无尽的深渊，周围充满了绝望而疯狂的哭泣声。在每个人的脸上，恐惧的表情如冻结般凝固，眼里映出的是满满的星球血液——岩浆。\n\n末日机器发射出夺目光柱，这不仅仅标志着你的殖民地的终结，同时也是这个星球的：毁灭风暴带走了所有的救援希望。太阳辐射波席卷了整个星球表面，于每一处裂缝中炸裂。残存的世界碎片在往后很长一段时间里都在提醒着后代，人类才是最大的毁灭者。\n\n甚至连最杰出的作家也无法用文字描述出你现居地的情况，但如果他着手开始这个注定失败的任务，那么他一定不会使用这个词来形容——“天堂”。</PlanetDestroyed>
   <ArsonOut>纵火犯们离开了</ArsonOut>
 
   <DoomsdayEnterSiteHelp>你必须到达那个藏着末日武器的敌军建筑。务必找到它，将其断电并摧毁，但首先，你要做的是清扫该基地。</DoomsdayEnterSiteHelp>
@@ -225,10 +225,10 @@ Root (5A8)
 
   <Corrosium_InspectString>已受伤害: {0}%</Corrosium_InspectString>
 
-  <RimOverhaul_UseCommand>Use</RimOverhaul_UseCommand>
+  <RimOverhaul_UseCommand>使用</RimOverhaul_UseCommand>
 
-  <CompChargeableWeapon_ChargeLabel>Charge: {0}%</CompChargeableWeapon_ChargeLabel>
-  <CompChargeableWeapon_ChargeDesc>The charge of the item. When it ends, the item will lose most of its strength.</CompChargeableWeapon_ChargeDesc>
+  <CompChargeableWeapon_ChargeLabel>能量: {0}%</CompChargeableWeapon_ChargeLabel>
+  <CompChargeableWeapon_ChargeDesc>武器的能量值。当能量值归零时，武器会绝大部分的性能。</CompChargeableWeapon_ChargeDesc>
 
   <FairPlace_GetInspectString>剩余展览时间: {0} 天</FairPlace_GetInspectString>
   <EnterToMap_Option>进入 {0}</EnterToMap_Option>
@@ -243,10 +243,10 @@ Root (5A8)
 Leadership holds {1} (fraction {2}) \n</Competitions_DayResultTitle>
   <Competitions_DayResultTitle2>{0} day results</Competitions_DayResultTitle2>
   <Competitions_WinnerDesc> {0} 派系的选手 {2} 在竞赛中获胜。他以 {3} 的分数胜出。\n奖品为 {4} 白银，且获得参赛所需技能的经验。</Competitions_WinnerDesc>
-  <Competitions_WinnerTitle>Competition Results</Competitions_WinnerTitle>
+  <Competitions_WinnerTitle>竞赛结果</Competitions_WinnerTitle>
   <Competitions_JustEndTitle>竞赛已结束</Competitions_JustEndTitle>
   <Competitions_JustEndDesc>于 {0} 内举办的竞赛已结束，你未参与其中。</Competitions_JustEndDesc>
-  <EnterToCompetitions>Participate</EnterToCompetitions>
+  <EnterToCompetitions>参赛</EnterToCompetitions>
   <Competitions_EnterToCompetitionsTitle>竞赛开始!</Competitions_EnterToCompetitionsTitle>
   <Competitions_EnterToCompetitionsDesc>竞赛开始!\n竞赛将持续3天，你每天都能在分数表上看到派出的参赛选手得分情况</Competitions_EnterToCompetitionsDesc>
   <WorldObject_Competitions_ScorePlaceHolder>(分)</WorldObject_Competitions_ScorePlaceHolder>
@@ -255,7 +255,7 @@ Leadership holds {1} (fraction {2}) \n</Competitions_DayResultTitle>
   <Competitions_AlreadyPaid>已经贿赂过评审了</Competitions_AlreadyPaid>
   <Competitions_JudgPaidTitle>贿赂评审成功</Competitions_JudgPaidTitle>
   <Competitions_JudgPaidDesc>你成功贿赂了评审。你的参赛者会获得额外的7分。</Competitions_JudgPaidDesc>
-  <Competitions_NeedToStartForPaid>你首先得参加竞赛</Competitions_NeedToStartForPaid>
+  <Competitions_NeedToStartForPaid>你得先参赛</Competitions_NeedToStartForPaid>
   <Competitions_JudgePaidFailTitle>Judge inspection</Competitions_JudgePaidFailTitle>
   <Competitions_JudgePaidFailDesc>As a result of the inspection of the judges, it turned out that you bribed them. This will worsen relations with participating factions..</Competitions_JudgePaidFailDesc>
   <Competitions_JudgePaidReason>judging</Competitions_JudgePaidReason>

@@ -5,25 +5,25 @@
   <Quest_RequiredItems>物资援助</Quest_RequiredItems>
   <Quest_HelpItems_Site>物资传输点</Quest_HelpItems_Site>
   <HowToCheckReqList>要查看索求物资，请打开详情页。</HowToCheckReqList>
-  <HelpResourcesDescriptionTitle>{0} 派系向你索求物资。你需要派遣一支携带所需物资的远征队到达该地以传输物资。\n索求物资清单:</HelpResourcesDescriptionTitle>
-  <GiveItemsSuccessTitle>物资已传输</GiveItemsSuccessTitle>
-  <GiveItemsSuccess>你已成功传输物资。报酬将以运输仓的方式发往你的基地。</GiveItemsSuccess>
-  <GiveItemsSuccess2>你已成功传输物资。报酬已给予你的远征队。</GiveItemsSuccess2>
+  <HelpResourcesDescriptionTitle>{0} 派系向你索求物资。你需要派遣一支携带所需物资的远征队到达该地以转移物资。\n索求物资清单:</HelpResourcesDescriptionTitle>
+  <GiveItemsSuccessTitle>物资已转移</GiveItemsSuccessTitle>
+  <GiveItemsSuccess>你已成功转移物资。报酬将以运输仓的方式发往你的基地。</GiveItemsSuccess>
+  <GiveItemsSuccess2>你已成功转移物资。报酬已给予你的远征队。</GiveItemsSuccess2>
   <NotEnoughItemsToQuest>物资不足</NotEnoughItemsToQuest>
-  <GiveItemsOption>传输物资</GiveItemsOption>
+  <GiveItemsOption>转移物资</GiveItemsOption>
 
   <Quest_HelpItems_Label>物资请求</Quest_HelpItems_Label>
-  <Quest_HelpItems_Description>{0} 派系的首领联系你并告知你他们准备扩建他们的定居地，但他们没有足够多的可用资源。他们向你请求部分物资，作为交换，他们将给你一些他们富余的物资。\n你可以组建一支携带所需物资的远征队将物资带给他们。</Quest_HelpItems_Description>
+  <Quest_HelpItems_Description>{0} 派系的首领联系并告知你他们准备扩建他们的定居地，但他们没有足够多的可用资源。他们向你请求部分物资，作为交换，他们将给你一些他们富余的资源。\n你可以组建一支携带所需物资的远征队将物资带给他们。</Quest_HelpItems_Description>
 
-  <HowToGivePawns>要援助该殖民地，需要组建一支人数为 {0} 的远征队到达建筑工地。\n建设时长:{1}</HowToGivePawns>
+  <HowToGivePawns>要援助该定居点，需要组建一支人数为 {0} 的远征队到达建筑工地。\n建设时长:{1}</HowToGivePawns>
   <Quest_BuildNewBase_Label>新城的建立</Quest_BuildNewBase_Label>
-  <Quest_BuildNewBase_Description>{0} 派系你为他们的基地迁移提供帮助。他们给出的原因是现居地的自然资源即将耗竭，且低下的土地肥沃性无法持续发展。他们拥有足够的物资，但缺乏有实力的建筑工人，请求你给予援助。\n\n建设会持续几天，在此期间你安排过去的殖民者将不可用。在建设完成后你会得到报酬，且殖民者会被送回。</Quest_BuildNewBase_Description>
+  <Quest_BuildNewBase_Description>{0} 派系你为他们的基地迁移提供帮助。他们阐明：原因是现居地的自然资源即将耗竭，且低下的土地肥沃性无法持续发展。他们拥有足够的物资，但缺乏有实力的建筑工人，请求你给予援助。\n\n建设会持续几天，在此期间你安排过去的殖民者将不可用。在建设完成后你会得到报酬，且殖民者会被送回。</Quest_BuildNewBase_Description>
   <Quest_BuildNewBase_Place>{0} 的施工地点</Quest_BuildNewBase_Place>
   <NotEnoughPawnsToHelp>远征队人数不足</NotEnoughPawnsToHelp>
   <HelpStartedTitle>开工</HelpStartedTitle>
   <HelpStarted>你的远征队已到达新基地的施工地点。初步估计，施工将持续 {0} 天，之后你派遣的殖民者会被送回。</HelpStarted>
   <BuildingAlreadyStarted>工程早已开始</BuildingAlreadyStarted>
-  <Quest_HelpWithBuilding_Option>帮助建设</Quest_HelpWithBuilding_Option>
+  <Quest_HelpWithBuilding_Option>参与建设</Quest_HelpWithBuilding_Option>
   <PawnsRequired>人数需求: {0}</PawnsRequired>
   <BuildingSeccessEndTitle>竣工</BuildingSeccessEndTitle>
   <BuildingSeccessEnd>{0} 的基地建设已竣工。他们感激你的帮助并告知，他们愿意通过物资或者军事援助来回报你。(你可以通过全息星球仪提出请求)</BuildingSeccessEnd>
@@ -40,7 +40,7 @@
   <Quest_MissingPeople_PlaceLabel>预测远行队所在点</Quest_MissingPeople_PlaceLabel>
   <Quest_MissingPeople_PlaceLabelSaved>People destination</Quest_MissingPeople_PlaceLabelSaved>
   <Quest_MissingPeople_InspectString>失踪的远行小队可能在这里。\n预计食物耗尽时间: {0} (天)</Quest_MissingPeople_InspectString>
-  <Quest_MissingPeople_InspectString2>House of missing settlers. \nTime to deliver settlers: {0} (days)</Quest_MissingPeople_InspectString2>
+  <Quest_MissingPeople_InspectString2>失踪者的家园。\nHouse of missing settlers. \nTime to deliver settlers: {0} (days)</Quest_MissingPeople_InspectString2>
   <Quest_CheckMissingPeople_Action>搜查该地</Quest_CheckMissingPeople_Action>
   <Quest_MissingPeople_CheckFailTitle>没有发现</Quest_MissingPeople_CheckFailTitle>
   <Quest_MissingPeople_CheckFail>我们发现了失踪小队的踪迹，但人不在此。该地有一些较新的离开踪迹，我们应该追踪下去。(新的目的地已在地图上更新)</Quest_MissingPeople_CheckFail>
@@ -51,7 +51,7 @@
   <Quest_MissingPeople_End>你已抵达盟友的定居点。\n</Quest_MissingPeople_End>
   <Quest_MissingPeople_EndFull>\n你让所有殖民者都活着回来了，{0} 十分感激你。</Quest_MissingPeople_EndFull>
   <Quest_MissingPeople_EndPart>\n你向他们描述了你一路上的艰难险阻，那些死掉的人并非毫无价值，其他人应该为他们感到骄傲。</Quest_MissingPeople_EndPart>
-  <Quest_MissingPeople_Fiasko>\n你抵达时只带着借口。{0} 派系的首领十分沮丧。你全力解释，但没有任何依据，他们摇摇头，走开了。</Quest_MissingPeople_Fiasko>
+  <Quest_MissingPeople_Fiasko>\n你抵达时除了借口再无其他。{0} 派系的首领十分沮丧。你全力解释，但拿不出任何依据，他们摇摇头，走开了。</Quest_MissingPeople_Fiasko>
   <Quest_MissingPeople_EndQuest>任务结果</Quest_MissingPeople_EndQuest>
   <Quest_CheckMissingPeople_Action2>送回失踪者</Quest_CheckMissingPeople_Action2>
   <Quest_MissingPeople_ThiefTitle>起诉</Quest_MissingPeople_ThiefTitle>
@@ -74,10 +74,10 @@
   <Quest_SuppressionRebellionWinDesc>你击败了反抗军，并俘虏了 {0} 人，因此 {1} 派系决定在你的报酬上再追加 {2} 白银。--------------\n{3}</Quest_SuppressionRebellionWinDesc>
   <Quest_SuppressionRebellionRebelWinTitle>反抗军获胜</Quest_SuppressionRebellionRebelWinTitle>
   <Quest_SuppressionRebellionRebelWinDesc>反抗军们击败了 {0} 殖民地的战士。 {1} \n这使得首领和政权进行了更迭。</Quest_SuppressionRebellionRebelWinDesc>
-  <Quest_SuppressionRebelplayerAffect>反抗军们会记得你的殖民地层阻拦过他们，因此你们的关系恶化了。</Quest_SuppressionRebelplayerAffect>
+  <Quest_SuppressionRebelplayerAffect>反抗军们会记得你的殖民地曾阻拦过他们，因此你们的关系恶化了。</Quest_SuppressionRebelplayerAffect>
   <Quest_SuppressionRebelNonplayerAffect>你的殖民地并未参与该次事件。</Quest_SuppressionRebelNonplayerAffect>
   <Quest_SuppressionRebellionNewFactionTitle>反抗军们失败了</Quest_SuppressionRebellionNewFactionTitle>
-  <Quest_SuppressionRebellionNewFactionDesc>反抗军们未能击溃 {0} ，因此残余的反抗军们形成了分支派系，并自称 {1}。</Quest_SuppressionRebellionNewFactionDesc>
+  <Quest_SuppressionRebellionNewFactionDesc>反抗军们未能击溃 {0} ，因此残余的反抗军们形成了分支派系，并自立为 {1}。</Quest_SuppressionRebellionNewFactionDesc>
   <CaravanArrivalAction_EnterToRebelMap_AlreadyStart>叛乱已爆发</CaravanArrivalAction_EnterToRebelMap_AlreadyStart>
 
   <Quest_KillOrder_CardLabel>击杀任务</Quest_KillOrder_CardLabel>

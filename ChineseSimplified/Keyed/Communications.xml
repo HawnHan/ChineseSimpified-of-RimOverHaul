@@ -24,7 +24,7 @@
   <NoFactionComm>派系：无</NoFactionComm>
 
   <HelpingFactionsList>\n来援派系: </HelpingFactionsList>
-  <SupportFullDoomsday>援助人员已经足够了。你不能再请求更多派系的援助了。</SupportFullDoomsday>
+  <SupportFullDoomsday>援助人员已经够多了。你不能再请求更多派系的援助了。</SupportFullDoomsday>
   <NoHelpDoomsday>不会援助</NoHelpDoomsday>
   <UnknownDoomsdayStatus>尚不清楚</UnknownDoomsdayStatus>
   <HelpDoomsday>将会援助</HelpDoomsday>
@@ -52,7 +52,7 @@
   <AssistCaravan_GifterArrived>友军部队在你的请求下已抵达。他们将物品留在了你的殖民地附近。</AssistCaravan_GifterArrived>
 
   <ClimateBombTitle>气候炸弹</ClimateBombTitle>
-  <ClimateBombDesc>我们发现了一个气候炸弹。我的思维很混乱。是谁，又为什么将其留在这个星球上，还不得而知。但如果我们不希望下几个季节的气候发生什么状况，就需要去解决它。\n\n我们需要组建一支精锐部队，那里极有可能存在敌方派系，很可能卷入战斗。</ClimateBombDesc>
+  <ClimateBombDesc>侦测到在途的气候炸弹。我现在思绪很乱。是谁，又为什么将其留在这个星球上，还不得而知。但如果我们不希望下几个季节的气候发生什么状况，就需要去解决它。\n\n我们需要组建一支精锐部队，那里极有可能存在敌方派系，很可能卷入战斗。</ClimateBombDesc>
 
   <Comm_MassiveFireTitle>熊熊烈火</Comm_MassiveFireTitle>
   <Comm_MassiveFireDesc>我们定居点附近爆发了一场火灾，可能是由天气引起的。在每一分钟里，火势都愈演愈烈。令人担忧的是，火势会蔓延到附近，这也包括我们。\n我们可以寄望于雨将其熄灭，或自己去扑灭烈火。</Comm_MassiveFireDesc>
@@ -91,7 +91,7 @@
   <TakeQuestFromPawnLetter>任务 “{0}” 已接收。</TakeQuestFromPawnLetter>
   <TakeQuestFromPawnLetterDesc>你已接收任务——"{0}"。该任务的更多信息可在全息星球仪中查看。\n----------------\n{1}</TakeQuestFromPawnLetterDesc>
 
-  <Pocahontas_CardLabel>商议移民事件</Pocahontas_CardLabel>
+  <Pocahontas_CardLabel>商议移居事件</Pocahontas_CardLabel>
   <CommOption_PawnOfferYes_Label>接受 {0}</CommOption_PawnOfferYes_Label>
   <CommOption_PawnOfferYesTitle>招募协议</CommOption_PawnOfferYesTitle>
   <CommOption_PawnOfferYes>你接受了协议。殖民者 {0} 已加入你的殖民者列表。同时增进了你与派系 {1} 之间的关系。</CommOption_PawnOfferYes>
@@ -101,10 +101,10 @@
   <CommOption_DeclineQuest_Label>拒绝</CommOption_DeclineQuest_Label>
   <CommOption_DeclineDialog_Label>拒绝</CommOption_DeclineDialog_Label>
 
-  <ActualOnlyThisMap>当该访客加入你时此协议生效了。</ActualOnlyThisMap>
+  <ActualOnlyThisMap>当该访客加入你时此协议就已经生效。</ActualOnlyThisMap>
   <TimerInfo>该协议有效期为 {0} 天。</TimerInfo>
   <CommunicationDialog_PocahontasTitle>拒绝提议</CommunicationDialog_PocahontasTitle>
-  <CommunicationDialog_Pocahontas>你未接受同居提议，这降低了你与 {0} 派系的关系。</CommunicationDialog_Pocahontas>
+  <CommunicationDialog_Pocahontas>你未接受移居提议。他们认为这是一种歧视，与派系 {0} 的关系降低了。</CommunicationDialog_Pocahontas>
 
   <InspectString_Timer>剩余 {0} 天</InspectString_Timer>
   <EnterToMapQuest_Option>开始任务</EnterToMapQuest_Option>
@@ -113,7 +113,7 @@
   <LeaderStillAlive>敌方首领依旧存活。({0})</LeaderStillAlive>
 
   <QuestOption_IncreaseReward_Label>尝试提高报酬({0} - {1}) </QuestOption_IncreaseReward_Label>
-  <QuestOption_IncreaseReward_Level>{0} 技能等级不足，最低需要 {1} 级(人物技能 {2} 级)</QuestOption_IncreaseReward_Level>
+  <QuestOption_IncreaseReward_Level>{0} 技能等级不足，最低需要 {1} 级(当前 {2} 级)</QuestOption_IncreaseReward_Level>
 
   <OrderedTargetStillAlive>目标仍存活。({0})</OrderedTargetStillAlive>
   <Quest_KillOrderTitle>完成请求</Quest_KillOrderTitle>
@@ -123,7 +123,7 @@
   <CommOption_NonAgressionPact_Label>互不侵犯条约({0})</CommOption_NonAgressionPact_Label>
   <CommOption_NonAgressionPact_NotEnoughSilver>白银不足(需要 {0}，已有{1})</CommOption_NonAgressionPact_NotEnoughSilver>
   <CommOption_NonAgressionPact_SuccessTitle>条约生效</CommOption_NonAgressionPact_SuccessTitle>
-  <CommOption_NonAgressionPact_Success>你与 {0} 派系的互不侵犯契约已签署。你的谈判者 {1} 的技能等级促成了为期 {2} 天的协议。在此期间，{0} 派系将不会对你发起袭击。</CommOption_NonAgressionPact_Success>
+  <CommOption_NonAgressionPact_Success>你与 {0} 派系的互不侵犯契约已签署。你的谈判者 {1} 的技能等级促成了为期 {2} 天的协议。在此期间，{0} 派系不会对你发起袭击。</CommOption_NonAgressionPact_Success>
   <NonAfressionPackCompTitle>条约到期</NonAfressionPackCompTitle>
   <NonAfressionPackComp>与 {0} 派系的互不侵犯条约到期了。现在他们或许会再次袭击你。</NonAfressionPackComp>
 
@@ -169,15 +169,15 @@ All current agreements were broken.</Alliance_RemoveFactionDesc>
   <AllianceInformation>Alliance: {0}</AllianceInformation>
   <NoAllianceAlias>not</NoAllianceAlias>
 
-  <Alliance_Quest_ResearchSharing_StartedTitle>You arrived at the place</Alliance_Quest_ResearchSharing_StartedTitle>
-  <Alliance_Quest_ResearchSharing_StartedDesc>You have arrived at your destination. Exchange of experience will take 2 days, after which you will receive research points and your colonist.</Alliance_Quest_ResearchSharing_StartedDesc>
+  <Alliance_Quest_ResearchSharing_StartedTitle>抵达目的地</Alliance_Quest_ResearchSharing_StartedTitle>
+  <Alliance_Quest_ResearchSharing_StartedDesc>你已抵达目的地。You have arrived at your destination. Exchange of experience will take 2 days, after which you will receive research points and your colonist.</Alliance_Quest_ResearchSharing_StartedDesc>
   <CaravanArrivalAction_StartResearchSharing_Already>already started</CaravanArrivalAction_StartResearchSharing_Already>
   <AllianceManager_ActiveAgreements>Agreement</AllianceManager_ActiveAgreements>
 
   <TradeSchedulingAgreementWindow_SelectFactionLabel>Select the faction with which the agreement will be concluded.</TradeSchedulingAgreementWindow_SelectFactionLabel>
   <TradeSchedulingAgreementWindow_SelectSettlementLabel>Select settlements for supplies</TradeSchedulingAgreementWindow_SelectSettlementLabel>
   <TradeSchedulingAgreementWindow_SelectedSettlement>Settlement: {0}, travel time {1} (days)</TradeSchedulingAgreementWindow_SelectedSettlement>
-  <TradeSchedulingAgreementWindow_DaysLabelHolder>days on the road</TradeSchedulingAgreementWindow_DaysLabelHolder>
+  <TradeSchedulingAgreementWindow_DaysLabelHolder>路程耗时/天</TradeSchedulingAgreementWindow_DaysLabelHolder>
 
   <Alliance_CanSignAgreement_NoTargetGoal>Unable to enter into alliance current goal</Alliance_CanSignAgreement_NoTargetGoal>
   <Alliance_CanSignAgreement_NoSlots>Active agreement limit reached ({0})</Alliance_CanSignAgreement_NoSlots>
@@ -204,10 +204,10 @@ Cost of agreement (in trust): {3} (extra {4} for discount)</TradeSchedulingAgree
   <TradeSchedulingAgreementWindow_CantSignRightNow>Unable to sign agreement. Cause: {0}</TradeSchedulingAgreementWindow_CantSignRightNow>
   <TradeSchedulingAgreementWindow_ZeroCost>no products selected</TradeSchedulingAgreementWindow_ZeroCost>
 
-  <TradeSchedulingAgreement_CreateSucessTitle>Agreement signed</TradeSchedulingAgreement_CreateSucessTitle>
-  <TradeSchedulingAgreement_CreateSucessDesc>You have signed an agreement with the faction {0}. Goods worth {1} silver will be delivered from {2} via {3} days.</TradeSchedulingAgreement_CreateSucessDesc>
-  <DeliveryItems_Title>Items delivered</DeliveryItems_Title>
-  <DeliveryItems_Desc>Trade agreement items delivered</DeliveryItems_Desc>
+  <TradeSchedulingAgreement_CreateSucessTitle>协议已签订</TradeSchedulingAgreement_CreateSucessTitle>
+  <TradeSchedulingAgreement_CreateSucessDesc>你已与派系 {0} 签订了一份贸易协议。价值 {1} 的货物将在 {3} 天后由 {2} 送达。</TradeSchedulingAgreement_CreateSucessDesc>
+  <DeliveryItems_Title>货物送达</DeliveryItems_Title>
+  <DeliveryItems_Desc>贸易协议的货物已送达</DeliveryItems_Desc>
 
   <Alliance_CanSignAgreement_MinMembersRequired>not enough members in the alliance ({0} required)</Alliance_CanSignAgreement_MinMembersRequired>
   <TradeSchedulingAgreementCompProperties_SkilLDisabled>current negotiator cannot make an agreement, choose another</TradeSchedulingAgreementCompProperties_SkilLDisabled>
@@ -247,8 +247,8 @@ Defend: {3} ({4})</WarManager_Factions>
   <CommOption_SubscribeScout_CantSub>You cannot sign an agreement because you are at war with a faction</CommOption_SubscribeScout_CantSub>
   <CommOption_NonAgressionPact_CantSign>You cannot sign an agreement because you are at war with a faction</CommOption_NonAgressionPact_CantSign>
 
-  <Winner_Assaulters>attackers</Winner_Assaulters>
-  <Winner_Defenders>defending</Winner_Defenders>
+  <Winner_Assaulters>进攻方</Winner_Assaulters>
+  <Winner_Defenders>防守方</Winner_Defenders>
   <Winner_Draw>draw</Winner_Draw>
   <Winner_None>unknown</Winner_None>
 
@@ -277,20 +277,14 @@ Defend: {3} ({4})</WarManager_Factions>
   <DefenseContractCompWindow_ResultInfo>Trust cost for {0} days: {1}
 Support Type {2}: {3}
 Total: {4} trust</DefenseContractCompWindow_ResultInfo>
-  <DefenseContractCompWindow_CreateAgreement_NoTrust>Lack of trust</DefenseContractCompWindow_CreateAgreement_NoTrust>
+  <DefenseContractCompWindow_CreateAgreement_NoTrust>信任度不足</DefenseContractCompWindow_CreateAgreement_NoTrust>
   <DefenseContractCompWindow_CreateAgreement>To sign an agreement</DefenseContractCompWindow_CreateAgreement>
-  <DefenseContractCompWindow_CreatedTitle>Defense contract signed</DefenseContractCompWindow_CreatedTitle>
-  <DefenseContractCompWindow_CreatedDesc>Within {0} days, if you are attacked, faction {1} will send reinforcements to you.</DefenseContractCompWindow_CreatedDesc>
-  <DefenseContractComp_HelpTitle>Leg-up!</DefenseContractComp_HelpTitle>
-  <DefenseContractComp_HelpDesc>{0} send help! They will leave in 1 day</DefenseContractComp_HelpDesc>
+  <DefenseContractCompWindow_CreatedTitle>联防协议已签署</DefenseContractCompWindow_CreatedTitle>
+  <DefenseContractCompWindow_CreatedDesc>为期 {0} 天内，若你遭遇袭击，派系 {1} 会增援部队辅助你协防。</DefenseContractCompWindow_CreatedDesc>
+  <DefenseContractComp_HelpTitle>援军!</DefenseContractComp_HelpTitle>
+  <DefenseContractComp_HelpDesc>{0} 的援军来了！他们将在一天后撤退。</DefenseContractComp_HelpDesc>
 
-  <DefenseContractComp_EndTitle>Defensive contract completed</DefenseContractComp_EndTitle>
-  <DefenseContractComp_EndDesc>The duration of the defensive contract with {0} has come to an end. They will no longer send help in case of an attack on you</DefenseContractComp_EndDesc>
-
-
-  <!--[Core] <JumpToLocation>转至事件发生地点</JumpToLocation>-->
-  <!--[Core] <JumpToLocation>Jump to location</JumpToLocation>-->
-  <!--<JumpToLocation>Jump to location ({0})</JumpToLocation>-->
-  <!--<JumpToLOcation>跳转到事件位置</JumpToLOcation>-->
+  <DefenseContractComp_EndTitle>联防协议到期</DefenseContractComp_EndTitle>
+  <DefenseContractComp_EndDesc>与 {0} 的联防协议已到期。此后你遭遇袭击他们没有义务施以援手。</DefenseContractComp_EndDesc>
 
 </LanguageData>
